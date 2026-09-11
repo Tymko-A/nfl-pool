@@ -1,0 +1,20 @@
+{
+  "season": 2026,
+  "poolName": "Trash Talk Pool",
+  "entries": [
+    { "name": "Adrian", "afc": "NE",  "nfc": "TB",  "salt": "", "hash": "" },
+    { "name": "Ben",    "afc": "HOU", "nfc": "SF",  "salt": "", "hash": "" },
+    { "name": "Bill",   "afc": "PIT", "nfc": "DAL", "salt": "", "hash": "" },
+    { "name": "Chris",  "afc": "BUF", "nfc": "GB",  "salt": "", "hash": "" },
+    { "name": "Jordy",  "afc": "DEN", "nfc": "DET", "salt": "", "hash": "" },
+    { "name": "Matej",  "afc": "JAX", "nfc": "PHI", "salt": "", "hash": "" },
+    { "name": "Orest",  "afc": "BAL", "nfc": "SEA", "salt": "", "hash": "" },
+    { "name": "Taras",  "afc": "LAC", "nfc": "CAR", "salt": "", "hash": "" },
+    { "name": "Tymko",  "afc": "KC",  "nfc": "LAR", "salt": "", "hash": "" }
+  ],
+  "draftOrder": {
+    "note": "Fill this in and the Rosters tab will show the draft board. First conference in order, second conference reversed.",
+    "firstConference": "AFC",
+    "order": []
+  }
+}
