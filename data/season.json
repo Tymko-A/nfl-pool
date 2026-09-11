@@ -1,0 +1,432 @@
+{
+  "season": 2026,
+  "week": 1,
+  "updated": "Fri, 9/11, 6:14 PM ET",
+  "entries": [
+    {
+      "name": "Adrian",
+      "afc": "NE",
+      "nfc": "TB",
+      "salt": "",
+      "hash": ""
+    },
+    {
+      "name": "Ben",
+      "afc": "HOU",
+      "nfc": "SF",
+      "salt": "",
+      "hash": ""
+    },
+    {
+      "name": "Bill",
+      "afc": "PIT",
+      "nfc": "DAL",
+      "salt": "",
+      "hash": ""
+    },
+    {
+      "name": "Chris",
+      "afc": "BUF",
+      "nfc": "GB",
+      "salt": "",
+      "hash": ""
+    },
+    {
+      "name": "Jordy",
+      "afc": "DEN",
+      "nfc": "DET",
+      "salt": "",
+      "hash": ""
+    },
+    {
+      "name": "Matej",
+      "afc": "JAX",
+      "nfc": "PHI",
+      "salt": "",
+      "hash": ""
+    },
+    {
+      "name": "Orest",
+      "afc": "BAL",
+      "nfc": "SEA",
+      "salt": "",
+      "hash": ""
+    },
+    {
+      "name": "Taras",
+      "afc": "LAC",
+      "nfc": "CAR",
+      "salt": "",
+      "hash": ""
+    },
+    {
+      "name": "Tymko",
+      "afc": "KC",
+      "nfc": "LAR",
+      "salt": "",
+      "hash": ""
+    }
+  ],
+  "teams": {
+    "NE": {
+      "name": "New England Patriots",
+      "conf": "NFC",
+      "w": 0,
+      "l": 1,
+      "t": 0,
+      "pf": 10,
+      "pa": 13,
+      "color": "#002a5c"
+    },
+    "TB": {
+      "name": "Tampa Bay Buccaneers",
+      "conf": "AFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#d50a0a"
+    },
+    "HOU": {
+      "name": "Houston Texans",
+      "conf": "NFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#03202f"
+    },
+    "SF": {
+      "name": "San Francisco 49ers",
+      "conf": "AFC",
+      "w": 1,
+      "l": 0,
+      "t": 0,
+      "pf": 27,
+      "pa": 7,
+      "color": "#aa0000"
+    },
+    "PIT": {
+      "name": "Pittsburgh Steelers",
+      "conf": "NFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#ffb612"
+    },
+    "DAL": {
+      "name": "Dallas Cowboys",
+      "conf": "AFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#041e42"
+    },
+    "BUF": {
+      "name": "Buffalo Bills",
+      "conf": "NFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#00338d"
+    },
+    "GB": {
+      "name": "Green Bay Packers",
+      "conf": "AFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#203731"
+    },
+    "DEN": {
+      "name": "Denver Broncos",
+      "conf": "NFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#fb4f14"
+    },
+    "DET": {
+      "name": "Detroit Lions",
+      "conf": "AFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#0076b6"
+    },
+    "JAX": {
+      "name": "Jacksonville Jaguars",
+      "conf": "NFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#006778"
+    },
+    "PHI": {
+      "name": "Philadelphia Eagles",
+      "conf": "AFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#004c54"
+    },
+    "BAL": {
+      "name": "Baltimore Ravens",
+      "conf": "NFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#241773"
+    },
+    "SEA": {
+      "name": "Seattle Seahawks",
+      "conf": "AFC",
+      "w": 1,
+      "l": 0,
+      "t": 0,
+      "pf": 13,
+      "pa": 10,
+      "color": "#69be28"
+    },
+    "LAC": {
+      "name": "Los Angeles Chargers",
+      "conf": "NFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#0080c6"
+    },
+    "CAR": {
+      "name": "Carolina Panthers",
+      "conf": "AFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#0085ca"
+    },
+    "KC": {
+      "name": "Kansas City Chiefs",
+      "conf": "NFC",
+      "w": 0,
+      "l": 0,
+      "t": 0,
+      "pf": 0,
+      "pa": 0,
+      "color": "#e31837"
+    },
+    "LAR": {
+      "name": "Los Angeles Rams",
+      "conf": "AFC",
+      "w": 0,
+      "l": 1,
+      "t": 0,
+      "pf": 7,
+      "pa": 27,
+      "color": "#003594"
+    }
+  },
+  "results": {
+    "SEA": [
+      "W"
+    ],
+    "NE": [
+      "L"
+    ],
+    "LAR": [
+      "L"
+    ],
+    "SF": [
+      "W"
+    ]
+  },
+  "games": [
+    {
+      "when": "Wed 9/9 · Final",
+      "away": "NE",
+      "home": "SEA",
+      "done": true,
+      "leaders": [
+        [
+          "PASS",
+          "D. Lock (SEA)",
+          "16/22, 187 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "J. Price (SEA)",
+          "10 CAR, 52 YDS"
+        ],
+        [
+          "REC",
+          "J. Smith-Njigba (SEA)",
+          "8 REC, 122 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Maye (NE)",
+          "23/33, 178 YDS, 1 TD, 3 INT"
+        ],
+        [
+          "RUSH",
+          "R. Stevenson (NE)",
+          "18 CAR, 51 YDS"
+        ],
+        [
+          "REC",
+          "M. Hollins (NE)",
+          "4 REC, 51 YDS"
+        ]
+      ],
+      "as": 10,
+      "hs": 13
+    },
+    {
+      "when": "Thu 9/10 · Final",
+      "away": "SF",
+      "home": "LAR",
+      "done": true,
+      "leaders": [
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "15/25, 155 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Corum (LAR)",
+          "10 CAR, 54 YDS"
+        ],
+        [
+          "REC",
+          "P. Nacua (LAR)",
+          "5 REC, 74 YDS"
+        ],
+        [
+          "PASS",
+          "B. Purdy (SF)",
+          "25/34, 205 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. McCaffrey (SF)",
+          "10 CAR, 68 YDS"
+        ],
+        [
+          "REC",
+          "D. Robinson (SF)",
+          "2 REC, 50 YDS, 1 TD"
+        ]
+      ],
+      "as": 27,
+      "hs": 7
+    },
+    {
+      "when": "Sun 9/13 · 1:00 PM ET",
+      "away": "TB",
+      "home": "CIN",
+      "done": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/13 · 1:00 PM ET",
+      "away": "NO",
+      "home": "DET",
+      "done": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/13 · 1:00 PM ET",
+      "away": "BAL",
+      "home": "IND",
+      "done": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/13 · 1:00 PM ET",
+      "away": "ATL",
+      "home": "PIT",
+      "done": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/13 · 1:00 PM ET",
+      "away": "CHI",
+      "home": "CAR",
+      "done": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/13 · 1:00 PM ET",
+      "away": "CLE",
+      "home": "JAX",
+      "done": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/13 · 1:00 PM ET",
+      "away": "BUF",
+      "home": "HOU",
+      "done": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/13 · 4:25 PM ET",
+      "away": "GB",
+      "home": "MIN",
+      "done": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/13 · 4:25 PM ET",
+      "away": "WSH",
+      "home": "PHI",
+      "done": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/13 · 4:25 PM ET",
+      "away": "ARI",
+      "home": "LAC",
+      "done": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/13 · 8:20 PM ET",
+      "away": "DAL",
+      "home": "NYG",
+      "done": false,
+      "leaders": []
+    },
+    {
+      "when": "Mon 9/14 · 8:15 PM ET",
+      "away": "DEN",
+      "home": "KC",
+      "done": false,
+      "leaders": []
+    }
+  ]
+}
