@@ -1,11 +1,11 @@
 {
   "week": "Week 1",
-  "headline": "Ben and Orest cash in on collision wins to lead early",
-  "dek": "Week 1 brought us two NFC West collisions — and both home teams left licking their wounds. Ben's Niners and Orest's Seahawks grabbed the early advantage while five entrants sat idle watching their teams on bye.",
+  "headline": "Two down, twelve to go — early chalk holds, carnage awaits",
+  "dek": "The 2025 Trash Talk Pool season opened with a pair of tight West Coast battles Thursday night. Ben and Orest sit 1-0 while Adrian and Tymko nurse early wounds, but seven entrants haven't kicked off yet and three head-to-heads loom Sunday and Monday.",
   "takeaways": [
-    "Both collisions went to the road teams — Ben's 49ers boat-raced Tymko's Rams, Orest's Seahawks edged Adrian's Patriots in a gritty defensive affair.",
-    "Drew Lock outdueled Drake Maye in a preseason quarterback battle nobody asked for but we all had to watch anyway.",
-    "Ben's +20 net on the week is the largest margin we'll see until someone's team remembers how to play offense."
+    "The public loved the 49ers laying points on a short week — Ben's Niners covered easily and then some, 27-7.",
+    "Adrian's Patriots couldn't protect Drake Maye, who threw three picks in Seattle including a backbreaker late.",
+    "Tymko's Rams got boat-raced at home in primetime — not the start anyone saw coming for a team that spent the offseason talking big."
   ],
   "games": [
     {
@@ -13,14 +13,14 @@
       "winScore": 13,
       "loseKey": "NE",
       "loseScore": 10,
-      "text": "Orest's Seahawks survived a rock fight in Seattle, holding off Adrian's Patriots 13-10 in a game that made punters feel relevant again. Drew Lock managed the game competently enough — 16/22 for 187 yards and a touchdown — while Jaxon Smith-Njigba did the heavy lifting with 8 catches for 122 yards and the game's lone receiving score. The Patriots' Drake Maye had a forgettable debut, tossing three interceptions against just one touchdown on 23/33 passing. Rhamondre Stevenson ground out 51 yards on 18 carries, but New England's offense sputtered whenever it sniffed the red zone.\n\nThis was the week's tightest collision, and Orest walks away with the full point while Adrian takes the early collar. The margin was just three points, but those three picks from Maye were the difference — you can't gift a competent defense that many opportunities and expect to steal one on the road. Adrian's Patriots showed some fight, but moral victories don't move you up the standings when you're already sitting in eighth place after one week."
+      "text": "Orest's Seahawks edged Adrian's Patriots 13-10 in a defensive slugfest to open the season Thursday night in Seattle. Drew Lock managed the game efficiently for the Hawks, going 16-of-22 for 187 yards and a touchdown, while Jaxon Smith-Njigba hauled in 8 catches for 122 yards and the score. The Patriots' Drake Maye struggled mightily in his debut, throwing three interceptions on 23-of-33 passing despite adding a touchdown. Rhamondre Stevenson ground out 51 yards on 18 carries, but New England's offence sputtered when it mattered.\n\nThis was the first head-to-head of the season and Orest drew first blood, taking the early 1-0 edge while Adrian falls to 0-1. Both entrants have one game remaining this week — Orest's Ravens visit Indianapolis Sunday at 1 PM, while Adrian's Bucs head to Cincinnati in the same window. A 2-0 start is within reach for Orest if Baltimore takes care of business; Adrian needs Tampa to bounce back or he'll be staring at an 0-2 hole before most of the pool has even played."
     },
     {
       "winKey": "SF",
       "winScore": 27,
       "loseKey": "LAR",
       "loseScore": 7,
-      "text": "Ben's 49ers made an emphatic statement in Los Angeles, dismantling Tymko's Rams 27-7 in a game that was never competitive after the first quarter. Brock Purdy was efficient and deadly, going 25/34 for 205 yards and three touchdowns, spreading the wealth across his receiving corps. Christian McCaffrey added 68 yards on the ground on just 10 carries, reminding everyone why he's the most dangerous dual-threat back in football. The Rams' offense, meanwhile, looked completely lost — Matthew Stafford managed just 155 yards on 15/25 passing with an interception, and despite Blake Corum's 54 rushing yards, the entire unit looked out of sync.\n\nThis collision wasn't close, and Ben's 20-point net advantage has him sitting alone atop the standings after Week 1. Tymko, on the other hand, takes the worst loss of the week and finds himself in the cellar at 0-1 with a -20 net. The Rams showed nothing resembling a functional offense, and if that continues, Tymko's going to need his Chiefs to carry serious water all season long. Ben, meanwhile, can sit back and wait for his Texans to take the field, already banking a point and feeling pretty good about life."
+      "text": "Ben's 49ers dismantled Tymko's Rams 27-7 in Los Angeles in Thursday night's second game, a thorough beatdown that had the look of a playoff team toying with an overmatched opponent. Brock Purdy was surgical, completing 25-of-34 for 205 yards and three touchdowns, spreading the ball around to six different receivers. Christian McCaffrey chipped in 68 yards on the ground and Demarcus Robinson hauled in a 50-yard score. The Rams' offence, meanwhile, never got on track — Matthew Stafford threw for just 155 yards and an interception, and the LA ground game managed only 54 yards from Blake Corum on 10 carries. Puka Nacua's 5 catches for 74 yards were the lone bright spot.\n\nAnother head-to-head, another decisive result. Ben vaults to the top of the early standings with a commanding 20-point net, while Tymko sits at the bottom with a minus-20. The margin matters in a pool this tight — that 40-point swing could be the difference between a tiebreaker months from now. Ben's Texans host Chris's Bills on Sunday at 1 PM in what could be a statement game, while Tymko's Chiefs host Jordy's Broncos on Monday night. Tymko needs KC to deliver or he'll be 0-2 and chasing from the jump."
     }
   ],
   "entrants": [
@@ -28,54 +28,54 @@
       "name": "Ben",
       "result": "1-0",
       "tone": "good",
-      "text": "Leads the pool after one week with his Niners' dominant road win over the Rams. His Texans are still on bye but he's already got breathing room with a +20 net. Next week brings a collision with Chris — Bills at Texans — where Ben can extend his lead or watch it evaporate in a hurry."
+      "text": "Sitting pretty at 1-0 with a +20 net after his Niners crushed Tymko's Rams. His Texans host Chris's Bills Sunday at 1 PM in a potential 2-0 setup, though Houston will have their hands full with Buffalo's offence."
     },
     {
       "name": "Orest",
       "result": "1-0",
       "tone": "good",
-      "text": "Sits second on the tiebreaker after his Seahawks gutted out the ugly win over the Patriots. The three-point margin isn't impressive, but a collision win is a collision win. His Ravens hit the road to Indy next week, where he'll try to get to 2-0 before most of the pool wakes up."
+      "text": "Also 1-0 after his Seahawks held off Adrian's Patriots in a defensive battle. His Ravens visit Indy on Sunday — a win there and he's tied with Ben at the top of the early table."
     },
     {
       "name": "Bill, Chris, Jordy, Matej, Taras",
       "result": "0-0",
       "tone": "flat",
-      "text": "All watched Week 1 from the sidelines with both teams on bye. The good news: nobody lost ground. The bad news: Ben and Orest are already a game ahead. Chris faces a collision in Houston next week, while the others finally get on the board."
+      "text": "None of these five have played yet. Bill's Steelers and Cowboys both kick off Sunday. Chris faces a tough test with his Bills at Ben's Texans, then his Pack at Minnesota. Jordy's Lions host the Saints before his Broncos visit KC on Monday. Matej's Jags host Cleveland and his Eagles get Washington. Taras has the Panthers hosting Chicago and the Chargers hosting Arizona."
     },
     {
       "name": "Adrian",
       "result": "0-1",
       "tone": "bad",
-      "text": "Drake Maye's three-pick debut cost him the collision with Orest, and now he's chasing from eighth place. His Bucs travel to Cincinnati next week — he needs that one badly or he's staring at an 0-2 hole before September ends."
+      "text": "Off to a rough start at 0-1 after his Patriots couldn't protect Drake Maye in Seattle. His Bucs visit Cincinnati on Sunday — a loss there and he's 0-2 while the rest of the pool is just getting warmed up."
     },
     {
       "name": "Tymko",
       "result": "0-1",
       "tone": "bad",
-      "text": "The Rams laid an absolute egg at home, gifting Ben 20 net points and leaving Tymko in last place after one week. His Chiefs host Jordy's Broncos on Monday night in another collision — lose that and he's 0-2 in collisions before Week 2 even starts. Not ideal."
+      "text": "The worst opening night imaginable — his Rams got demolished at home by Ben's 49ers, leaving him 0-1 with a pool-worst minus-20 net. His Chiefs host Jordy's Broncos on Monday night in another head-to-head. Lose that and the hole gets deep fast."
     }
   ],
   "ahead": [
-    "Week 2 brings two more collisions: Chris's Bills at Ben's Texans on Sunday afternoon, and Jordy's Broncos at Tymko's Chiefs on Monday night.",
-    "Tymko desperately needs his Chiefs to show up — another collision loss would put him in a crater he might not climb out of.",
-    "Five entrants who sat out Week 1 finally get both teams in action, so the standings are about to get a lot more interesting."
+    "Sunday's 1 PM window features a massive head-to-head: Chris's Bills at Ben's Texans. Winner goes 2-0 or stays perfect.",
+    "Monday night brings Jordy's Broncos at Tymko's Chiefs — Tymko desperate to avoid 0-2, Jordy looking to start clean.",
+    "By Tuesday morning we'll know who's really in trouble and who's sitting pretty. Right now it's just Thursday night carnage and a lot of teams that haven't played yet."
   ],
   "notes": [
     {
-      "label": "Biggest swing",
-      "value": "Ben +20",
-      "sub": "Niners demolish Rams in collision"
+      "label": "Biggest swing so far",
+      "value": "Ben +20, Tymko -20",
+      "sub": "40-point gap after one game each"
     },
     {
-      "label": "Ugliest win",
-      "value": "Orest's Seahawks 13-10",
-      "sub": "Three Maye picks were the difference"
+      "label": "Head-to-heads completed",
+      "value": "2 of 5 this week",
+      "sub": "Orest over Adrian, Ben over Tymko"
     },
     {
-      "label": "Week 2 collisions",
-      "value": "2 games",
-      "sub": "BUF@HOU (Sun), DEN@KC (Mon)"
+      "label": "Still to play",
+      "value": "12 of 14 pool games",
+      "sub": "Seven entrants haven't kicked off"
     }
   ],
-  "generated": "Written Fri, 9/11, 11:41 PM ET from the nightly feed"
+  "generated": "Written Fri, 9/11, 11:53 PM ET from the nightly feed"
 }
