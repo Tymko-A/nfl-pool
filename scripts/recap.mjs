@@ -29,7 +29,13 @@ rows.sort((x, y) => y.pts - x.pts || y.net - x.net);
 
 // ── this week, per entrant ─────────────────────────────────────────────────
 const weekly = {};
-season.entries.forEach(e => { weekly[e.name] = { wins: 0, losses: 0, ties: 0, net: 0, games: [] }; });
+season.entries.forEach(e => { weekly[e.name] = { wins: 0, losses: 0, ties: 0, net: 0, games: [], pending: [] }; });
+for (const g of season.games.filter(g => !g.done)) {
+  for (const abbr of [g.away, g.home]) {
+    const o = owner[abbr];
+    if (o) weekly[o].pending.push(`${season.teams[abbr].name} — ${g.when}`);
+  }
+}
 for (const g of season.games.filter(g => g.done)) {
   for (const [abbr, own, opp] of [[g.away, g.as, g.hs], [g.home, g.hs, g.as]]) {
     const o = owner[abbr];
@@ -41,21 +47,37 @@ for (const g of season.games.filter(g => g.done)) {
   }
 }
 
+const finished = season.games.filter(g => g.done).length;
+const pending = season.games.filter(g => !g.done).length;
+
 const brief = {
   week: season.week,
+  weekStatus: pending === 0
+    ? "COMPLETE — every pool team has finished playing this week."
+    : `IN PROGRESS — ${finished} of ${finished + pending} pool games have finished; ${pending} have NOT been played yet.`,
+  gamesFinished: finished,
+  gamesNotYetPlayed: pending,
   standings: rows.map((r, i) => ({
     rank: i + 1, entrant: r.name, points: r.pts, record: `${r.w}-${r.l}-${r.t}`,
     net: r.net, afc: `${r.afc.name} ${r.afc.w}-${r.afc.l}`, nfc: `${r.nfc.name} ${r.nfc.w}-${r.nfc.l}`
   })),
   thisWeek: Object.entries(weekly).map(([name, v]) => ({
-    entrant: name, result: `${v.wins}-${v.losses}${v.ties ? "-" + v.ties : ""}`,
-    weekNet: v.net, games: v.games
+    entrant: name,
+    resultSoFar: `${v.wins}-${v.losses}${v.ties ? "-" + v.ties : ""}`,
+    weekNet: v.net,
+    finishedGames: v.games,
+    stillToPlay: v.pending,
+    status: v.pending.length === 0
+      ? "both teams have played"
+      : v.games.length === 0
+        ? `has NOT played yet this week — ${v.pending.length} game(s) still to come`
+        : `${v.games.length} played, ${v.pending.length} still to come`
   })),
   finalGames: season.games.filter(g => g.done).map(g => ({
     matchup: `${season.teams[g.away]?.name ?? g.away} at ${season.teams[g.home]?.name ?? g.home}`,
     score: `${g.as}-${g.hs}`,
     awayOwner: owner[g.away] ?? null, homeOwner: owner[g.home] ?? null,
-    collision: Boolean(owner[g.away] && owner[g.home]),
+    headToHead: Boolean(owner[g.away] && owner[g.home]),
     leaders: g.leaders
   })),
   upcoming: season.games.filter(g => !g.done).map(g => ({
@@ -71,16 +93,29 @@ THE POOL
 Each entrant holds two teams, one AFC and one NFC. A win is 1 point, a tie 0.5, a loss or bye 0.
 Most combined points at the end of the regular season wins. Ties break on combined net points
 (points for minus points against), then head-to-head, then points for. Playoffs do not count.
-When two entrants' teams play each other it is a "collision" — one gains a point, the other cannot.
+When two entrants' teams play each other it is a "head-to-head" — one gains a point, the other cannot.
 
 HOUSE STYLE — study the examples below and match them
 - Always name the entrant alongside the team: "Ben's 49ers", "Adrian's Patriots", "Jordy's Broncos".
 - Be funny at the entrants' expense, never mean. Rib the losers, deflate the winners a little.
 - Lead with what the result means for the pool, not just what happened in the game.
 - Use the real player lines you are given. Never invent a statistic, a player, or a quarter-by-quarter.
-- Call out collisions explicitly — they are the most interesting thing that happens in any week.
+- Call out head-to-heads explicitly — they are the most interesting thing that happens in any week.
+- Use the phrase "head-to-head", never "collision".
 - Point forward: who plays whom next week, who is about to be in trouble.
 - Running gags are welcome. Emoji sparingly or not at all.
+
+FACTUAL DISCIPLINE — read weekStatus before you write a word
+- If weekStatus says IN PROGRESS, the week is NOT over. Write it as a week underway: some results
+  in, most still to come. Never summarise it as finished and never crown a weekly winner outright —
+  say who leads so far and who can still catch them.
+- A team with no result yet this week has NOT PLAYED YET. That is not a bye, not a loss and not a
+  draw. Never use the word "bye" unless a team is explicitly described as being on one.
+- An entrant showing 0-0 has simply not kicked off yet. Do not write them as having had a bad week
+  or a quiet week — they have had no week at all so far.
+- Use each entrant's "status" and "stillToPlay" fields to say what is coming, by day and time.
+- The only completed games are those in finalGames. Everything in "upcoming" has not happened;
+  never describe, score or characterise those games as though they have.
 
 OUTPUT
 Return ONLY valid JSON, no prose around it, matching exactly this shape:
