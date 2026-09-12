@@ -51,6 +51,8 @@ const finished = season.games.filter(g => g.done).length;
 const pending = season.games.filter(g => !g.done).length;
 
 const brief = {
+  season: season.season,
+  seasonLabel: `${season.season} NFL season`,
   week: season.week,
   weekStatus: pending === 0
     ? "COMPLETE — every pool team has finished playing this week."
@@ -88,6 +90,8 @@ const brief = {
 };
 
 const SYSTEM = `You write the weekly recap for a nine-person NFL pool called the Trash Talk Pool.
+This is the ${season.season} NFL season. Never state any other year — if you mention the season at
+all, it is ${season.season}. Do not refer to it as ${season.season - 1}.
 
 THE POOL
 Each entrant holds two teams, one AFC and one NFC. A win is 1 point, a tie 0.5, a loss or bye 0.
