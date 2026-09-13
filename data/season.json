@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated": "Sun, 9/13, 4:03 PM ET",
+  "updated": "Sun, 9/13, 4:08 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -82,10 +82,10 @@
       "name": "Tampa Bay Buccaneers",
       "conf": "AFC",
       "w": 0,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 27,
+      "pa": 33,
       "color": "#d50a0a"
     },
     "HOU": {
@@ -250,6 +250,18 @@
     }
   },
   "results": {
+    "CIN": [
+      "W"
+    ],
+    "TB": [
+      "L"
+    ],
+    "TEN": [
+      "L"
+    ],
+    "NYJ": [
+      "W"
+    ],
     "JAX": [
       "W"
     ],
@@ -272,9 +284,51 @@
   "games": [
     {
       "when": "Sun 9/13 · Final",
+      "away": "TB",
+      "home": "CIN",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Burrow (CIN)",
+          "25/35, 254 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. Brown (CIN)",
+          "16 CAR, 56 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "M. Gesicki (CIN)",
+          "5 REC, 78 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "B. Mayfield (TB)",
+          "23/28, 216 YDS"
+        ],
+        [
+          "RUSH",
+          "B. Irving (TB)",
+          "8 CAR, 45 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "E. Egbuka (TB)",
+          "5 REC, 63 YDS"
+        ]
+      ],
+      "as": 27,
+      "hs": 33
+    },
+    {
+      "when": "Sun 9/13 · Final",
       "away": "CLE",
       "home": "JAX",
       "done": true,
+      "live": false,
       "leaders": [
         [
           "PASS",
@@ -315,6 +369,7 @@
       "away": "NE",
       "home": "SEA",
       "done": true,
+      "live": false,
       "leaders": [
         [
           "PASS",
@@ -355,6 +410,7 @@
       "away": "SF",
       "home": "LAR",
       "done": true,
+      "live": false,
       "leaders": [
         [
           "PASS",
@@ -391,52 +447,66 @@
       "hs": 7
     },
     {
-      "when": "Sun 9/13 · 1:00 PM ET",
-      "away": "TB",
-      "home": "CIN",
-      "done": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 9/13 · 1:00 PM ET",
+      "when": "Sun 9/13 · 1:23 - 4th",
       "away": "NO",
       "home": "DET",
       "done": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 17,
+      "hs": 24,
+      "clock": "1:23 - 4th"
     },
     {
-      "when": "Sun 9/13 · 1:00 PM ET",
+      "when": "Sun 9/13 · 2:00 - 4th",
       "away": "BAL",
       "home": "IND",
       "done": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 41,
+      "hs": 23,
+      "clock": "2:00 - 4th"
     },
     {
-      "when": "Sun 9/13 · 1:00 PM ET",
+      "when": "Sun 9/13 · 2:00 - 4th",
       "away": "ATL",
       "home": "PIT",
       "done": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 13,
+      "hs": 20,
+      "clock": "2:00 - 4th"
     },
     {
-      "when": "Sun 9/13 · 1:00 PM ET",
+      "when": "Sun 9/13 · 6:27 - 4th",
       "away": "CHI",
       "home": "CAR",
       "done": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 52,
+      "hs": 31,
+      "clock": "6:27 - 4th"
     },
     {
-      "when": "Sun 9/13 · 1:00 PM ET",
+      "when": "Sun 9/13 · 1:36 - 4th",
       "away": "BUF",
       "home": "HOU",
       "done": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 36,
+      "hs": 31,
+      "clock": "1:36 - 4th"
     },
     {
       "when": "Sun 9/13 · 4:25 PM ET",
       "away": "GB",
       "home": "MIN",
       "done": false,
+      "live": false,
       "leaders": []
     },
     {
@@ -444,6 +514,7 @@
       "away": "WSH",
       "home": "PHI",
       "done": false,
+      "live": false,
       "leaders": []
     },
     {
@@ -451,6 +522,7 @@
       "away": "ARI",
       "home": "LAC",
       "done": false,
+      "live": false,
       "leaders": []
     },
     {
@@ -458,6 +530,7 @@
       "away": "DAL",
       "home": "NYG",
       "done": false,
+      "live": false,
       "leaders": []
     },
     {
@@ -465,6 +538,7 @@
       "away": "DEN",
       "home": "KC",
       "done": false,
+      "live": false,
       "leaders": []
     }
   ]
