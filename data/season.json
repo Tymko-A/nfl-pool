@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated": "Sun, 9/13, 4:35 PM ET",
+  "updated": "Sun, 9/13, 5:02 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -161,11 +161,11 @@
     "DET": {
       "name": "Detroit Lions",
       "conf": "AFC",
-      "w": 0,
+      "w": 1,
       "l": 0,
       "t": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 31,
+      "pa": 30,
       "color": "#0076b6"
     },
     "JAX": {
@@ -222,10 +222,10 @@
       "name": "Carolina Panthers",
       "conf": "AFC",
       "w": 0,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 37,
+      "pa": 59,
       "color": "#0085ca"
     },
     "KC": {
@@ -256,6 +256,12 @@
     "TB": [
       "L"
     ],
+    "DET": [
+      "W"
+    ],
+    "NO": [
+      "L"
+    ],
     "TEN": [
       "L"
     ],
@@ -273,6 +279,12 @@
     ],
     "ATL": [
       "L"
+    ],
+    "CAR": [
+      "L"
+    ],
+    "CHI": [
+      "W"
     ],
     "JAX": [
       "W"
@@ -340,6 +352,47 @@
       ],
       "as": 27,
       "hs": 33
+    },
+    {
+      "when": "Sun 9/13 · Final",
+      "away": "NO",
+      "home": "DET",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Goff (DET)",
+          "26/39, 206 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "J. Gibbs (DET)",
+          "29 CAR, 156 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "A. St. Brown (DET)",
+          "10 REC, 67 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "T. Shough (NO)",
+          "35/56, 410 YDS, 3 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "T. Etienne Jr. (NO)",
+          "9 CAR, 46 YDS"
+        ],
+        [
+          "REC",
+          "C. Olave (NO)",
+          "10 REC, 182 YDS"
+        ]
+      ],
+      "as": 30,
+      "hs": 31
     },
     {
       "when": "Sun 9/13 · Final",
@@ -422,6 +475,47 @@
       ],
       "as": 13,
       "hs": 20
+    },
+    {
+      "when": "Sun 9/13 · Final",
+      "away": "CHI",
+      "home": "CAR",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Young (CAR)",
+          "23/37, 361 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. Hubbard (CAR)",
+          "10 CAR, 49 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "J. Coker (CAR)",
+          "8 REC, 138 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "C. Williams (CHI)",
+          "21/29, 269 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "D. Swift (CHI)",
+          "18 CAR, 124 YDS, 3 TD"
+        ],
+        [
+          "REC",
+          "K. Raymond (CHI)",
+          "8 REC, 84 YDS"
+        ]
+      ],
+      "as": 59,
+      "hs": 37
     },
     {
       "when": "Sun 9/13 · Final",
@@ -588,59 +682,37 @@
       "hs": 7
     },
     {
-      "when": "Sun 9/13 · 4:17 - OT",
-      "away": "NO",
-      "home": "DET",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 24,
-      "hs": 31,
-      "clock": "4:17 - OT"
-    },
-    {
-      "when": "Sun 9/13 · 0:34 - 4th",
-      "away": "CHI",
-      "home": "CAR",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 59,
-      "hs": 37,
-      "clock": "0:34 - 4th"
-    },
-    {
-      "when": "Sun 9/13 · 12:11 - 1st",
+      "when": "Sun 9/13 · 5:08 - 1st",
       "away": "GB",
       "home": "MIN",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 3,
+      "as": 9,
       "hs": 0,
-      "clock": "12:11 - 1st"
+      "clock": "5:08 - 1st"
     },
     {
-      "when": "Sun 9/13 · 11:18 - 1st",
+      "when": "Sun 9/13 · 14:11 - 2nd",
       "away": "WSH",
       "home": "PHI",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 3,
-      "hs": 0,
-      "clock": "11:18 - 1st"
+      "hs": 7,
+      "clock": "14:11 - 2nd"
     },
     {
-      "when": "Sun 9/13 · 8:49 - 1st",
+      "when": "Sun 9/13 · 13:22 - 2nd",
       "away": "ARI",
       "home": "LAC",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 6,
-      "hs": 0,
-      "clock": "8:49 - 1st"
+      "as": 7,
+      "hs": 7,
+      "clock": "13:22 - 2nd"
     },
     {
       "when": "Sun 9/13 · 8:20 PM ET",
