@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated": "Sun, 9/13, 7:03 PM ET",
+  "updated": "Sun, 9/13, 7:33 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -212,10 +212,10 @@
       "name": "Los Angeles Chargers",
       "conf": "NFC",
       "w": 0,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 14,
+      "pa": 26,
       "color": "#0080c6"
     },
     "CAR": {
@@ -250,6 +250,12 @@
     }
   },
   "results": {
+    "LV": [
+      "W"
+    ],
+    "MIA": [
+      "L"
+    ],
     "CIN": [
       "W"
     ],
@@ -296,6 +302,12 @@
       "L"
     ],
     "BUF": [
+      "W"
+    ],
+    "LAC": [
+      "L"
+    ],
+    "ARI": [
       "W"
     ],
     "SEA": [
@@ -600,6 +612,47 @@
       "hs": 31
     },
     {
+      "when": "Sun 9/13 · Final",
+      "away": "ARI",
+      "home": "LAC",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Herbert (LAC)",
+          "17/27, 209 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "O. Hampton (LAC)",
+          "12 CAR, 43 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "L. McConkey (LAC)",
+          "5 REC, 82 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "J. Brissett (ARI)",
+          "27/37, 277 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "T. Allgeier (ARI)",
+          "17 CAR, 61 YDS"
+        ],
+        [
+          "REC",
+          "T. McBride (ARI)",
+          "9 REC, 95 YDS, 1 TD"
+        ]
+      ],
+      "as": 26,
+      "hs": 14
+    },
+    {
       "when": "Wed 9/9 · Final",
       "away": "NE",
       "home": "SEA",
@@ -682,37 +735,26 @@
       "hs": 7
     },
     {
-      "when": "Sun 9/13 · 13:11 - 4th",
+      "when": "Sun 9/13 · 3:52 - 4th",
       "away": "GB",
       "home": "MIN",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 22,
-      "hs": 17,
-      "clock": "13:11 - 4th"
+      "hs": 39,
+      "clock": "3:52 - 4th"
     },
     {
-      "when": "Sun 9/13 · 9:59 - 4th",
+      "when": "Sun 9/13 · 1:01 - 4th",
       "away": "WSH",
       "home": "PHI",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 16,
-      "hs": 17,
-      "clock": "9:59 - 4th"
-    },
-    {
-      "when": "Sun 9/13 · 7:47 - 4th",
-      "away": "ARI",
-      "home": "LAC",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 23,
-      "hs": 14,
-      "clock": "7:47 - 4th"
+      "as": 22,
+      "hs": 24,
+      "clock": "1:01 - 4th"
     },
     {
       "when": "Sun 9/13 · 8:20 PM ET",
