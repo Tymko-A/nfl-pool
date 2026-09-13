@@ -34,11 +34,12 @@ const ET = d => new Date(d).toLocaleString("en-US", {
   hour: "numeric", minute: "2-digit"
 });
 
-function slot(iso, state) {
+function slot(iso, state, detail) {
   const d = new Date(iso);
   const day = d.toLocaleString("en-US", { timeZone:"America/New_York", weekday:"short" });
   const date = d.toLocaleString("en-US", { timeZone:"America/New_York", month:"numeric", day:"numeric" });
   if (state === "post") return `${day} ${date} · Final`;
+  if (state === "in") return `${day} ${date} · ${detail || "In progress"}`;
   const time = d.toLocaleString("en-US", { timeZone:"America/New_York", hour:"numeric", minute:"2-digit" });
   return `${day} ${date} · ${time} ET`;
 }
@@ -106,14 +107,22 @@ async function weekGames(week, poolTeams) {
     const aA = norm(away.team.abbreviation), hA = norm(home.team.abbreviation);
     if (!poolTeams.has(aA) && !poolTeams.has(hA)) continue;
 
-    const done = comp.status?.type?.state === "post";
+    const state = comp.status?.type?.state;   // "pre" | "in" | "post"
+    const done = state === "post";
+    const live = state === "in";
     const g = {
-      when: slot(ev.date, comp.status?.type?.state),
-      away: aA, home: hA, done, leaders: []
+      when: slot(ev.date, state, comp.status?.type?.shortDetail),
+      away: aA, home: hA, done, live, leaders: []
     };
-    if (done) {
+    if (done || live) {
       g.as = Number(away.score);
       g.hs = Number(home.score);
+    }
+    if (live) {
+      // e.g. "3rd 4:21" — shown in place of the kickoff time
+      g.clock = comp.status?.type?.shortDetail ?? "In progress";
+    }
+    if (done) {
       try {
         const sum = await get(`${BASE}/summary?event=${ev.id}`);
         const cats = { passingYards:"PASS", rushingYards:"RUSH", receivingYards:"REC" };
@@ -131,7 +140,7 @@ async function weekGames(week, poolTeams) {
     }
     games.push(g);
   }
-  games.sort((x, y) => Number(y.done) - Number(x.done));
+  games.sort((x, y) => Number(y.done) - Number(x.done) || Number(y.live) - Number(x.live));
   return games;
 }
 
