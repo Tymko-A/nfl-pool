@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated": "Sun, 9/13, 3:32 PM ET",
+  "updated": "Sun, 9/13, 4:03 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -171,11 +171,11 @@
     "JAX": {
       "name": "Jacksonville Jaguars",
       "conf": "NFC",
-      "w": 0,
+      "w": 1,
       "l": 0,
       "t": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 34,
+      "pa": 10,
       "color": "#006778"
     },
     "PHI": {
@@ -250,6 +250,12 @@
     }
   },
   "results": {
+    "JAX": [
+      "W"
+    ],
+    "CLE": [
+      "L"
+    ],
     "SEA": [
       "W"
     ],
@@ -264,6 +270,46 @@
     ]
   },
   "games": [
+    {
+      "when": "Sun 9/13 · Final",
+      "away": "CLE",
+      "home": "JAX",
+      "done": true,
+      "leaders": [
+        [
+          "PASS",
+          "T. Lawrence (JAX)",
+          "18/23, 245 YDS, 4 TD"
+        ],
+        [
+          "RUSH",
+          "B. Tuten (JAX)",
+          "15 CAR, 66 YDS"
+        ],
+        [
+          "REC",
+          "P. Washington (JAX)",
+          "5 REC, 83 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Watson (CLE)",
+          "16/22, 205 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "D. Watson (CLE)",
+          "6 CAR, 38 YDS"
+        ],
+        [
+          "REC",
+          "D. Boston (CLE)",
+          "2 REC, 59 YDS, 1 TD"
+        ]
+      ],
+      "as": 10,
+      "hs": 34
+    },
     {
       "when": "Wed 9/9 · Final",
       "away": "NE",
@@ -376,13 +422,6 @@
       "when": "Sun 9/13 · 1:00 PM ET",
       "away": "CHI",
       "home": "CAR",
-      "done": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 9/13 · 1:00 PM ET",
-      "away": "CLE",
-      "home": "JAX",
       "done": false,
       "leaders": []
     },
