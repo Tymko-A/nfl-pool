@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated": "Mon, 9/14, 12:12 AM ET",
+  "updated": "Mon, 9/14, 12:43 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -250,6 +250,18 @@
     }
   },
   "results": {
+    "SEA": [
+      "W"
+    ],
+    "NE": [
+      "L"
+    ],
+    "LAR": [
+      "L"
+    ],
+    "SF": [
+      "W"
+    ],
     "CIN": [
       "W"
     ],
@@ -327,21 +339,91 @@
     ],
     "DAL": [
       "L"
-    ],
-    "SEA": [
-      "W"
-    ],
-    "NE": [
-      "L"
-    ],
-    "LAR": [
-      "L"
-    ],
-    "SF": [
-      "W"
     ]
   },
   "games": [
+    {
+      "when": "Wed 9/9 · Final",
+      "away": "NE",
+      "home": "SEA",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Lock (SEA)",
+          "16/22, 187 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "J. Price (SEA)",
+          "10 CAR, 52 YDS"
+        ],
+        [
+          "REC",
+          "J. Smith-Njigba (SEA)",
+          "8 REC, 122 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Maye (NE)",
+          "23/33, 178 YDS, 1 TD, 3 INT"
+        ],
+        [
+          "RUSH",
+          "R. Stevenson (NE)",
+          "18 CAR, 51 YDS"
+        ],
+        [
+          "REC",
+          "M. Hollins (NE)",
+          "4 REC, 51 YDS"
+        ]
+      ],
+      "as": 10,
+      "hs": 13
+    },
+    {
+      "when": "Thu 9/10 · Final",
+      "away": "SF",
+      "home": "LAR",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "15/25, 155 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Corum (LAR)",
+          "10 CAR, 54 YDS"
+        ],
+        [
+          "REC",
+          "P. Nacua (LAR)",
+          "5 REC, 74 YDS"
+        ],
+        [
+          "PASS",
+          "B. Purdy (SF)",
+          "25/34, 205 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. McCaffrey (SF)",
+          "10 CAR, 68 YDS"
+        ],
+        [
+          "REC",
+          "D. Robinson (SF)",
+          "2 REC, 50 YDS, 1 TD"
+        ]
+      ],
+      "as": 27,
+      "hs": 7
+    },
     {
       "when": "Sun 9/13 · Final",
       "away": "TB",
@@ -792,88 +874,6 @@
       ],
       "as": 20,
       "hs": 28
-    },
-    {
-      "when": "Wed 9/9 · Final",
-      "away": "NE",
-      "home": "SEA",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "D. Lock (SEA)",
-          "16/22, 187 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "J. Price (SEA)",
-          "10 CAR, 52 YDS"
-        ],
-        [
-          "REC",
-          "J. Smith-Njigba (SEA)",
-          "8 REC, 122 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "D. Maye (NE)",
-          "23/33, 178 YDS, 1 TD, 3 INT"
-        ],
-        [
-          "RUSH",
-          "R. Stevenson (NE)",
-          "18 CAR, 51 YDS"
-        ],
-        [
-          "REC",
-          "M. Hollins (NE)",
-          "4 REC, 51 YDS"
-        ]
-      ],
-      "as": 10,
-      "hs": 13
-    },
-    {
-      "when": "Thu 9/10 · Final",
-      "away": "SF",
-      "home": "LAR",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "M. Stafford (LAR)",
-          "15/25, 155 YDS, 1 INT"
-        ],
-        [
-          "RUSH",
-          "B. Corum (LAR)",
-          "10 CAR, 54 YDS"
-        ],
-        [
-          "REC",
-          "P. Nacua (LAR)",
-          "5 REC, 74 YDS"
-        ],
-        [
-          "PASS",
-          "B. Purdy (SF)",
-          "25/34, 205 YDS, 3 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "C. McCaffrey (SF)",
-          "10 CAR, 68 YDS"
-        ],
-        [
-          "REC",
-          "D. Robinson (SF)",
-          "2 REC, 50 YDS, 1 TD"
-        ]
-      ],
-      "as": 27,
-      "hs": 7
     },
     {
       "when": "Mon 9/14 · 8:15 PM ET",
