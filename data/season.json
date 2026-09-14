@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated": "Sun, 9/13, 8:17 PM ET",
+  "updated": "Sun, 9/13, 8:46 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -829,12 +829,15 @@
       "hs": 7
     },
     {
-      "when": "Sun 9/13 · 8:20 PM ET",
+      "when": "Sun 9/13 · 6:40 - 1st",
       "away": "DAL",
       "home": "NYG",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 7,
+      "clock": "6:40 - 1st"
     },
     {
       "when": "Mon 9/14 · 8:15 PM ET",
