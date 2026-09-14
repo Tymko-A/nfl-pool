@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated": "Sun, 9/13, 7:33 PM ET",
+  "updated": "Sun, 9/13, 8:17 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -142,10 +142,10 @@
       "name": "Green Bay Packers",
       "conf": "AFC",
       "w": 0,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 22,
+      "pa": 39,
       "color": "#203731"
     },
     "DEN": {
@@ -181,11 +181,11 @@
     "PHI": {
       "name": "Philadelphia Eagles",
       "conf": "AFC",
-      "w": 0,
+      "w": 1,
       "l": 0,
       "t": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 24,
+      "pa": 22,
       "color": "#004c54"
     },
     "BAL": {
@@ -250,12 +250,6 @@
     }
   },
   "results": {
-    "LV": [
-      "W"
-    ],
-    "MIA": [
-      "L"
-    ],
     "CIN": [
       "W"
     ],
@@ -303,6 +297,24 @@
     ],
     "BUF": [
       "W"
+    ],
+    "LV": [
+      "W"
+    ],
+    "MIA": [
+      "L"
+    ],
+    "MIN": [
+      "W"
+    ],
+    "GB": [
+      "L"
+    ],
+    "PHI": [
+      "W"
+    ],
+    "WSH": [
+      "L"
     ],
     "LAC": [
       "L"
@@ -613,6 +625,88 @@
     },
     {
       "when": "Sun 9/13 · Final",
+      "away": "GB",
+      "home": "MIN",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "C. Wentz (MIN)",
+          "12/19, 133 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "J. Mason (MIN)",
+          "15 CAR, 59 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "J. Jefferson (MIN)",
+          "8 REC, 92 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "J. Love (GB)",
+          "21/42, 387 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "M. Lloyd (GB)",
+          "13 CAR, 37 YDS"
+        ],
+        [
+          "REC",
+          "C. Watson (GB)",
+          "6 REC, 147 YDS, 2 TD"
+        ]
+      ],
+      "as": 22,
+      "hs": 39
+    },
+    {
+      "when": "Sun 9/13 · Final",
+      "away": "WSH",
+      "home": "PHI",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Hurts (PHI)",
+          "14/25, 203 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "S. Barkley (PHI)",
+          "15 CAR, 83 YDS"
+        ],
+        [
+          "REC",
+          "D. Goedert (PHI)",
+          "4 REC, 77 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "J. Daniels (WSH)",
+          "18/34, 164 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "J. Croskey-Merritt (WSH)",
+          "16 CAR, 63 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "A. Williams (WSH)",
+          "4 REC, 64 YDS, 1 TD"
+        ]
+      ],
+      "as": 22,
+      "hs": 24
+    },
+    {
+      "when": "Sun 9/13 · Final",
       "away": "ARI",
       "home": "LAC",
       "done": true,
@@ -733,28 +827,6 @@
       ],
       "as": 27,
       "hs": 7
-    },
-    {
-      "when": "Sun 9/13 · 3:52 - 4th",
-      "away": "GB",
-      "home": "MIN",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 22,
-      "hs": 39,
-      "clock": "3:52 - 4th"
-    },
-    {
-      "when": "Sun 9/13 · 1:01 - 4th",
-      "away": "WSH",
-      "home": "PHI",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 22,
-      "hs": 24,
-      "clock": "1:01 - 4th"
     },
     {
       "when": "Sun 9/13 · 8:20 PM ET",
