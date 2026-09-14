@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated": "Sun, 9/13, 11:12 PM ET",
+  "updated": "Sun, 9/13, 11:43 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -122,10 +122,10 @@
       "name": "Dallas Cowboys",
       "conf": "AFC",
       "w": 0,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 20,
+      "pa": 28,
       "color": "#041e42"
     },
     "BUF": {
@@ -321,6 +321,12 @@
     ],
     "ARI": [
       "W"
+    ],
+    "NYG": [
+      "W"
+    ],
+    "DAL": [
+      "L"
     ],
     "SEA": [
       "W"
@@ -747,6 +753,47 @@
       "hs": 14
     },
     {
+      "when": "Sun 9/13 · Final",
+      "away": "DAL",
+      "home": "NYG",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Dart (NYG)",
+          "23/29, 230 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "C. Skattebo (NYG)",
+          "18 CAR, 81 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "I. Likely (NYG)",
+          "8 REC, 78 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "D. Prescott (DAL)",
+          "22/34, 175 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Williams (DAL)",
+          "12 CAR, 41 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "C. Lamb (DAL)",
+          "5 REC, 44 YDS, 1 TD"
+        ]
+      ],
+      "as": 20,
+      "hs": 28
+    },
+    {
       "when": "Wed 9/9 · Final",
       "away": "NE",
       "home": "SEA",
@@ -827,17 +874,6 @@
       ],
       "as": 27,
       "hs": 7
-    },
-    {
-      "when": "Sun 9/13 · 5:21 - 4th",
-      "away": "DAL",
-      "home": "NYG",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 20,
-      "hs": 28,
-      "clock": "5:21 - 4th"
     },
     {
       "when": "Mon 9/14 · 8:15 PM ET",
