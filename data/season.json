@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated": "Mon, 9/14, 9:13 PM ET",
+  "updated": "Mon, 9/14, 9:43 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -876,15 +876,15 @@
       "hs": 28
     },
     {
-      "when": "Mon 9/14 · 8:41 - 2nd",
+      "when": "Mon 9/14 · Halftime",
       "away": "DEN",
       "home": "KC",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 7,
-      "hs": 7,
-      "clock": "8:41 - 2nd"
+      "hs": 14,
+      "clock": "Halftime"
     }
   ]
 }
