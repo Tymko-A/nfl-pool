@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated": "Mon, 9/14, 10:43 PM ET",
+  "updated": "Mon, 9/14, 11:14 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -876,7 +876,7 @@
       "hs": 28
     },
     {
-      "when": "Mon 9/14 · 14:39 - 4th",
+      "when": "Mon 9/14 · 0:40 - 4th",
       "away": "DEN",
       "home": "KC",
       "done": false,
@@ -884,7 +884,7 @@
       "leaders": [],
       "as": 10,
       "hs": 31,
-      "clock": "14:39 - 4th"
+      "clock": "0:40 - 4th"
     }
   ]
 }
