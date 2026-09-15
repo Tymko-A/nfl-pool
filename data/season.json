@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 1,
-  "updated": "Mon, 9/14, 11:14 PM ET",
+  "updated": "Mon, 9/14, 11:43 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -152,10 +152,10 @@
       "name": "Denver Broncos",
       "conf": "NFC",
       "w": 0,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 10,
+      "pa": 31,
       "color": "#fb4f14"
     },
     "DET": {
@@ -231,11 +231,11 @@
     "KC": {
       "name": "Kansas City Chiefs",
       "conf": "NFC",
-      "w": 0,
+      "w": 1,
       "l": 0,
       "t": 0,
-      "pf": 0,
-      "pa": 0,
+      "pf": 31,
+      "pa": 10,
       "color": "#e31837"
     },
     "LAR": {
@@ -250,6 +250,12 @@
     }
   },
   "results": {
+    "KC": [
+      "W"
+    ],
+    "DEN": [
+      "L"
+    ],
     "SEA": [
       "W"
     ],
@@ -342,6 +348,47 @@
     ]
   },
   "games": [
+    {
+      "when": "Mon 9/14 · Final",
+      "away": "DEN",
+      "home": "KC",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "P. Mahomes (KC)",
+          "15/27, 184 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "K. Walker III (KC)",
+          "23 CAR, 173 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "T. Kelce (KC)",
+          "3 REC, 71 YDS"
+        ],
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "17/28, 131 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J.K. Dobbins (DEN)",
+          "8 CAR, 36 YDS"
+        ],
+        [
+          "REC",
+          "E. Engram (DEN)",
+          "4 REC, 43 YDS, 1 TD"
+        ]
+      ],
+      "as": 10,
+      "hs": 31
+    },
     {
       "when": "Wed 9/9 · Final",
       "away": "NE",
@@ -874,17 +921,6 @@
       ],
       "as": 20,
       "hs": 28
-    },
-    {
-      "when": "Mon 9/14 · 0:40 - 4th",
-      "away": "DEN",
-      "home": "KC",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 10,
-      "hs": 31,
-      "clock": "0:40 - 4th"
     }
   ]
 }
