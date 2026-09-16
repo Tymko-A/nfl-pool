@@ -1,11 +1,17 @@
-// Writes this week's recap by sending the week's real numbers to Claude,
+// Writes the recap of the COMPLETED week by sending its real numbers to Claude,
 // in the house style defined by style/examples.md.
 //
 //   ANTHROPIC_API_KEY=sk-... node scripts/recap.mjs
 //
 // Run by .github/workflows/recap.yml on Tuesday mornings, after MNF.
-// Every number in the prompt comes from data/season.json — the model writes
-// the sentences, never the stats.
+// Every number in the prompt comes from ESPN or data/season.json — the model
+// writes the sentences, never the stats.
+//
+// IMPORTANT: data/season.json tracks the week ESPN calls current, which flips to
+// the NEXT week as soon as the previous one finishes. Recapping season.week
+// therefore produced a preview of unplayed games. This script instead picks the
+// most recent week that actually has finished pool games and fetches THAT week's
+// scores itself.
 
 import { readFile, writeFile } from "node:fs/promises";
 
@@ -18,6 +24,92 @@ const examples = await readFile("style/examples.md", "utf8");
 const owner = {};
 season.entries.forEach(e => { owner[e.afc] = e.name; owner[e.nfc] = e.name; });
 
+const poolTeams = new Set(season.entries.flatMap(e => [e.afc, e.nfc]));
+const ESPN = "https://site.api.espn.com/apis/site/v2/sports/football/nfl";
+const ALIAS = { WAS:"WSH", OAK:"LV", SD:"LAC", STL:"LAR" };
+const norm = a => ALIAS[a] || a;
+
+async function get(url) {
+  const res = await fetch(url, { headers: { "user-agent": "trash-talk-pool/1.0" } });
+  if (!res.ok) throw new Error(`${res.status} ${res.statusText} — ${url}`);
+  return res.json();
+}
+
+function slotLabel(iso, state, detail) {
+  const d = new Date(iso);
+  const opts = { timeZone:"America/New_York" };
+  const day = d.toLocaleString("en-US", { ...opts, weekday:"short" });
+  const date = d.toLocaleString("en-US", { ...opts, month:"numeric", day:"numeric" });
+  if (state === "post") return `${day} ${date} · Final`;
+  if (state === "in") return `${day} ${date} · ${detail || "In progress"}`;
+  const time = d.toLocaleString("en-US", { ...opts, hour:"numeric", minute:"2-digit" });
+  return `${day} ${date} · ${time} ET`;
+}
+
+// Pool games for one week, with player leaders on the finished ones.
+async function weekGames(week, withLeaders) {
+  const sb = await get(`${ESPN}/scoreboard?seasontype=2&week=${week}&dates=${season.season}`);
+  const games = [];
+  for (const ev of sb.events ?? []) {
+    const comp = ev.competitions[0];
+    const away = comp.competitors.find(c => c.homeAway === "away");
+    const home = comp.competitors.find(c => c.homeAway === "home");
+    const aA = norm(away.team.abbreviation), hA = norm(home.team.abbreviation);
+    if (!poolTeams.has(aA) && !poolTeams.has(hA)) continue;
+
+    const state = comp.status?.type?.state;      // "pre" | "in" | "post"
+    const done = state === "post";
+    const g = {
+      when: slotLabel(ev.date, state, comp.status?.type?.shortDetail),
+      kickoffISO: ev.date,
+      away: aA, home: hA, done, live: state === "in", leaders: []
+    };
+    if (state !== "pre") { g.as = Number(away.score); g.hs = Number(home.score); }
+    if (done && withLeaders) {
+      try {
+        const sum = await get(`${ESPN}/summary?event=${ev.id}`);
+        const cats = { passingYards:"PASS", rushingYards:"RUSH", receivingYards:"REC" };
+        for (const team of sum.leaders ?? []) {
+          const abbr = norm(team.team?.abbreviation ?? "");
+          for (const cat of team.leaders ?? []) {
+            const tag = cats[cat.name];
+            const l = cat.leaders?.[0];
+            if (tag && l) g.leaders.push([tag, `${l.athlete?.shortName ?? l.athlete?.displayName} (${abbr})`, l.displayValue]);
+          }
+        }
+      } catch { /* summary unavailable — the score still stands */ }
+    }
+    games.push(g);
+  }
+  return games;
+}
+
+// The week to recap: the latest week whose pool games are all finished. Walk
+// back from ESPN's current week so a Tuesday run recaps the weekend just gone.
+let recapWeek = null, recapGames = null;
+for (let w = season.week; w >= 1; w--) {
+  const games = await weekGames(w, false);
+  if (games.length && games.every(g => g.done)) { recapWeek = w; break; }
+}
+if (recapWeek === null) {
+  console.error(`No completed week found at or before week ${season.week} — nothing to recap yet.`);
+  process.exit(0);
+}
+recapGames = await weekGames(recapWeek, true);
+console.log(`Recapping week ${recapWeek} (season.week is ${season.week}) — ${recapGames.length} pool games`);
+
+// The week ahead, for the forward-looking lines only.
+const nextWeek = recapWeek + 1;
+const nextGames = nextWeek <= 18 ? await weekGames(nextWeek, false) : [];
+
+const teamName = a => season.teams[a]?.name ?? a;
+
+// Today, stated explicitly: without it the model guesses and writes "tonight"
+// about a game that is days away.
+const nowET = new Date().toLocaleString("en-US", {
+  timeZone:"America/New_York", weekday:"long", month:"long", day:"numeric", year:"numeric"
+});
+
 // ── build the standings the same way the site does ─────────────────────────
 const rows = season.entries.map(e => {
   const a = season.teams[e.afc], n = season.teams[e.nfc];
@@ -27,65 +119,60 @@ const rows = season.entries.map(e => {
 });
 rows.sort((x, y) => y.pts - x.pts || y.net - x.net);
 
-// ── this week, per entrant ─────────────────────────────────────────────────
+// ── the recapped week, per entrant ─────────────────────────────────────────
 const weekly = {};
-season.entries.forEach(e => { weekly[e.name] = { wins: 0, losses: 0, ties: 0, net: 0, games: [], pending: [] }; });
-for (const g of season.games.filter(g => !g.done)) {
+season.entries.forEach(e => { weekly[e.name] = { wins: 0, losses: 0, ties: 0, net: 0, games: [], next: [] }; });
+for (const g of nextGames) {
   for (const abbr of [g.away, g.home]) {
     const o = owner[abbr];
-    if (o) weekly[o].pending.push(`${season.teams[abbr].name} — ${g.when}`);
+    if (o) weekly[o].next.push(`${teamName(abbr)} — ${g.when}`);
   }
 }
-for (const g of season.games.filter(g => g.done)) {
+for (const g of recapGames.filter(g => g.done)) {
   for (const [abbr, own, opp] of [[g.away, g.as, g.hs], [g.home, g.hs, g.as]]) {
     const o = owner[abbr];
     if (!o) continue;
     const t = weekly[o];
     t.net += own - opp;
     if (own > opp) t.wins++; else if (own < opp) t.losses++; else t.ties++;
-    t.games.push(`${season.teams[abbr].name} ${own}-${opp}`);
+    t.games.push(`${teamName(abbr)} ${own}-${opp}`);
   }
 }
 
-const finished = season.games.filter(g => g.done).length;
-const pending = season.games.filter(g => !g.done).length;
+const finished = recapGames.filter(g => g.done).length;
 
 const brief = {
   season: season.season,
   seasonLabel: `${season.season} NFL season`,
-  week: season.week,
-  weekStatus: pending === 0
-    ? "COMPLETE — every pool team has finished playing this week."
-    : `IN PROGRESS — ${finished} of ${finished + pending} pool games have finished; ${pending} have NOT been played yet.`,
+  weekBeingRecapped: recapWeek,
+  weekStatus: `COMPLETE — all ${finished} pool games in Week ${recapWeek} are final. This is a look BACK at that week.`,
+  todayIs: nowET + " (Eastern)",
+  nextWeekNumber: nextWeek,
   gamesFinished: finished,
-  gamesNotYetPlayed: pending,
   standings: rows.map((r, i) => ({
     rank: i + 1, entrant: r.name, points: r.pts, record: `${r.w}-${r.l}-${r.t}`,
     net: r.net, afc: `${r.afc.name} ${r.afc.w}-${r.afc.l}`, nfc: `${r.nfc.name} ${r.nfc.w}-${r.nfc.l}`
   })),
-  thisWeek: Object.entries(weekly).map(([name, v]) => ({
+  weekResults: Object.entries(weekly).map(([name, v]) => ({
     entrant: name,
-    resultSoFar: `${v.wins}-${v.losses}${v.ties ? "-" + v.ties : ""}`,
+    weekRecord: `${v.wins}-${v.losses}${v.ties ? "-" + v.ties : ""}`,
+    weekPoints: v.wins + v.ties * 0.5,
     weekNet: v.net,
-    finishedGames: v.games,
-    stillToPlay: v.pending,
-    status: v.pending.length === 0
-      ? "both teams have played"
-      : v.games.length === 0
-        ? `has NOT played yet this week — ${v.pending.length} game(s) still to come`
-        : `${v.games.length} played, ${v.pending.length} still to come`
+    gamesPlayed: v.games,
+    nextWeekGames: v.next
   })),
-  finalGames: season.games.filter(g => g.done).map(g => ({
-    matchup: `${season.teams[g.away]?.name ?? g.away} at ${season.teams[g.home]?.name ?? g.home}`,
+  finalGames: recapGames.filter(g => g.done).map(g => ({
+    matchup: `${teamName(g.away)} at ${teamName(g.home)}`,
     score: `${g.as}-${g.hs}`,
+    winner: g.as === g.hs ? "tie" : teamName(g.as > g.hs ? g.away : g.home),
     awayOwner: owner[g.away] ?? null, homeOwner: owner[g.home] ?? null,
     headToHead: Boolean(owner[g.away] && owner[g.home]),
     leaders: g.leaders
   })),
-  upcoming: season.games.filter(g => !g.done).map(g => ({
-    matchup: `${season.teams[g.away]?.name ?? g.away} at ${season.teams[g.home]?.name ?? g.home}`,
+  nextWeekSchedule: nextGames.map(g => ({
+    matchup: `${teamName(g.away)} at ${teamName(g.home)}`,
     when: g.when, awayOwner: owner[g.away] ?? null, homeOwner: owner[g.home] ?? null,
-    collision: Boolean(owner[g.away] && owner[g.home])
+    headToHead: Boolean(owner[g.away] && owner[g.home])
   }))
 };
 
@@ -109,34 +196,44 @@ HOUSE STYLE — study the examples below and match them
 - Point forward: who plays whom next week, who is about to be in trouble.
 - Running gags are welcome. Emoji sparingly or not at all.
 
-FACTUAL DISCIPLINE — read weekStatus before you write a word
-- If weekStatus says IN PROGRESS, the week is NOT over. Write it as a week underway: some results
-  in, most still to come. Never summarise it as finished and never crown a weekly winner outright —
-  say who leads so far and who can still catch them.
-- A team with no result yet this week has NOT PLAYED YET. That is not a bye, not a loss and not a
-  draw. Never use the word "bye" unless a team is explicitly described as being on one.
-- An entrant showing 0-0 has simply not kicked off yet. Do not write them as having had a bad week
-  or a quiet week — they have had no week at all so far.
-- Use each entrant's "status" and "stillToPlay" fields to say what is coming, by day and time.
-- The only completed games are those in finalGames. Everything in "upcoming" has not happened;
-  never describe, score or characterise those games as though they have.
+WHAT THIS PIECE IS
+This is a RECAP of Week ${recapWeek}, which is OVER. It is not a preview. Write about what
+happened: the games that were played, the scores, who gained ground and who lost it. The bulk of
+the piece is the week just finished. Only the "ahead" lines and the last clause of each entrant
+note look forward.
+
+FACTUAL DISCIPLINE
+- Every game in finalGames has been PLAYED. Recap it in the past tense with the score you are given.
+- Write one "games" entry for every game in finalGames, and no entries for anything else.
+- nextWeekSchedule has NOT been played. Never score it, never describe how it went, and never
+  call any of it a result. Use it only to say who plays whom next.
+- Each entrant's weekRecord is what they did in Week ${recapWeek}. Do not describe an entrant as
+  "not having played yet" — the week is complete.
+- Never invent a statistic, a player or a quarter-by-quarter. Use only the leaders provided.
+- A team with no game in finalGames was on a bye that week; say so only if that is the case.
+
+DATES — todayIs in the brief is the real current date
+- Never write "tonight", "today", "tomorrow" or "this afternoon" about a scheduled game. Work out
+  the relationship between todayIs and the game's day, and name the DAY instead: "Thursday night",
+  "Sunday afternoon". If in doubt, name the day and the time and nothing more.
+- Do not claim next week begins tonight unless todayIs is genuinely the day of that kickoff.
 
 OUTPUT
 Return ONLY valid JSON, no prose around it, matching exactly this shape:
 
 {
-  "week": "Week N",
-  "headline": "short, punchy, under 70 characters",
-  "dek": "one or two sentences setting up the week",
-  "takeaways": ["3 or 4 short observations"],
+  "week": "Week ${recapWeek}",
+  "headline": "short, punchy, under 70 characters — about what HAPPENED in Week ${recapWeek}",
+  "dek": "one or two sentences summing up the week that was",
+  "takeaways": ["3 or 4 short observations about the completed week"],
   "games": [
     { "winKey": "SEA", "winScore": 13, "loseKey": "NE", "loseScore": 10,
       "text": "two or three paragraphs separated by \\n\\n — football detail first, pool consequence second" }
   ],
   "entrants": [
-    { "name": "Ben", "result": "2-0", "tone": "good|bad|flat", "text": "one or two sentences, including what's next for them" }
+    { "name": "Ben", "result": "2-0", "tone": "good|bad|flat", "text": "one or two sentences on their Week ${recapWeek}, ending with what they face next week" }
   ],
-  "ahead": ["2 or 3 forward-looking lines"],
+  "ahead": ["2 or 3 lines on Week ${nextWeek}, naming the day of each game"],
   "notes": [
     { "label": "Biggest swing", "value": "short", "sub": "short" },
     { "label": "...", "value": "...", "sub": "..." },
@@ -144,9 +241,10 @@ Return ONLY valid JSON, no prose around it, matching exactly this shape:
   ]
 }
 
-Use the exact team abbreviations from the brief for winKey/loseKey. One "games" entry per
-completed game. One "entrants" entry per entrant, ordered best week first; you may group
-entrants who all had identical uneventful weeks into a single entry with their names joined.
+Use the exact team abbreviations from the brief for winKey/loseKey, and set "result" from each
+entrant's weekRecord. One "games" entry per game in finalGames. One "entrants" entry per entrant,
+ordered best week first; you may group entrants who all had identical uneventful weeks into a
+single entry with their names joined.
 
 STYLE EXAMPLES FROM PREVIOUS SEASONS
 ${examples}`;
@@ -172,7 +270,7 @@ async function ask(extraSystem) {
       max_tokens: MAX_TOKENS,
       system: extraSystem ? SYSTEM + "\n\n" + extraSystem : SYSTEM,
       messages: [
-        { role: "user", content: `Write the Week ${season.week} recap from this brief.\n\n${JSON.stringify(brief, null, 2)}` },
+        { role: "user", content: `Write the Week ${recapWeek} recap — a look back at the completed week — from this brief.\n\n${JSON.stringify(brief, null, 2)}` },
         // Prefill the opening brace so the reply can only be the JSON object.
         { role: "assistant", content: "{" }
       ]
@@ -232,7 +330,10 @@ if (!recap.headline || !Array.isArray(recap.games) || !Array.isArray(recap.entra
 }
 recap.generated = `Written ${season.updated} from the nightly feed`;
 
+recap.week = `Week ${recapWeek}`;
+recap.weekNumber = recapWeek;
+
 season.recap = recap;
 await writeFile("data/season.json", JSON.stringify(season, null, 2));
-await writeFile(`data/recap-week-${season.week}.json`, JSON.stringify(recap, null, 2));
-console.log(`Wrote Week ${season.week} recap — "${recap.headline}"`);
+await writeFile(`data/recap-week-${recapWeek}.json`, JSON.stringify(recap, null, 2));
+console.log(`Wrote Week ${recapWeek} recap — "${recap.headline}"`);
