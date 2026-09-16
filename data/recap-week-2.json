@@ -1,0 +1,66 @@
+{
+  "week": "Week 2",
+  "headline": "Week 2 kicks off Thursday — three head-to-heads loom large",
+  "dek": "The second week of pool play begins tonight with Jordy's Lions visiting Chris's Bills in Buffalo. After one week, Matej and Orest sit tied atop the standings at 2-0, while Adrian and Taras are searching for their first points.",
+  "takeaways": [
+    "Three head-to-heads on the slate — Thursday night's Lions-Bills matchup, Sunday's Steelers-Patriots battle, and a key AFC showdown when Matej's Jags visit Jordy's Broncos",
+    "The 2-0 club of Matej and Orest will try to extend their perfect starts, but both face tricky road tests",
+    "Adrian and Taras desperately need results after going winless in Week 1 — both are staring at 0-4 if things go sideways"
+  ],
+  "games": [],
+  "entrants": [
+    {
+      "name": "Matej",
+      "result": "0-0",
+      "tone": "good",
+      "text": "Leads the pool at 2-0 after a strong opening week, but hasn't kicked off yet. His Eagles travel to Tennessee at 1:00 PM Sunday, then his Jags face a huge head-to-head at Denver at 4:05 PM — a chance to put distance on Jordy or watch the gap close."
+    },
+    {
+      "name": "Orest",
+      "result": "0-0",
+      "tone": "good",
+      "text": "Tied for first at 2-0 with a plus-21 net. His Ravens host the Saints in the early window Sunday, then his Hawks travel to Arizona in the late afternoon slot. Two road favourites could be tricky, but he's positioned well."
+    },
+    {
+      "name": "Ben, Tymko, Bill, Chris, Jordy",
+      "result": "0-0",
+      "tone": "flat",
+      "text": "All five sit at 1-1 after Week 1 and none have played yet. Chris and Jordy meet head-to-head Thursday night, while Bill hosts a head-to-head Sunday afternoon when his Steelers visit Adrian's Patriots. Tymko waits until Sunday night and Monday for both his games."
+    },
+    {
+      "name": "Adrian",
+      "result": "0-0",
+      "tone": "bad",
+      "text": "Winless at 0-2 and staring at a potential 0-4 hole. His Patriots host Bill's Steelers in a head-to-head Sunday at 1:00 PM, then his Bucs host Cleveland in the same window. Needs at least a split to avoid falling too far behind."
+    },
+    {
+      "name": "Taras",
+      "result": "0-0",
+      "tone": "bad",
+      "text": "Also 0-2 after a rough opening week with a minus-34 net. His Panthers visit Atlanta at 1:00 PM Sunday and his Chargers host the Raiders at 4:05 PM. Two home dogs makes the climb back to respectability steep."
+    }
+  ],
+  "ahead": [
+    "Thursday night's Lions-Bills head-to-head sets the tone — Jordy needs to stop the slide after his Broncos lost Week 1, while Chris looks to build on his Bills' opening win",
+    "Sunday's three-game afternoon window features two more head-to-heads and could dramatically reshape the standings",
+    "Tymko's teams play last — his Chiefs host Indy on Sunday night, then his Rams host the Giants on Monday night, giving him a chance to watch the chaos unfold before his fate is decided"
+  ],
+  "notes": [
+    {
+      "label": "Most interesting game",
+      "value": "Jaguars at Broncos",
+      "sub": "Matej vs Jordy, 4:05 PM Sunday"
+    },
+    {
+      "label": "Biggest chance to move",
+      "value": "Adrian",
+      "sub": "Can climb from 0-2 to 2-2 with a head-to-head win and a home result"
+    },
+    {
+      "label": "Danger zone",
+      "value": "Taras",
+      "sub": "Two losses as dogs could put him at 0-4 with worst net in the pool"
+    }
+  ],
+  "generated": "Written Wed, 9/16, 9:24 AM ET from the nightly feed"
+}
