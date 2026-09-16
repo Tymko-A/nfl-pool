@@ -151,34 +151,83 @@ entrants who all had identical uneventful weeks into a single entry with their n
 STYLE EXAMPLES FROM PREVIOUS SEASONS
 ${examples}`;
 
-const res = await fetch("https://api.anthropic.com/v1/messages", {
-  method: "POST",
-  headers: {
-    "content-type": "application/json",
-    "x-api-key": KEY,
-    "anthropic-version": "2023-06-01"
-  },
-  body: JSON.stringify({
-    model: "claude-sonnet-4-5",
-    max_tokens: 4000,
-    system: SYSTEM,
-    messages: [{
-      role: "user",
-      content: `Write the Week ${season.week} recap from this brief.\n\n${JSON.stringify(brief, null, 2)}`
-    }]
-  })
-});
+const MODEL = process.env.RECAP_MODEL || "claude-sonnet-4-5";
 
-if (!res.ok) { console.error(await res.text()); process.exit(1); }
-const body = await res.json();
-let text = body.content.map(c => c.text ?? "").join("").trim();
-text = text.replace(/^```(?:json)?\s*/i, "").replace(/\s*```$/, "");
+// A full week of finals needs far more room than 4k: the prompt asks for two or
+// three paragraphs per completed game plus an entry per entrant. If the answer
+// is cut off at the cap the JSON is truncated and unparseable, which is how this
+// job failed in Week 2 with 4000.
+const MAX_TOKENS = Number(process.env.RECAP_MAX_TOKENS || 16000);
 
-let recap;
-try {
-  recap = JSON.parse(text);
-} catch (e) {
-  console.error("Model did not return valid JSON:\n", text.slice(0, 800));
+async function ask(extraSystem) {
+  const res = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "content-type": "application/json",
+      "x-api-key": KEY,
+      "anthropic-version": "2023-06-01"
+    },
+    body: JSON.stringify({
+      model: MODEL,
+      max_tokens: MAX_TOKENS,
+      system: extraSystem ? SYSTEM + "\n\n" + extraSystem : SYSTEM,
+      messages: [
+        { role: "user", content: `Write the Week ${season.week} recap from this brief.\n\n${JSON.stringify(brief, null, 2)}` },
+        // Prefill the opening brace so the reply can only be the JSON object.
+        { role: "assistant", content: "{" }
+      ]
+    })
+  });
+
+  if (!res.ok) {
+    console.error(`Anthropic API returned ${res.status} ${res.statusText} for model "${MODEL}"`);
+    console.error((await res.text()).slice(0, 1200));
+    process.exit(1);
+  }
+
+  const body = await res.json();
+  const stop = body.stop_reason;
+  let text = "{" + body.content.map(c => c.text ?? "").join("");
+  text = text.replace(/^\s*```(?:json)?\s*/i, "").replace(/\s*```\s*$/, "").trim();
+
+  console.log(`model=${MODEL} stop_reason=${stop} in=${body.usage?.input_tokens} out=${body.usage?.output_tokens}/${MAX_TOKENS}`);
+  return { text, stop };
+}
+
+function parseRecap(text) {
+  try { return JSON.parse(text); } catch (e) {}
+  // Trailing prose or a stray fence: take the outermost object and retry.
+  const a = text.indexOf("{"), b = text.lastIndexOf("}");
+  if (a >= 0 && b > a) {
+    try { return JSON.parse(text.slice(a, b + 1)); } catch (e) {}
+  }
+  return null;
+}
+
+let { text, stop } = await ask();
+let recap = stop === "max_tokens" ? null : parseRecap(text);
+
+if (!recap) {
+  // One shorter retry: same facts, less prose, so it fits comfortably.
+  console.error(stop === "max_tokens"
+    ? `Reply hit the ${MAX_TOKENS}-token cap and was truncated — retrying with a tighter brief.`
+    : "First reply did not parse as JSON — retrying with a tighter brief.");
+  const r2 = await ask(
+    "LENGTH LIMIT: keep every \"games\" text to ONE short paragraph and every " +
+    "\"entrants\" text to ONE sentence. Group entrants with identical uneventful " +
+    "weeks into a single entry. The complete JSON object must be finished."
+  );
+  recap = r2.stop === "max_tokens" ? null : parseRecap(r2.text);
+  if (!recap) {
+    console.error("Still no valid JSON. stop_reason=" + r2.stop + "\nFirst 1200 chars:\n" + r2.text.slice(0, 1200));
+    process.exit(1);
+  }
+}
+
+// Don't overwrite a good recap with a structurally broken one.
+if (!recap.headline || !Array.isArray(recap.games) || !Array.isArray(recap.entrants)) {
+  console.error("Recap JSON is missing headline/games/entrants — refusing to write it.");
+  console.error(JSON.stringify(recap).slice(0, 800));
   process.exit(1);
 }
 recap.generated = `Written ${season.updated} from the nightly feed`;
