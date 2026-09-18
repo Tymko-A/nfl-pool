@@ -5,7 +5,7 @@
 //
 // Run by .github/workflows/update.yml on a schedule.
 
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir, readdir } from "node:fs/promises";
 
 const SEASON = 2026;
 const BASE = "https://site.api.espn.com/apis/site/v2/sports/football/nfl";
@@ -158,6 +158,30 @@ for (const abbr of poolTeams) {
   teams[abbr] = allTeams[abbr];
 }
 
+// The recap lives inside season.json but is written by scripts/recap.mjs on its own
+// schedule. This script rebuilds season.json from scratch, so it must carry the
+// existing recap forward — otherwise every data refresh erases it and the page
+// falls back to the stale built-in recap.
+let priorRecap = null;
+try {
+  const prev = JSON.parse(await readFile("data/season.json", "utf8"));
+  if (prev?.recap?.headline) priorRecap = prev.recap;
+} catch { /* first run, or no data yet */ }
+
+// Belt and braces: recap.mjs also archives data/recap-week-N.json. If one of those
+// is newer than whatever season.json carried, prefer it.
+try {
+  const weeks = (await readdir("data"))
+    .map(f => f.match(/^recap-week-(\d+)\.json$/))
+    .filter(Boolean).map(m => Number(m[1]));
+  if (weeks.length) {
+    const latest = Math.max(...weeks);
+    if (!priorRecap || Number(priorRecap.weekNumber || 0) < latest) {
+      priorRecap = JSON.parse(await readFile(`data/recap-week-${latest}.json`, "utf8"));
+    }
+  }
+} catch { /* no archive yet */ }
+
 const out = {
   season: SEASON,
   week,
@@ -167,6 +191,13 @@ const out = {
   results: await weeklyResults(week),
   games: await weekGames(week, poolTeams)
 };
+
+if (priorRecap) {
+  out.recap = priorRecap;
+  console.log(`Carried forward the ${priorRecap.week || "existing"} recap`);
+} else {
+  console.log("No existing recap to carry forward");
+}
 
 await mkdir("data", { recursive: true });
 await writeFile("data/season.json", JSON.stringify(out, null, 2));
