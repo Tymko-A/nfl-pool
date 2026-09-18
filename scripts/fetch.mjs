@@ -168,17 +168,25 @@ try {
   if (prev?.recap?.headline) priorRecap = prev.recap;
 } catch { /* first run, or no data yet */ }
 
-// Belt and braces: recap.mjs also archives data/recap-week-N.json. If one of those
-// is newer than whatever season.json carried, prefer it.
+// Belt and braces: recap.mjs also archives data/recap-week-N.json. Every archive
+// ships as `recaps` so the page can offer the whole season, and the newest one is
+// also the single `recap` the current-week card reads.
+let allRecaps = [];
 try {
-  const weeks = (await readdir("data"))
-    .map(f => f.match(/^recap-week-(\d+)\.json$/))
-    .filter(Boolean).map(m => Number(m[1]));
-  if (weeks.length) {
-    const latest = Math.max(...weeks);
-    if (!priorRecap || Number(priorRecap.weekNumber || 0) < latest) {
-      priorRecap = JSON.parse(await readFile(`data/recap-week-${latest}.json`, "utf8"));
-    }
+  const files = (await readdir("data")).filter(f => /^recap-week-\d+\.json$/.test(f));
+  for (const f of files) {
+    try {
+      const r = JSON.parse(await readFile(`data/${f}`, "utf8"));
+      if (r?.headline) allRecaps.push(r);
+    } catch { /* skip a broken archive */ }
+  }
+  const wk = r => Number(r.weekNumber || String(r.week || "").replace(/\D+/g, "")) || 0;
+  allRecaps.sort((a, b) => wk(a) - wk(b));
+  const newest = allRecaps[allRecaps.length - 1];
+  if (newest && (!priorRecap || wk(priorRecap) < wk(newest))) priorRecap = newest;
+  if (priorRecap && !allRecaps.some(r => wk(r) === wk(priorRecap))) {
+    allRecaps.push(priorRecap);
+    allRecaps.sort((a, b) => wk(a) - wk(b));
   }
 } catch { /* no archive yet */ }
 
@@ -194,7 +202,8 @@ const out = {
 
 if (priorRecap) {
   out.recap = priorRecap;
-  console.log(`Carried forward the ${priorRecap.week || "existing"} recap`);
+  out.recaps = allRecaps.length ? allRecaps : [priorRecap];
+  console.log(`Carried forward ${out.recaps.length} recap(s); current is ${priorRecap.week || "unlabelled"}`);
 } else {
   console.log("No existing recap to carry forward");
 }
