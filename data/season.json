@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Thu, 9/17, 5:02 AM ET",
+  "updated": "Fri, 9/18, 5:02 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -131,11 +131,11 @@
     "BUF": {
       "name": "Buffalo Bills",
       "conf": "NFC",
-      "w": 1,
+      "w": 2,
       "l": 0,
       "t": 0,
-      "pf": 36,
-      "pa": 31,
+      "pf": 77,
+      "pa": 62,
       "color": "#00338d"
     },
     "GB": {
@@ -162,10 +162,10 @@
       "name": "Detroit Lions",
       "conf": "AFC",
       "w": 1,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 31,
-      "pa": 30,
+      "pf": 62,
+      "pa": 71,
       "color": "#0076b6"
     },
     "JAX": {
@@ -276,7 +276,7 @@
     ],
     "DET": [
       "W",
-      ""
+      "L"
     ],
     "NO": [
       "L",
@@ -328,7 +328,7 @@
     ],
     "BUF": [
       "W",
-      ""
+      "W"
     ],
     "LV": [
       "W",
@@ -381,12 +381,45 @@
   },
   "games": [
     {
-      "when": "Thu 9/17 · 8:15 PM ET",
+      "when": "Thu 9/17 · Final",
       "away": "DET",
       "home": "BUF",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "J. Allen (BUF)",
+          "20/31, 248 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "J. Cook III (BUF)",
+          "21 CAR, 135 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "D. Kincaid (BUF)",
+          "7 REC, 95 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "J. Goff (DET)",
+          "26/38, 327 YDS, 4 TD"
+        ],
+        [
+          "RUSH",
+          "J. Gibbs (DET)",
+          "16 CAR, 52 YDS"
+        ],
+        [
+          "REC",
+          "A. St. Brown (DET)",
+          "9 REC, 142 YDS, 2 TD"
+        ]
+      ],
+      "as": 31,
+      "hs": 41
     },
     {
       "when": "Sun 9/20 · 1:00 PM ET",
