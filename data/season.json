@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Sun, 9/20, 4:34 PM ET",
+  "updated": "Sun, 9/20, 5:03 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -141,11 +141,11 @@
     "GB": {
       "name": "Green Bay Packers",
       "conf": "AFC",
-      "w": 0,
+      "w": 1,
       "l": 1,
       "t": 0,
-      "pf": 22,
-      "pa": 39,
+      "pf": 42,
+      "pa": 56,
       "color": "#203731"
     },
     "DEN": {
@@ -288,7 +288,7 @@
     ],
     "NYJ": [
       "W",
-      ""
+      "L"
     ],
     "IND": [
       "L",
@@ -344,7 +344,7 @@
     ],
     "GB": [
       "L",
-      ""
+      "W"
     ],
     "PHI": [
       "W",
@@ -505,6 +505,47 @@
     },
     {
       "when": "Sun 9/20 · Final",
+      "away": "GB",
+      "home": "NYJ",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "G. Smith (NYJ)",
+          "27/41, 247 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "B. Hall (NYJ)",
+          "16 CAR, 29 YDS"
+        ],
+        [
+          "REC",
+          "B. Hall (NYJ)",
+          "5 REC, 63 YDS"
+        ],
+        [
+          "PASS",
+          "J. Love (GB)",
+          "16/29, 145 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "K. Johnson (GB)",
+          "8 CAR, 32 YDS"
+        ],
+        [
+          "REC",
+          "M. Golden (GB)",
+          "4 REC, 58 YDS"
+        ]
+      ],
+      "as": 20,
+      "hs": 17
+    },
+    {
+      "when": "Sun 9/20 · Final",
       "away": "NO",
       "home": "BAL",
       "done": true,
@@ -627,17 +668,6 @@
       "hs": 41
     },
     {
-      "when": "Sun 9/20 · 6:16 - OT",
-      "away": "GB",
-      "home": "NYJ",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 17,
-      "hs": 17,
-      "clock": "6:16 - OT"
-    },
-    {
       "when": "Sun 9/20 · Delayed",
       "away": "CLE",
       "home": "TB",
@@ -649,59 +679,59 @@
       "clock": "Delayed"
     },
     {
-      "when": "Sun 9/20 · 3:38 - 1st",
+      "when": "Sun 9/20 · 7:01 - 2nd",
       "away": "JAX",
       "home": "DEN",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 0,
-      "hs": 0,
-      "clock": "3:38 - 1st"
+      "as": 7,
+      "hs": 3,
+      "clock": "7:01 - 2nd"
     },
     {
-      "when": "Sun 9/20 · 3:29 - 1st",
+      "when": "Sun 9/20 · 8:13 - 2nd",
       "away": "LV",
       "home": "LAC",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 0,
+      "as": 7,
       "hs": 0,
-      "clock": "3:29 - 1st"
+      "clock": "8:13 - 2nd"
     },
     {
-      "when": "Sun 9/20 · 10:01 - 1st",
+      "when": "Sun 9/20 · 13:22 - 2nd",
       "away": "WSH",
       "home": "DAL",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 0,
-      "hs": 7,
-      "clock": "10:01 - 1st"
+      "hs": 10,
+      "clock": "13:22 - 2nd"
     },
     {
-      "when": "Sun 9/20 · 12:18 - 1st",
+      "when": "Sun 9/20 · 13:36 - 2nd",
       "away": "SEA",
       "home": "ARI",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 7,
-      "hs": 0,
-      "clock": "12:18 - 1st"
+      "hs": 7,
+      "clock": "13:36 - 2nd"
     },
     {
-      "when": "Sun 9/20 · 10:28 - 1st",
+      "when": "Sun 9/20 · 9:56 - 2nd",
       "away": "MIA",
       "home": "SF",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 0,
-      "hs": 0,
-      "clock": "10:28 - 1st"
+      "as": 3,
+      "hs": 7,
+      "clock": "9:56 - 2nd"
     },
     {
       "when": "Sun 9/20 · 8:20 PM ET",
