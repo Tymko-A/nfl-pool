@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Sun, 9/20, 3:02 PM ET",
+  "updated": "Sun, 9/20, 3:32 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -422,81 +422,81 @@
       "hs": 41
     },
     {
-      "when": "Sun 9/20 · 13:14 - 3rd",
+      "when": "Sun 9/20 · End of 3rd",
       "away": "CAR",
       "home": "ATL",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 20,
+      "as": 34,
       "hs": 3,
-      "clock": "13:14 - 3rd"
+      "clock": "End of 3rd"
     },
     {
-      "when": "Sun 9/20 · 1:45 - 3rd",
+      "when": "Sun 9/20 · 6:00 - 4th",
       "away": "PHI",
       "home": "TEN",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 17,
-      "hs": 10,
-      "clock": "1:45 - 3rd"
+      "hs": 17,
+      "clock": "6:00 - 4th"
     },
     {
-      "when": "Sun 9/20 · 3:55 - 3rd",
+      "when": "Sun 9/20 · 12:03 - 4th",
       "away": "PIT",
       "home": "NE",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 3,
-      "hs": 10,
-      "clock": "3:55 - 3rd"
+      "hs": 20,
+      "clock": "12:03 - 4th"
     },
     {
-      "when": "Sun 9/20 · 8:20 - 3rd",
+      "when": "Sun 9/20 · 14:13 - 4th",
       "away": "GB",
       "home": "NYJ",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 7,
-      "hs": 7,
-      "clock": "8:20 - 3rd"
+      "hs": 14,
+      "clock": "14:13 - 4th"
     },
     {
-      "when": "Sun 9/20 · 3:45 - 3rd",
+      "when": "Sun 9/20 · 12:51 - 4th",
       "away": "CLE",
       "home": "TB",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 9,
+      "as": 16,
       "hs": 16,
-      "clock": "3:45 - 3rd"
+      "clock": "12:51 - 4th"
     },
     {
-      "when": "Sun 9/20 · 1:41 - 3rd",
+      "when": "Sun 9/20 · 5:41 - 4th",
       "away": "NO",
       "home": "BAL",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 9,
+      "as": 17,
       "hs": 17,
-      "clock": "1:41 - 3rd"
+      "clock": "5:41 - 4th"
     },
     {
-      "when": "Sun 9/20 · 9:51 - 3rd",
+      "when": "Sun 9/20 · 13:44 - 4th",
       "away": "CIN",
       "home": "HOU",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 10,
-      "hs": 3,
-      "clock": "9:51 - 3rd"
+      "as": 17,
+      "hs": 6,
+      "clock": "13:44 - 4th"
     },
     {
       "when": "Sun 9/20 · 4:05 PM ET",
