@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Sun, 9/20, 6:34 PM ET",
+  "updated": "Sun, 9/20, 7:03 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -151,11 +151,11 @@
     "DEN": {
       "name": "Denver Broncos",
       "conf": "NFC",
-      "w": 0,
+      "w": 1,
       "l": 1,
       "t": 0,
-      "pf": 10,
-      "pa": 31,
+      "pf": 30,
+      "pa": 44,
       "color": "#fb4f14"
     },
     "DET": {
@@ -172,10 +172,10 @@
       "name": "Jacksonville Jaguars",
       "conf": "NFC",
       "w": 1,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 34,
-      "pa": 10,
+      "pf": 47,
+      "pa": 30,
       "color": "#006778"
     },
     "PHI": {
@@ -316,7 +316,7 @@
     ],
     "JAX": [
       "W",
-      ""
+      "L"
     ],
     "CLE": [
       "L",
@@ -376,10 +376,51 @@
     ],
     "DEN": [
       "L",
-      ""
+      "W"
     ]
   },
   "games": [
+    {
+      "when": "Sun 9/20 · Final",
+      "away": "JAX",
+      "home": "DEN",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "22/31, 288 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Coleman (DEN)",
+          "10 CAR, 39 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "J. Waddle (DEN)",
+          "8 REC, 138 YDS"
+        ],
+        [
+          "PASS",
+          "T. Lawrence (JAX)",
+          "17/29, 189 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Tuten (JAX)",
+          "13 CAR, 65 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "P. Washington (JAX)",
+          "7 REC, 98 YDS"
+        ]
+      ],
+      "as": 13,
+      "hs": 20
+    },
     {
       "when": "Sun 9/20 · Final",
       "away": "CAR",
@@ -709,51 +750,40 @@
       "hs": 41
     },
     {
-      "when": "Sun 9/20 · 7:21 - 4th",
-      "away": "JAX",
-      "home": "DEN",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 13,
-      "hs": 20,
-      "clock": "7:21 - 4th"
-    },
-    {
-      "when": "Sun 9/20 · 8:19 - 4th",
+      "when": "Sun 9/20 · 2:00 - 4th",
       "away": "LV",
       "home": "LAC",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 17,
+      "as": 24,
       "hs": 14,
-      "clock": "8:19 - 4th"
+      "clock": "2:00 - 4th"
     },
     {
-      "when": "Sun 9/20 · 6:32 - 3rd",
+      "when": "Sun 9/20 · 12:07 - 4th",
       "away": "WSH",
       "home": "DAL",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 13,
-      "hs": 27,
-      "clock": "6:32 - 3rd"
+      "hs": 30,
+      "clock": "12:07 - 4th"
     },
     {
-      "when": "Sun 9/20 · 3:20 - 3rd",
+      "when": "Sun 9/20 · 7:50 - 4th",
       "away": "SEA",
       "home": "ARI",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 17,
+      "as": 24,
       "hs": 7,
-      "clock": "3:20 - 3rd"
+      "clock": "7:50 - 4th"
     },
     {
-      "when": "Sun 9/20 · 15:00 - 4th",
+      "when": "Sun 9/20 · 4:03 - 4th",
       "away": "MIA",
       "home": "SF",
       "done": false,
@@ -761,7 +791,7 @@
       "leaders": [],
       "as": 6,
       "hs": 35,
-      "clock": "15:00 - 4th"
+      "clock": "4:03 - 4th"
     },
     {
       "when": "Sun 9/20 · 8:20 PM ET",
