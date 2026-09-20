@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Sun, 9/20, 7:03 PM ET",
+  "updated": "Sun, 9/20, 7:32 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -101,11 +101,11 @@
     "SF": {
       "name": "San Francisco 49ers",
       "conf": "AFC",
-      "w": 1,
+      "w": 2,
       "l": 0,
       "t": 0,
-      "pf": 27,
-      "pa": 7,
+      "pf": 62,
+      "pa": 20,
       "color": "#aa0000"
     },
     "PIT": {
@@ -201,21 +201,21 @@
     "SEA": {
       "name": "Seattle Seahawks",
       "conf": "AFC",
-      "w": 1,
+      "w": 2,
       "l": 0,
       "t": 0,
-      "pf": 13,
-      "pa": 10,
+      "pf": 44,
+      "pa": 17,
       "color": "#69be28"
     },
     "LAC": {
       "name": "Los Angeles Chargers",
       "conf": "NFC",
       "w": 0,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 14,
-      "pa": 26,
+      "pf": 28,
+      "pa": 52,
       "color": "#0080c6"
     },
     "CAR": {
@@ -252,7 +252,7 @@
   "results": {
     "SEA": [
       "W",
-      ""
+      "W"
     ],
     "NE": [
       "L",
@@ -264,7 +264,7 @@
     ],
     "SF": [
       "W",
-      ""
+      "W"
     ],
     "CIN": [
       "W",
@@ -332,11 +332,11 @@
     ],
     "LV": [
       "W",
-      ""
+      "W"
     ],
     "MIA": [
       "L",
-      ""
+      "L"
     ],
     "MIN": [
       "W",
@@ -356,11 +356,11 @@
     ],
     "LAC": [
       "L",
-      ""
+      "L"
     ],
     "ARI": [
       "W",
-      ""
+      "L"
     ],
     "NYG": [
       "W",
@@ -380,47 +380,6 @@
     ]
   },
   "games": [
-    {
-      "when": "Sun 9/20 · Final",
-      "away": "JAX",
-      "home": "DEN",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "B. Nix (DEN)",
-          "22/31, 288 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "J. Coleman (DEN)",
-          "10 CAR, 39 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "J. Waddle (DEN)",
-          "8 REC, 138 YDS"
-        ],
-        [
-          "PASS",
-          "T. Lawrence (JAX)",
-          "17/29, 189 YDS, 1 INT"
-        ],
-        [
-          "RUSH",
-          "B. Tuten (JAX)",
-          "13 CAR, 65 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "P. Washington (JAX)",
-          "7 REC, 98 YDS"
-        ]
-      ],
-      "as": 13,
-      "hs": 20
-    },
     {
       "when": "Sun 9/20 · Final",
       "away": "CAR",
@@ -709,6 +668,170 @@
       "hs": 6
     },
     {
+      "when": "Sun 9/20 · Final",
+      "away": "JAX",
+      "home": "DEN",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "22/31, 288 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Coleman (DEN)",
+          "10 CAR, 39 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "J. Waddle (DEN)",
+          "8 REC, 138 YDS"
+        ],
+        [
+          "PASS",
+          "T. Lawrence (JAX)",
+          "17/29, 189 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Tuten (JAX)",
+          "13 CAR, 65 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "P. Washington (JAX)",
+          "7 REC, 98 YDS"
+        ]
+      ],
+      "as": 13,
+      "hs": 20
+    },
+    {
+      "when": "Sun 9/20 · Final",
+      "away": "LV",
+      "home": "LAC",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Herbert (LAC)",
+          "15/27, 192 YDS, 1 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "O. Hampton (LAC)",
+          "23 CAR, 94 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "T. Harris (LAC)",
+          "1 REC, 53 YDS"
+        ],
+        [
+          "PASS",
+          "K. Cousins (LV)",
+          "19/29, 253 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "A. Jeanty (LV)",
+          "21 CAR, 48 YDS"
+        ],
+        [
+          "REC",
+          "T. Tucker (LV)",
+          "5 REC, 119 YDS, 1 TD"
+        ]
+      ],
+      "as": 26,
+      "hs": 14
+    },
+    {
+      "when": "Sun 9/20 · Final",
+      "away": "SEA",
+      "home": "ARI",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Brissett (ARI)",
+          "17/28, 95 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Love (ARI)",
+          "9 CAR, 29 YDS"
+        ],
+        [
+          "REC",
+          "T. McBride (ARI)",
+          "8 REC, 41 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Lock (SEA)",
+          "19/26, 235 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "E. Wilson (SEA)",
+          "21 CAR, 92 YDS"
+        ],
+        [
+          "REC",
+          "J. Smith-Njigba (SEA)",
+          "9 REC, 155 YDS, 3 TD"
+        ]
+      ],
+      "as": 31,
+      "hs": 7
+    },
+    {
+      "when": "Sun 9/20 · Final",
+      "away": "MIA",
+      "home": "SF",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Purdy (SF)",
+          "20/22, 287 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "B. Purdy (SF)",
+          "3 CAR, 30 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "G. Kittle (SF)",
+          "4 REC, 80 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "M. Willis (MIA)",
+          "14/23, 197 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "D. Achane (MIA)",
+          "20 CAR, 74 YDS"
+        ],
+        [
+          "REC",
+          "R. Miller (MIA)",
+          "1 REC, 77 YDS, 1 TD"
+        ]
+      ],
+      "as": 13,
+      "hs": 35
+    },
+    {
       "when": "Thu 9/17 · Final",
       "away": "DET",
       "home": "BUF",
@@ -750,48 +873,15 @@
       "hs": 41
     },
     {
-      "when": "Sun 9/20 · 2:00 - 4th",
-      "away": "LV",
-      "home": "LAC",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 24,
-      "hs": 14,
-      "clock": "2:00 - 4th"
-    },
-    {
-      "when": "Sun 9/20 · 12:07 - 4th",
+      "when": "Sun 9/20 · 1:59 - 4th",
       "away": "WSH",
       "home": "DAL",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 13,
-      "hs": 30,
-      "clock": "12:07 - 4th"
-    },
-    {
-      "when": "Sun 9/20 · 7:50 - 4th",
-      "away": "SEA",
-      "home": "ARI",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 24,
-      "hs": 7,
-      "clock": "7:50 - 4th"
-    },
-    {
-      "when": "Sun 9/20 · 4:03 - 4th",
-      "away": "MIA",
-      "home": "SF",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 6,
-      "hs": 35,
-      "clock": "4:03 - 4th"
+      "as": 20,
+      "hs": 37,
+      "clock": "1:59 - 4th"
     },
     {
       "when": "Sun 9/20 · 8:20 PM ET",
