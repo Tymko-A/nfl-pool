@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Sun, 9/20, 5:34 PM ET",
+  "updated": "Sun, 9/20, 6:02 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -679,29 +679,29 @@
       "clock": "Delayed"
     },
     {
-      "when": "Sun 9/20 · Halftime",
+      "when": "Sun 9/20 · 4:53 - 3rd",
       "away": "JAX",
       "home": "DEN",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 10,
-      "hs": 3,
-      "clock": "Halftime"
+      "as": 13,
+      "hs": 6,
+      "clock": "4:53 - 3rd"
     },
     {
-      "when": "Sun 9/20 · Halftime",
+      "when": "Sun 9/20 · 6:33 - 3rd",
       "away": "LV",
       "home": "LAC",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 10,
-      "hs": 7,
-      "clock": "Halftime"
+      "hs": 14,
+      "clock": "6:33 - 3rd"
     },
     {
-      "when": "Sun 9/20 · 5:01 - 2nd",
+      "when": "Sun 9/20 · Halftime",
       "away": "WSH",
       "home": "DAL",
       "done": false,
@@ -709,10 +709,10 @@
       "leaders": [],
       "as": 10,
       "hs": 17,
-      "clock": "5:01 - 2nd"
+      "clock": "Halftime"
     },
     {
-      "when": "Sun 9/20 · 2:00 - 2nd",
+      "when": "Sun 9/20 · Halftime",
       "away": "SEA",
       "home": "ARI",
       "done": false,
@@ -720,18 +720,18 @@
       "leaders": [],
       "as": 7,
       "hs": 7,
-      "clock": "2:00 - 2nd"
+      "clock": "Halftime"
     },
     {
-      "when": "Sun 9/20 · 0:02 - 2nd",
+      "when": "Sun 9/20 · 9:17 - 3rd",
       "away": "MIA",
       "home": "SF",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 3,
-      "hs": 14,
-      "clock": "0:02 - 2nd"
+      "as": 6,
+      "hs": 21,
+      "clock": "9:17 - 3rd"
     },
     {
       "when": "Sun 9/20 · 8:20 PM ET",
