@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Sun, 9/20, 6:02 PM ET",
+  "updated": "Sun, 9/20, 6:34 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -82,10 +82,10 @@
       "name": "Tampa Bay Buccaneers",
       "conf": "AFC",
       "w": 0,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 27,
-      "pa": 33,
+      "pf": 46,
+      "pa": 56,
       "color": "#d50a0a"
     },
     "HOU": {
@@ -272,7 +272,7 @@
     ],
     "TB": [
       "L",
-      ""
+      "L"
     ],
     "DET": [
       "W",
@@ -320,7 +320,7 @@
     ],
     "CLE": [
       "L",
-      ""
+      "W"
     ],
     "HOU": [
       "L",
@@ -546,6 +546,47 @@
     },
     {
       "when": "Sun 9/20 · Final",
+      "away": "CLE",
+      "home": "TB",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Mayfield (TB)",
+          "21/34, 182 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Irving (TB)",
+          "17 CAR, 89 YDS"
+        ],
+        [
+          "REC",
+          "T. Johnson (TB)",
+          "1 REC, 49 YDS"
+        ],
+        [
+          "PASS",
+          "D. Watson (CLE)",
+          "24/30, 238 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "D. Watson (CLE)",
+          "7 CAR, 22 YDS"
+        ],
+        [
+          "REC",
+          "D. Boston (CLE)",
+          "5 REC, 95 YDS, 1 TD"
+        ]
+      ],
+      "as": 23,
+      "hs": 19
+    },
+    {
+      "when": "Sun 9/20 · Final",
       "away": "NO",
       "home": "BAL",
       "done": true,
@@ -668,70 +709,59 @@
       "hs": 41
     },
     {
-      "when": "Sun 9/20 · Delayed",
-      "away": "CLE",
-      "home": "TB",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 23,
-      "hs": 19,
-      "clock": "Delayed"
-    },
-    {
-      "when": "Sun 9/20 · 4:53 - 3rd",
+      "when": "Sun 9/20 · 7:21 - 4th",
       "away": "JAX",
       "home": "DEN",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 13,
-      "hs": 6,
-      "clock": "4:53 - 3rd"
+      "hs": 20,
+      "clock": "7:21 - 4th"
     },
     {
-      "when": "Sun 9/20 · 6:33 - 3rd",
+      "when": "Sun 9/20 · 8:19 - 4th",
       "away": "LV",
       "home": "LAC",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 10,
+      "as": 17,
       "hs": 14,
-      "clock": "6:33 - 3rd"
+      "clock": "8:19 - 4th"
     },
     {
-      "when": "Sun 9/20 · Halftime",
+      "when": "Sun 9/20 · 6:32 - 3rd",
       "away": "WSH",
       "home": "DAL",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 10,
-      "hs": 17,
-      "clock": "Halftime"
+      "as": 13,
+      "hs": 27,
+      "clock": "6:32 - 3rd"
     },
     {
-      "when": "Sun 9/20 · Halftime",
+      "when": "Sun 9/20 · 3:20 - 3rd",
       "away": "SEA",
       "home": "ARI",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 7,
+      "as": 17,
       "hs": 7,
-      "clock": "Halftime"
+      "clock": "3:20 - 3rd"
     },
     {
-      "when": "Sun 9/20 · 9:17 - 3rd",
+      "when": "Sun 9/20 · 15:00 - 4th",
       "away": "MIA",
       "home": "SF",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 6,
-      "hs": 21,
-      "clock": "9:17 - 3rd"
+      "hs": 35,
+      "clock": "15:00 - 4th"
     },
     {
       "when": "Sun 9/20 · 8:20 PM ET",
