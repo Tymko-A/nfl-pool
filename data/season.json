@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Sun, 9/20, 3:32 PM ET",
+  "updated": "Sun, 9/20, 4:03 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -71,11 +71,11 @@
     "NE": {
       "name": "New England Patriots",
       "conf": "NFC",
-      "w": 0,
+      "w": 1,
       "l": 1,
       "t": 0,
-      "pf": 10,
-      "pa": 13,
+      "pf": 30,
+      "pa": 16,
       "color": "#002a5c"
     },
     "TB": {
@@ -112,10 +112,10 @@
       "name": "Pittsburgh Steelers",
       "conf": "NFC",
       "w": 1,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 20,
-      "pa": 13,
+      "pf": 23,
+      "pa": 33,
       "color": "#ffb612"
     },
     "DAL": {
@@ -192,10 +192,10 @@
       "name": "Baltimore Ravens",
       "conf": "NFC",
       "w": 1,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 41,
-      "pa": 23,
+      "pf": 58,
+      "pa": 47,
       "color": "#241773"
     },
     "SEA": {
@@ -256,7 +256,7 @@
     ],
     "NE": [
       "L",
-      ""
+      "W"
     ],
     "LAR": [
       "L",
@@ -280,7 +280,7 @@
     ],
     "NO": [
       "L",
-      ""
+      "W"
     ],
     "TEN": [
       "L",
@@ -296,11 +296,11 @@
     ],
     "BAL": [
       "W",
-      ""
+      "L"
     ],
     "PIT": [
       "W",
-      ""
+      "L"
     ],
     "ATL": [
       "L",
@@ -312,7 +312,7 @@
     ],
     "CHI": [
       "W",
-      ""
+      "L"
     ],
     "JAX": [
       "W",
@@ -340,7 +340,7 @@
     ],
     "MIN": [
       "W",
-      ""
+      "W"
     ],
     "GB": [
       "L",
@@ -380,6 +380,88 @@
     ]
   },
   "games": [
+    {
+      "when": "Sun 9/20 · Final",
+      "away": "PIT",
+      "home": "NE",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Maye (NE)",
+          "14/22, 208 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "T. Henderson (NE)",
+          "16 CAR, 76 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "R. Doubs (NE)",
+          "3 REC, 96 YDS"
+        ],
+        [
+          "PASS",
+          "A. Rodgers (PIT)",
+          "23/39, 187 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Warren (PIT)",
+          "11 CAR, 43 YDS"
+        ],
+        [
+          "REC",
+          "G. Bernard (PIT)",
+          "4 REC, 35 YDS"
+        ]
+      ],
+      "as": 3,
+      "hs": 20
+    },
+    {
+      "when": "Sun 9/20 · Final",
+      "away": "NO",
+      "home": "BAL",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "L. Jackson (BAL)",
+          "21/31, 235 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "D. Henry (BAL)",
+          "16 CAR, 68 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "R. Bateman (BAL)",
+          "7 REC, 88 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "T. Shough (NO)",
+          "27/34, 252 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "T. Etienne Jr. (NO)",
+          "8 CAR, 25 YDS"
+        ],
+        [
+          "REC",
+          "C. Olave (NO)",
+          "8 REC, 86 YDS, 1 TD"
+        ]
+      ],
+      "as": 24,
+      "hs": 17
+    },
     {
       "when": "Thu 9/17 · Final",
       "away": "DET",
@@ -422,7 +504,7 @@
       "hs": 41
     },
     {
-      "when": "Sun 9/20 · End of 3rd",
+      "when": "Sun 9/20 · 1:49 - 4th",
       "away": "CAR",
       "home": "ATL",
       "done": false,
@@ -430,73 +512,51 @@
       "leaders": [],
       "as": 34,
       "hs": 3,
-      "clock": "End of 3rd"
+      "clock": "1:49 - 4th"
     },
     {
-      "when": "Sun 9/20 · 6:00 - 4th",
+      "when": "Sun 9/20 · 0:09 - 4th",
       "away": "PHI",
       "home": "TEN",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 17,
-      "hs": 17,
-      "clock": "6:00 - 4th"
-    },
-    {
-      "when": "Sun 9/20 · 12:03 - 4th",
-      "away": "PIT",
-      "home": "NE",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 3,
+      "as": 24,
       "hs": 20,
-      "clock": "12:03 - 4th"
+      "clock": "0:09 - 4th"
     },
     {
-      "when": "Sun 9/20 · 14:13 - 4th",
+      "when": "Sun 9/20 · 4:32 - 4th",
       "away": "GB",
       "home": "NYJ",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 7,
-      "hs": 14,
-      "clock": "14:13 - 4th"
+      "as": 14,
+      "hs": 17,
+      "clock": "4:32 - 4th"
     },
     {
-      "when": "Sun 9/20 · 12:51 - 4th",
+      "when": "Sun 9/20 · Delayed",
       "away": "CLE",
       "home": "TB",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 16,
-      "hs": 16,
-      "clock": "12:51 - 4th"
+      "as": 23,
+      "hs": 19,
+      "clock": "Delayed"
     },
     {
-      "when": "Sun 9/20 · 5:41 - 4th",
-      "away": "NO",
-      "home": "BAL",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 17,
-      "hs": 17,
-      "clock": "5:41 - 4th"
-    },
-    {
-      "when": "Sun 9/20 · 13:44 - 4th",
+      "when": "Sun 9/20 · 3:04 - 4th",
       "away": "CIN",
       "home": "HOU",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 17,
+      "as": 20,
       "hs": 6,
-      "clock": "13:44 - 4th"
+      "clock": "3:04 - 4th"
     },
     {
       "when": "Sun 9/20 · 4:05 PM ET",
