@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Sun, 9/20, 5:02 AM ET",
+  "updated": "Sun, 9/20, 1:02 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -422,6 +422,17 @@
       "hs": 41
     },
     {
+      "when": "Sun 9/20 · 15:00 - 1st",
+      "away": "PIT",
+      "home": "NE",
+      "done": false,
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 0,
+      "clock": "15:00 - 1st"
+    },
+    {
       "when": "Sun 9/20 · 1:00 PM ET",
       "away": "CAR",
       "home": "ATL",
@@ -433,14 +444,6 @@
       "when": "Sun 9/20 · 1:00 PM ET",
       "away": "PHI",
       "home": "TEN",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 9/20 · 1:00 PM ET",
-      "away": "PIT",
-      "home": "NE",
       "done": false,
       "live": false,
       "leaders": []
