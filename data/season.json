@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Sun, 9/20, 7:32 PM ET",
+  "updated": "Sun, 9/20, 8:17 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -121,11 +121,11 @@
     "DAL": {
       "name": "Dallas Cowboys",
       "conf": "AFC",
-      "w": 0,
+      "w": 1,
       "l": 1,
       "t": 0,
-      "pf": 20,
-      "pa": 28,
+      "pf": 57,
+      "pa": 48,
       "color": "#041e42"
     },
     "BUF": {
@@ -352,7 +352,7 @@
     ],
     "WSH": [
       "L",
-      ""
+      "L"
     ],
     "LAC": [
       "L",
@@ -368,7 +368,7 @@
     ],
     "DAL": [
       "L",
-      ""
+      "W"
     ],
     "KC": [
       "W",
@@ -751,6 +751,47 @@
     },
     {
       "when": "Sun 9/20 · Final",
+      "away": "WSH",
+      "home": "DAL",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Prescott (DAL)",
+          "26/31, 279 YDS, 4 TD"
+        ],
+        [
+          "RUSH",
+          "J. Williams (DAL)",
+          "12 CAR, 30 YDS"
+        ],
+        [
+          "REC",
+          "C. Lamb (DAL)",
+          "8 REC, 153 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "M. Mariota (WSH)",
+          "11/16, 111 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "J. Daniels (WSH)",
+          "7 CAR, 69 YDS"
+        ],
+        [
+          "REC",
+          "T. McLaurin (WSH)",
+          "2 REC, 50 YDS"
+        ]
+      ],
+      "as": 20,
+      "hs": 37
+    },
+    {
+      "when": "Sun 9/20 · Final",
       "away": "SEA",
       "home": "ARI",
       "done": true,
@@ -871,17 +912,6 @@
       ],
       "as": 31,
       "hs": 41
-    },
-    {
-      "when": "Sun 9/20 · 1:59 - 4th",
-      "away": "WSH",
-      "home": "DAL",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 20,
-      "hs": 37,
-      "clock": "1:59 - 4th"
     },
     {
       "when": "Sun 9/20 · 8:20 PM ET",
