@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Sun, 9/20, 11:43 PM ET",
+  "updated": "Mon, 9/21, 12:11 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -231,11 +231,11 @@
     "KC": {
       "name": "Kansas City Chiefs",
       "conf": "NFC",
-      "w": 1,
+      "w": 2,
       "l": 0,
       "t": 0,
-      "pf": 31,
-      "pa": 10,
+      "pf": 64,
+      "pa": 40,
       "color": "#e31837"
     },
     "LAR": {
@@ -292,7 +292,7 @@
     ],
     "IND": [
       "L",
-      ""
+      "L"
     ],
     "BAL": [
       "W",
@@ -372,7 +372,7 @@
     ],
     "KC": [
       "W",
-      ""
+      "W"
     ],
     "DEN": [
       "L",
@@ -380,6 +380,47 @@
     ]
   },
   "games": [
+    {
+      "when": "Thu 9/17 · Final",
+      "away": "DET",
+      "home": "BUF",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Allen (BUF)",
+          "20/31, 248 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "J. Cook III (BUF)",
+          "21 CAR, 135 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "D. Kincaid (BUF)",
+          "7 REC, 95 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "J. Goff (DET)",
+          "26/38, 327 YDS, 4 TD"
+        ],
+        [
+          "RUSH",
+          "J. Gibbs (DET)",
+          "16 CAR, 52 YDS"
+        ],
+        [
+          "REC",
+          "A. St. Brown (DET)",
+          "9 REC, 142 YDS, 2 TD"
+        ]
+      ],
+      "as": 31,
+      "hs": 41
+    },
     {
       "when": "Sun 9/20 · Final",
       "away": "CAR",
@@ -873,56 +914,45 @@
       "hs": 35
     },
     {
-      "when": "Thu 9/17 · Final",
-      "away": "DET",
-      "home": "BUF",
+      "when": "Sun 9/20 · Final",
+      "away": "IND",
+      "home": "KC",
       "done": true,
       "live": false,
       "leaders": [
         [
           "PASS",
-          "J. Allen (BUF)",
-          "20/31, 248 YDS, 3 TD"
+          "P. Mahomes (KC)",
+          "32/47, 382 YDS, 3 TD"
         ],
         [
           "RUSH",
-          "J. Cook III (BUF)",
-          "21 CAR, 135 YDS, 1 TD"
+          "K. Walker III (KC)",
+          "24 CAR, 117 YDS"
         ],
         [
           "REC",
-          "D. Kincaid (BUF)",
-          "7 REC, 95 YDS, 1 TD"
+          "T. Kelce (KC)",
+          "9 REC, 101 YDS, 1 TD"
         ],
         [
           "PASS",
-          "J. Goff (DET)",
-          "26/38, 327 YDS, 4 TD"
+          "D. Jones (IND)",
+          "22/31, 210 YDS, 1 TD, 1 INT"
         ],
         [
           "RUSH",
-          "J. Gibbs (DET)",
-          "16 CAR, 52 YDS"
+          "J. Taylor (IND)",
+          "24 CAR, 92 YDS, 2 TD"
         ],
         [
           "REC",
-          "A. St. Brown (DET)",
-          "9 REC, 142 YDS, 2 TD"
+          "J. Downs (IND)",
+          "7 REC, 72 YDS"
         ]
       ],
-      "as": 31,
-      "hs": 41
-    },
-    {
-      "when": "Sun 9/20 · 3:15 - OT",
-      "away": "IND",
-      "home": "KC",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 27,
-      "hs": 30,
-      "clock": "3:15 - OT"
+      "as": 30,
+      "hs": 33
     },
     {
       "when": "Mon 9/21 · 8:15 PM ET",
