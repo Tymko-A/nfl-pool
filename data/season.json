@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Sun, 9/20, 11:12 PM ET",
+  "updated": "Sun, 9/20, 11:43 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -914,15 +914,15 @@
       "hs": 41
     },
     {
-      "when": "Sun 9/20 · 2:00 - 4th",
+      "when": "Sun 9/20 · 3:15 - OT",
       "away": "IND",
       "home": "KC",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 27,
-      "hs": 27,
-      "clock": "2:00 - 4th"
+      "hs": 30,
+      "clock": "3:15 - OT"
     },
     {
       "when": "Mon 9/21 · 8:15 PM ET",
