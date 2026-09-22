@@ -334,6 +334,11 @@ recap.week = `Week ${recapWeek}`;
 recap.weekNumber = recapWeek;
 
 season.recap = recap;
+// Keep the season archive in step: replace this week's entry (or add it).
+const archive = (Array.isArray(season.recaps) ? season.recaps : []).filter(r => Number(r.weekNumber) !== recapWeek);
+archive.push(recap);
+archive.sort((a, b) => Number(a.weekNumber || 0) - Number(b.weekNumber || 0));
+season.recaps = archive;
 await writeFile("data/season.json", JSON.stringify(season, null, 2));
 await writeFile(`data/recap-week-${recapWeek}.json`, JSON.stringify(recap, null, 2));
 console.log(`Wrote Week ${recapWeek} recap — "${recap.headline}"`);
