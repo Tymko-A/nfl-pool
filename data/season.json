@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Mon, 9/21, 11:41 PM ET",
+  "updated": "Tue, 9/22, 12:13 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -380,47 +380,6 @@
     ]
   },
   "games": [
-    {
-      "when": "Mon 9/21 · Final",
-      "away": "NYG",
-      "home": "LAR",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "M. Stafford (LAR)",
-          "22/31, 327 YDS, 4 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "K. Williams (LAR)",
-          "12 CAR, 85 YDS"
-        ],
-        [
-          "REC",
-          "D. Adams (LAR)",
-          "8 REC, 195 YDS, 2 TD"
-        ],
-        [
-          "PASS",
-          "J. Winston (NYG)",
-          "11/27, 111 YDS, 1 INT"
-        ],
-        [
-          "RUSH",
-          "C. Skattebo (NYG)",
-          "12 CAR, 36 YDS"
-        ],
-        [
-          "REC",
-          "D. Mooney (NYG)",
-          "2 REC, 48 YDS"
-        ]
-      ],
-      "as": 6,
-      "hs": 28
-    },
     {
       "when": "Thu 9/17 · Final",
       "away": "DET",
@@ -994,6 +953,47 @@
       ],
       "as": 30,
       "hs": 33
+    },
+    {
+      "when": "Mon 9/21 · Final",
+      "away": "NYG",
+      "home": "LAR",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "22/31, 327 YDS, 4 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "K. Williams (LAR)",
+          "12 CAR, 85 YDS"
+        ],
+        [
+          "REC",
+          "D. Adams (LAR)",
+          "8 REC, 195 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "J. Winston (NYG)",
+          "11/27, 111 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. Skattebo (NYG)",
+          "12 CAR, 36 YDS"
+        ],
+        [
+          "REC",
+          "D. Mooney (NYG)",
+          "2 REC, 48 YDS"
+        ]
+      ],
+      "as": 6,
+      "hs": 28
     }
   ],
   "recap": {
