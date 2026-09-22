@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Mon, 9/21, 10:41 PM ET",
+  "updated": "Mon, 9/21, 11:13 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -241,11 +241,11 @@
     "LAR": {
       "name": "Los Angeles Rams",
       "conf": "AFC",
-      "w": 0,
+      "w": 1,
       "l": 1,
       "t": 0,
-      "pf": 7,
-      "pa": 27,
+      "pf": 35,
+      "pa": 33,
       "color": "#003594"
     }
   },
@@ -260,7 +260,7 @@
     ],
     "LAR": [
       "L",
-      ""
+      "W"
     ],
     "SF": [
       "W",
@@ -364,7 +364,7 @@
     ],
     "NYG": [
       "W",
-      ""
+      "L"
     ],
     "DAL": [
       "L",
@@ -380,6 +380,47 @@
     ]
   },
   "games": [
+    {
+      "when": "Mon 9/21 · Final",
+      "away": "NYG",
+      "home": "LAR",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "22/31, 327 YDS, 4 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "K. Williams (LAR)",
+          "12 CAR, 85 YDS"
+        ],
+        [
+          "REC",
+          "D. Adams (LAR)",
+          "8 REC, 195 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "J. Winston (NYG)",
+          "11/27, 111 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. Skattebo (NYG)",
+          "12 CAR, 36 YDS"
+        ],
+        [
+          "REC",
+          "D. Mooney (NYG)",
+          "2 REC, 48 YDS"
+        ]
+      ],
+      "as": 6,
+      "hs": 28
+    },
     {
       "when": "Thu 9/17 · Final",
       "away": "DET",
@@ -953,17 +994,6 @@
       ],
       "as": 30,
       "hs": 33
-    },
-    {
-      "when": "Mon 9/21 · 14:33 - 4th",
-      "away": "NYG",
-      "home": "LAR",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 6,
-      "hs": 21,
-      "clock": "14:33 - 4th"
     }
   ],
   "recap": {
