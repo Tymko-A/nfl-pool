@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 2,
-  "updated": "Mon, 9/21, 9:11 PM ET",
+  "updated": "Mon, 9/21, 9:40 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -955,15 +955,15 @@
       "hs": 33
     },
     {
-      "when": "Mon 9/21 · 8:29 - 2nd",
+      "when": "Mon 9/21 · 0:25 - 2nd",
       "away": "NYG",
       "home": "LAR",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 0,
+      "as": 3,
       "hs": 14,
-      "clock": "8:29 - 2nd"
+      "clock": "0:25 - 2nd"
     }
   ],
   "recap": {
