@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "week": 2,
-  "updated": "Tue, 9/22, 6:06 AM ET",
+  "week": 3,
+  "updated": "Wed, 9/23, 5:02 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -252,748 +252,277 @@
   "results": {
     "SEA": [
       "W",
-      "W"
+      "W",
+      ""
     ],
     "NE": [
       "L",
-      "W"
+      "W",
+      ""
     ],
     "LAR": [
       "L",
-      "W"
+      "W",
+      ""
     ],
     "SF": [
       "W",
-      "W"
+      "W",
+      ""
     ],
     "CIN": [
       "W",
-      "W"
+      "W",
+      ""
     ],
     "TB": [
       "L",
-      "L"
+      "L",
+      ""
     ],
     "DET": [
       "W",
-      "L"
+      "L",
+      ""
     ],
     "NO": [
       "L",
-      "W"
+      "W",
+      ""
     ],
     "TEN": [
       "L",
-      "L"
+      "L",
+      ""
     ],
     "NYJ": [
       "W",
-      "L"
+      "L",
+      ""
     ],
     "IND": [
       "L",
-      "L"
+      "L",
+      ""
     ],
     "BAL": [
       "W",
-      "L"
+      "L",
+      ""
     ],
     "PIT": [
       "W",
-      "L"
+      "L",
+      ""
     ],
     "ATL": [
       "L",
-      "L"
+      "L",
+      ""
     ],
     "CAR": [
       "L",
-      "W"
+      "W",
+      ""
     ],
     "CHI": [
       "W",
-      "L"
+      "L",
+      ""
     ],
     "JAX": [
       "W",
-      "L"
+      "L",
+      ""
     ],
     "CLE": [
       "L",
-      "W"
+      "W",
+      ""
     ],
     "HOU": [
       "L",
-      "L"
+      "L",
+      ""
     ],
     "BUF": [
       "W",
-      "W"
+      "W",
+      ""
     ],
     "LV": [
       "W",
-      "W"
+      "W",
+      ""
     ],
     "MIA": [
       "L",
-      "L"
+      "L",
+      ""
     ],
     "MIN": [
       "W",
-      "W"
+      "W",
+      ""
     ],
     "GB": [
       "L",
-      "W"
+      "W",
+      ""
     ],
     "PHI": [
       "W",
-      "W"
+      "W",
+      ""
     ],
     "WSH": [
       "L",
-      "L"
+      "L",
+      ""
     ],
     "LAC": [
       "L",
-      "L"
+      "L",
+      ""
     ],
     "ARI": [
       "W",
-      "L"
+      "L",
+      ""
     ],
     "NYG": [
       "W",
-      "L"
+      "L",
+      ""
     ],
     "DAL": [
       "L",
-      "W"
+      "W",
+      ""
     ],
     "KC": [
       "W",
-      "W"
+      "W",
+      ""
     ],
     "DEN": [
       "L",
-      "W"
+      "W",
+      ""
     ]
   },
   "games": [
     {
-      "when": "Thu 9/17 · Final",
-      "away": "DET",
+      "when": "Thu 9/24 · 8:15 PM ET",
+      "away": "ATL",
+      "home": "GB",
+      "done": false,
+      "live": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/27 · 1:00 PM ET",
+      "away": "LAC",
       "home": "BUF",
-      "done": true,
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "J. Allen (BUF)",
-          "20/31, 248 YDS, 3 TD"
-        ],
-        [
-          "RUSH",
-          "J. Cook III (BUF)",
-          "21 CAR, 135 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "D. Kincaid (BUF)",
-          "7 REC, 95 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "J. Goff (DET)",
-          "26/38, 327 YDS, 4 TD"
-        ],
-        [
-          "RUSH",
-          "J. Gibbs (DET)",
-          "16 CAR, 52 YDS"
-        ],
-        [
-          "REC",
-          "A. St. Brown (DET)",
-          "9 REC, 142 YDS, 2 TD"
-        ]
-      ],
-      "as": 31,
-      "hs": 41
+      "leaders": []
     },
     {
-      "when": "Sun 9/20 · Final",
+      "when": "Sun 9/27 · 1:00 PM ET",
       "away": "CAR",
-      "home": "ATL",
-      "done": true,
+      "home": "CLE",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "C. Rush (ATL)",
-          "10/17, 86 YDS, 2 INT"
-        ],
-        [
-          "RUSH",
-          "B. Robinson (ATL)",
-          "16 CAR, 72 YDS"
-        ],
-        [
-          "REC",
-          "D. London (ATL)",
-          "4 REC, 51 YDS"
-        ],
-        [
-          "PASS",
-          "B. Young (CAR)",
-          "23/36, 287 YDS, 3 TD"
-        ],
-        [
-          "RUSH",
-          "C. Hubbard (CAR)",
-          "12 CAR, 53 YDS"
-        ],
-        [
-          "REC",
-          "T. McMillan (CAR)",
-          "5 REC, 101 YDS"
-        ]
-      ],
-      "as": 34,
-      "hs": 3
+      "leaders": []
     },
     {
-      "when": "Sun 9/20 · Final",
-      "away": "PHI",
-      "home": "TEN",
-      "done": true,
+      "when": "Sun 9/27 · 1:00 PM ET",
+      "away": "NYJ",
+      "home": "DET",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "C. Ward (TEN)",
-          "13/20, 183 YDS"
-        ],
-        [
-          "RUSH",
-          "T. Pollard (TEN)",
-          "14 CAR, 64 YDS"
-        ],
-        [
-          "REC",
-          "E. Ayomanor (TEN)",
-          "2 REC, 69 YDS"
-        ],
-        [
-          "PASS",
-          "J. Hurts (PHI)",
-          "26/37, 264 YDS, 2 TD, 2 INT"
-        ],
-        [
-          "RUSH",
-          "T. Bigsby (PHI)",
-          "13 CAR, 33 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "D. Smith (PHI)",
-          "10 REC, 117 YDS, 1 TD"
-        ]
-      ],
-      "as": 24,
-      "hs": 20
+      "leaders": []
     },
     {
-      "when": "Sun 9/20 · Final",
-      "away": "PIT",
-      "home": "NE",
-      "done": true,
+      "when": "Sun 9/27 · 1:00 PM ET",
+      "away": "HOU",
+      "home": "IND",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "D. Maye (NE)",
-          "14/22, 208 YDS, 1 INT"
-        ],
-        [
-          "RUSH",
-          "T. Henderson (NE)",
-          "16 CAR, 76 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "R. Doubs (NE)",
-          "3 REC, 96 YDS"
-        ],
-        [
-          "PASS",
-          "A. Rodgers (PIT)",
-          "23/39, 187 YDS, 1 INT"
-        ],
-        [
-          "RUSH",
-          "J. Warren (PIT)",
-          "11 CAR, 43 YDS"
-        ],
-        [
-          "REC",
-          "G. Bernard (PIT)",
-          "4 REC, 35 YDS"
-        ]
-      ],
-      "as": 3,
-      "hs": 20
+      "leaders": []
     },
     {
-      "when": "Sun 9/20 · Final",
-      "away": "GB",
-      "home": "NYJ",
-      "done": true,
+      "when": "Sun 9/27 · 1:00 PM ET",
+      "away": "KC",
+      "home": "MIA",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "G. Smith (NYJ)",
-          "27/41, 247 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "B. Hall (NYJ)",
-          "16 CAR, 29 YDS"
-        ],
-        [
-          "REC",
-          "B. Hall (NYJ)",
-          "5 REC, 63 YDS"
-        ],
-        [
-          "PASS",
-          "J. Love (GB)",
-          "16/29, 145 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "K. Johnson (GB)",
-          "8 CAR, 32 YDS"
-        ],
-        [
-          "REC",
-          "M. Golden (GB)",
-          "4 REC, 58 YDS"
-        ]
-      ],
-      "as": 20,
-      "hs": 17
+      "leaders": []
     },
     {
-      "when": "Sun 9/20 · Final",
-      "away": "CLE",
-      "home": "TB",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "B. Mayfield (TB)",
-          "21/34, 182 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "B. Irving (TB)",
-          "17 CAR, 89 YDS"
-        ],
-        [
-          "REC",
-          "T. Johnson (TB)",
-          "1 REC, 49 YDS"
-        ],
-        [
-          "PASS",
-          "D. Watson (CLE)",
-          "24/30, 238 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "D. Watson (CLE)",
-          "7 CAR, 22 YDS"
-        ],
-        [
-          "REC",
-          "D. Boston (CLE)",
-          "5 REC, 95 YDS, 1 TD"
-        ]
-      ],
-      "as": 23,
-      "hs": 19
-    },
-    {
-      "when": "Sun 9/20 · Final",
-      "away": "NO",
-      "home": "BAL",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "L. Jackson (BAL)",
-          "21/31, 235 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "D. Henry (BAL)",
-          "16 CAR, 68 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "R. Bateman (BAL)",
-          "7 REC, 88 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "T. Shough (NO)",
-          "27/34, 252 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "T. Etienne Jr. (NO)",
-          "8 CAR, 25 YDS"
-        ],
-        [
-          "REC",
-          "C. Olave (NO)",
-          "8 REC, 86 YDS, 1 TD"
-        ]
-      ],
-      "as": 24,
-      "hs": 17
-    },
-    {
-      "when": "Sun 9/20 · Final",
+      "when": "Sun 9/27 · 1:00 PM ET",
       "away": "CIN",
-      "home": "HOU",
-      "done": true,
+      "home": "PIT",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "C.J. Stroud (HOU)",
-          "30/55, 353 YDS"
-        ],
-        [
-          "RUSH",
-          "C.J. Stroud (HOU)",
-          "3 CAR, 29 YDS"
-        ],
-        [
-          "REC",
-          "D. Schultz (HOU)",
-          "12 REC, 140 YDS"
-        ],
-        [
-          "PASS",
-          "J. Burrow (CIN)",
-          "20/31, 207 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "C. Brown (CIN)",
-          "20 CAR, 80 YDS"
-        ],
-        [
-          "REC",
-          "T. Higgins (CIN)",
-          "5 REC, 95 YDS"
-        ]
-      ],
-      "as": 20,
-      "hs": 6
+      "leaders": []
     },
     {
-      "when": "Sun 9/20 · Final",
-      "away": "JAX",
-      "home": "DEN",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "B. Nix (DEN)",
-          "22/31, 288 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "J. Coleman (DEN)",
-          "10 CAR, 39 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "J. Waddle (DEN)",
-          "8 REC, 138 YDS"
-        ],
-        [
-          "PASS",
-          "T. Lawrence (JAX)",
-          "17/29, 189 YDS, 1 INT"
-        ],
-        [
-          "RUSH",
-          "B. Tuten (JAX)",
-          "13 CAR, 65 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "P. Washington (JAX)",
-          "7 REC, 98 YDS"
-        ]
-      ],
-      "as": 13,
-      "hs": 20
-    },
-    {
-      "when": "Sun 9/20 · Final",
-      "away": "LV",
-      "home": "LAC",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "J. Herbert (LAC)",
-          "15/27, 192 YDS, 1 TD, 2 INT"
-        ],
-        [
-          "RUSH",
-          "O. Hampton (LAC)",
-          "23 CAR, 94 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "T. Harris (LAC)",
-          "1 REC, 53 YDS"
-        ],
-        [
-          "PASS",
-          "K. Cousins (LV)",
-          "19/29, 253 YDS, 3 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "A. Jeanty (LV)",
-          "21 CAR, 48 YDS"
-        ],
-        [
-          "REC",
-          "T. Tucker (LV)",
-          "5 REC, 119 YDS, 1 TD"
-        ]
-      ],
-      "as": 26,
-      "hs": 14
-    },
-    {
-      "when": "Sun 9/20 · Final",
-      "away": "WSH",
-      "home": "DAL",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "D. Prescott (DAL)",
-          "26/31, 279 YDS, 4 TD"
-        ],
-        [
-          "RUSH",
-          "J. Williams (DAL)",
-          "12 CAR, 30 YDS"
-        ],
-        [
-          "REC",
-          "C. Lamb (DAL)",
-          "8 REC, 153 YDS, 2 TD"
-        ],
-        [
-          "PASS",
-          "M. Mariota (WSH)",
-          "11/16, 111 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "J. Daniels (WSH)",
-          "7 CAR, 69 YDS"
-        ],
-        [
-          "REC",
-          "T. McLaurin (WSH)",
-          "2 REC, 50 YDS"
-        ]
-      ],
-      "as": 20,
-      "hs": 37
-    },
-    {
-      "when": "Sun 9/20 · Final",
+      "when": "Sun 9/27 · 1:00 PM ET",
       "away": "SEA",
-      "home": "ARI",
-      "done": true,
+      "home": "WSH",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "J. Brissett (ARI)",
-          "17/28, 95 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "J. Love (ARI)",
-          "9 CAR, 29 YDS"
-        ],
-        [
-          "REC",
-          "T. McBride (ARI)",
-          "8 REC, 41 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "D. Lock (SEA)",
-          "19/26, 235 YDS, 3 TD"
-        ],
-        [
-          "RUSH",
-          "E. Wilson (SEA)",
-          "21 CAR, 92 YDS"
-        ],
-        [
-          "REC",
-          "J. Smith-Njigba (SEA)",
-          "9 REC, 155 YDS, 3 TD"
-        ]
-      ],
-      "as": 31,
-      "hs": 7
+      "leaders": []
     },
     {
-      "when": "Sun 9/20 · Final",
-      "away": "MIA",
+      "when": "Sun 9/27 · 1:00 PM ET",
+      "away": "NE",
+      "home": "JAX",
+      "done": false,
+      "live": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/27 · 4:05 PM ET",
+      "away": "ARI",
       "home": "SF",
-      "done": true,
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "B. Purdy (SF)",
-          "20/22, 287 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "B. Purdy (SF)",
-          "3 CAR, 30 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "G. Kittle (SF)",
-          "4 REC, 80 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "M. Willis (MIA)",
-          "14/23, 197 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "D. Achane (MIA)",
-          "20 CAR, 74 YDS"
-        ],
-        [
-          "REC",
-          "R. Miller (MIA)",
-          "1 REC, 77 YDS, 1 TD"
-        ]
-      ],
-      "as": 13,
-      "hs": 35
+      "leaders": []
     },
     {
-      "when": "Sun 9/20 · Final",
-      "away": "IND",
-      "home": "KC",
-      "done": true,
+      "when": "Sun 9/27 · 4:05 PM ET",
+      "away": "MIN",
+      "home": "TB",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "P. Mahomes (KC)",
-          "32/47, 382 YDS, 3 TD"
-        ],
-        [
-          "RUSH",
-          "K. Walker III (KC)",
-          "24 CAR, 117 YDS"
-        ],
-        [
-          "REC",
-          "T. Kelce (KC)",
-          "9 REC, 101 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "D. Jones (IND)",
-          "22/31, 210 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "J. Taylor (IND)",
-          "24 CAR, 92 YDS, 2 TD"
-        ],
-        [
-          "REC",
-          "J. Downs (IND)",
-          "7 REC, 72 YDS"
-        ]
-      ],
-      "as": 30,
-      "hs": 33
+      "leaders": []
     },
     {
-      "when": "Mon 9/21 · Final",
-      "away": "NYG",
-      "home": "LAR",
-      "done": true,
+      "when": "Sun 9/27 · 4:25 PM ET",
+      "away": "BAL",
+      "home": "DAL",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "M. Stafford (LAR)",
-          "22/31, 327 YDS, 4 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "K. Williams (LAR)",
-          "12 CAR, 85 YDS"
-        ],
-        [
-          "REC",
-          "D. Adams (LAR)",
-          "8 REC, 195 YDS, 2 TD"
-        ],
-        [
-          "PASS",
-          "J. Winston (NYG)",
-          "11/27, 111 YDS, 1 INT"
-        ],
-        [
-          "RUSH",
-          "C. Skattebo (NYG)",
-          "12 CAR, 36 YDS"
-        ],
-        [
-          "REC",
-          "D. Mooney (NYG)",
-          "2 REC, 48 YDS"
-        ]
-      ],
-      "as": 6,
-      "hs": 28
+      "leaders": []
+    },
+    {
+      "when": "Sun 9/27 · 8:20 PM ET",
+      "away": "LAR",
+      "home": "DEN",
+      "done": false,
+      "live": false,
+      "leaders": []
+    },
+    {
+      "when": "Mon 9/28 · 8:15 PM ET",
+      "away": "PHI",
+      "home": "CHI",
+      "done": false,
+      "live": false,
+      "leaders": []
     }
   ],
   "recap": {
@@ -1374,69 +903,182 @@
     },
     {
       "week": "Week 2",
-      "headline": "Week 2 kicks off Thursday — three head-to-heads loom large",
-      "dek": "The second week of pool play begins tonight with Jordy's Lions visiting Chris's Bills in Buffalo. After one week, Matej and Orest sit tied atop the standings at 2-0, while Adrian and Taras are searching for their first points.",
+      "headline": "Chris and Tymko Post 2-0 Weeks as Three-Way Tie Forms at Top",
+      "dek": "Only two entrants managed clean sweeps in Week 2, with Chris and Tymko sitting tied with Orest at 3-1 overall. Three head-to-heads delivered decisive swings while the bottom of the standings grows crowded.",
       "takeaways": [
-        "Three head-to-heads on the slate — Thursday night's Lions-Bills matchup, Sunday's Steelers-Patriots battle, and a key AFC showdown when Matej's Jags visit Jordy's Broncos",
-        "The 2-0 club of Matej and Orest will try to extend their perfect starts, but both face tricky road tests",
-        "Adrian and Taras desperately need results after going winless in Week 1 — both are staring at 0-4 if things go sideways"
+        "Chris grabbed sole possession of the Week 2 honours with wins in both games, including a head-to-head demolition of Jordy's Lions that saw Josh Allen throw three touchdowns and James Cook III rush for 135 yards.",
+        "Tymko matched the 2-0 performance, getting a nail-biter from the Chiefs and a blowout from the Rams — Mahomes threw for 382 yards in Kansas City's 33-30 escape while Stafford carved up the Giants for four touchdowns.",
+        "Three head-to-heads went decisive: Chris over Jordy in Buffalo, Adrian over Bill in Foxborough, and Jordy over Matej in Denver. Adrian's Patriots blanked Bill's Steelers while holding Aaron Rodgers to 187 yards.",
+        "Ben's Texans remain winless at 0-2 after getting boat-raced by Cincinnati, but his Niners are perfect at 2-0 following Brock Purdy's surgical 20-for-22 dismantling of Miami."
       ],
-      "games": [],
+      "games": [
+        {
+          "winKey": "BUF",
+          "winScore": 41,
+          "loseKey": "DET",
+          "loseScore": 31,
+          "text": "Chris's Bills survived a shootout with Jordy's Lions in the week's highest-scoring affair, pulling away late behind Josh Allen's three-touchdown performance and James Cook III's 135-yard rushing clinic. Jared Goff threw for 327 yards and four touchdowns in a losing effort, with Amon-Ra St. Brown hauling in nine catches for 142 yards and two scores, but the Lions' 31 points weren't nearly enough to keep pace with Buffalo's explosive attack.\n\nThe head-to-head victory gives Chris a crucial edge over Jordy in the standings — both sit at 2-2 overall, but Chris holds the tiebreaker should it come to that. Jordy's Lions will try to bounce back Sunday afternoon against the Jets, while Chris faces a massive Week 3 clash Thursday night when his Packers host Atlanta before the Bills take on Taras's Chargers in another head-to-head Sunday."
+        },
+        {
+          "winKey": "CAR",
+          "winScore": 34,
+          "loseKey": "ATL",
+          "loseScore": 3,
+          "text": "Taras's Panthers absolutely obliterated Atlanta in what might be the most lopsided result of the young season, holding the Falcons to a field goal while Bryce Young threw three touchdowns in a 287-yard afternoon. The Panthers' defence was suffocating — Atlanta managed just 86 passing yards with two interceptions, and the Falcons never threatened after halftime.\n\nThe blowout keeps Taras afloat at 1-3 despite his Chargers dropping their second straight. Carolina faces a quick turnaround with a trip to Cleveland on Sunday, while the Chargers desperately need a win when they visit Chris's Bills in a head-to-head that could make or break both entrants' early-season hopes."
+        },
+        {
+          "winKey": "PHI",
+          "winScore": 24,
+          "loseKey": "TEN",
+          "loseScore": 20,
+          "text": "Matej's Eagles escaped Tennessee with a narrow victory despite Jalen Hurts throwing two interceptions to go along with his two touchdowns. DeVonta Smith caught ten passes for 117 yards and a score, and the Eagles' defence held on late after the Titans threatened to complete a comeback.\n\nThe win keeps Matej's Eagles perfect at 2-0, offsetting the disappointing loss his Jaguars took in Denver. Philadelphia gets a Monday night showcase in Week 3 against Chicago, while the Jags will try to regroup when Adrian's Patriots come to Jacksonville in what shapes up as a pivotal head-to-head."
+        },
+        {
+          "winKey": "NE",
+          "winScore": 20,
+          "loseKey": "PIT",
+          "loseScore": 3,
+          "text": "Adrian's Patriots dismantled Bill's Steelers in Foxborough, holding Pittsburgh to a field goal in a head-to-head rout that saw Aaron Rodgers struggle mightily — 187 yards, an interception, and absolutely no rhythm. Drake Maye wasn't spectacular either, throwing a pick of his own, but Tyler Henderson's 76-yard rushing day and a touchdown were more than enough.\n\nThe head-to-head win is massive for Adrian, who sits at 1-3 but now holds the edge over Bill in any tiebreaker scenario. Bill's Steelers managed just 43 rushing yards and couldn't establish anything offensively. The Patriots face another head-to-head Sunday when they travel to Jacksonville to face Matej's Jags, while Bill's Steelers host Cincinnati looking to avoid an 0-2 start to the pool at home."
+        },
+        {
+          "winKey": "GB",
+          "winScore": 20,
+          "loseKey": "NYJ",
+          "loseScore": 17,
+          "text": "Chris's Packers grinded out a three-point road win over the Jets behind Jordan Love's two-touchdown afternoon, overcoming Geno Smith's 247-yard effort for New York. The Packers' offence wasn't explosive — 145 passing yards and 32 rushing yards from Kimani Johnson — but it was just enough to escape MetLife Stadium with the W.\n\nThe narrow victory gives Chris his second win of the week and puts him squarely in the three-way tie atop the standings. Green Bay gets a short week, hosting Atlanta on Thursday night in Week 3, while the Bills face Taras's Chargers on Sunday in a head-to-head that could create some separation in the middle of the pack."
+        },
+        {
+          "winKey": "CLE",
+          "winScore": 23,
+          "loseKey": "TB",
+          "loseScore": 19,
+          "text": "Adrian's Buccaneers fell to Cleveland in a game they desperately needed, with Baker Mayfield throwing an interception and the offence never quite finding its rhythm despite Bucky Irving's 89-yard rushing performance. Deshaun Watson threw two touchdowns for the Browns, and Tampa's defence couldn't get the stop it needed late.\n\nThe loss drops Adrian's Bucs to 0-2 and puts real pressure on his Patriots to deliver next week. Tampa hosts Minnesota on Sunday afternoon in what's becoming a must-win situation if Adrian wants to stay within striking distance of the middle of the pack."
+        },
+        {
+          "winKey": "NO",
+          "winScore": 24,
+          "loseKey": "BAL",
+          "loseScore": 17,
+          "text": "Orest's Ravens couldn't hold off New Orleans at home, falling in a game where Lamar Jackson threw for 235 yards and a touchdown but also tossed a costly interception. Derrick Henry rushed for 68 yards and a score, but it wasn't enough to overcome Tyler Shough's efficient 27-for-34 performance for the Saints.\n\nThe loss spoils what would have been a perfect week for Orest, whose Seahawks demolished Arizona 31-7. Baltimore travels to face Bill's Cowboys in a Week 3 head-to-head on Sunday afternoon that could swing momentum heading into the heart of the season."
+        },
+        {
+          "winKey": "CIN",
+          "winScore": 20,
+          "loseKey": "HOU",
+          "loseScore": 6,
+          "text": "Ben's Texans looked downright lost in Houston, managing just two field goals despite C.J. Stroud throwing for 353 yards on 55 attempts. Joe Burrow and the Bengals controlled the game wire-to-wire, with Chase Brown rushing for 80 yards and Burrow connecting on two touchdowns to cruise past a Texans offence that couldn't finish drives.\n\nThe loss drops Houston to 0-2 and puts Ben in a precarious spot despite his Niners sitting pretty at 2-0. The Texans travel to Indianapolis on Sunday looking to salvage something before the early deficit becomes insurmountable."
+        },
+        {
+          "winKey": "DEN",
+          "winScore": 20,
+          "loseKey": "JAX",
+          "loseScore": 13,
+          "text": "Jordy's Broncos held off Matej's Jaguars in a head-to-head that saw Bo Nix throw for 288 yards and Jaylen Waddle catch eight passes for 138 yards in Denver's seven-point win. Trevor Lawrence struggled for Jacksonville, throwing an interception and managing just 189 yards as the Jags' offence sputtered.\n\nThe head-to-head win salvages Jordy's week after his Lions got torched in Buffalo, keeping him at 2-2 overall. The Broncos host Tymko's Rams on Sunday night in another head-to-head that could shake up the standings, while Matej's Jags get a chance to rebound against Adrian's Patriots in a head-to-head of their own."
+        },
+        {
+          "winKey": "LV",
+          "winScore": 26,
+          "loseKey": "LAC",
+          "loseScore": 14,
+          "text": "Taras's Chargers dropped their second straight, falling at home to Las Vegas in a game where Justin Herbert threw two interceptions and the offence never found its rhythm. Kirk Cousins threw three touchdowns for the Raiders, and despite Omarion Hampton rushing for 94 yards, the Chargers couldn't keep pace.\n\nThe loss drops the Chargers to 0-2 and puts Taras in a hole despite his Panthers' blowout win earlier in the day. Los Angeles travels to face Chris's Bills on Sunday in a must-win head-to-head — another loss would all but bury Taras's playoff hopes before October arrives."
+        },
+        {
+          "winKey": "DAL",
+          "winScore": 37,
+          "loseKey": "WSH",
+          "loseScore": 20,
+          "text": "Bill's Cowboys demolished Washington behind Dak Prescott's four-touchdown masterpiece, with CeeDee Lamb catching eight passes for 153 yards and two scores in a performance that makes you wonder if Dallas might be legitimate this year. The Cowboys' defence held Jayden Daniels to 69 rushing yards and kept the Commanders out of the end zone until garbage time.\n\nThe win salvages Bill's week after his Steelers got blanked in New England, keeping him at 2-2 overall. Dallas hosts Orest's Ravens on Sunday afternoon in a head-to-head that could vault the winner toward the top of the standings or drop the loser into the crowded middle."
+        },
+        {
+          "winKey": "SEA",
+          "winScore": 31,
+          "loseKey": "ARI",
+          "loseScore": 7,
+          "text": "Orest's Seahawks absolutely dismantled Arizona in the desert, with Drew Lock throwing three touchdowns and Jaxon Smith-Njigba catching nine passes for 155 yards and all three scores in a performance that puts Seattle firmly in the 2-0 club. The Cardinals managed just 95 passing yards and never threatened after the first quarter.\n\nThe blowout keeps Orest tied atop the standings at 3-1 despite his Ravens' disappointing loss to New Orleans. Seattle travels to Washington on Sunday afternoon before Orest's Ravens face Bill's Cowboys in a Sunday evening head-to-head that could create some separation at the top."
+        },
+        {
+          "winKey": "SF",
+          "winScore": 35,
+          "loseKey": "MIA",
+          "loseScore": 13,
+          "text": "Ben's Niners rolled past Miami behind Brock Purdy's surgical 20-for-22 performance for 287 yards and two touchdowns, with George Kittle catching four passes for 80 yards and a score. Purdy added a rushing touchdown, and the Niners' defence held Miami's offence in check all afternoon despite De'Von Achane rushing for 74 yards.\n\nThe win keeps San Francisco perfect at 2-0 and gives Ben something to hang his hat on while his Texans sit winless. The Niners host Arizona on Sunday afternoon looking to move to 3-0 and keep Ben in striking distance of the leaders despite Houston's early struggles."
+        },
+        {
+          "winKey": "KC",
+          "winScore": 33,
+          "loseKey": "IND",
+          "loseScore": 30,
+          "text": "Tymko's Chiefs survived Indianapolis in a thriller that saw Patrick Mahomes throw for 382 yards and three touchdowns while Kenneth Walker III rushed for 117 yards to outlast Jonathan Taylor's two-touchdown performance for the Colts. Travis Kelce caught nine passes for 101 yards and a score, and Kansas City's offence did just enough to hold off a late Indianapolis rally.\n\nThe nail-biter gives Tymko his first win of the week and keeps the Chiefs unbeaten at 2-0. Kansas City travels to Miami on Sunday before Tymko's Rams host Jordy's Broncos on Sunday night in a head-to-head that could vault the winner into outright first place."
+        },
+        {
+          "winKey": "LAR",
+          "winScore": 28,
+          "loseKey": "NYG",
+          "loseScore": 6,
+          "text": "Tymko's Rams demolished the Giants behind Matthew Stafford's four-touchdown explosion, with Davante Adams catching eight passes for 195 yards and two scores in a performance that sent New York packing. The Giants managed just 111 passing yards and a pair of field goals, never threatening after the first quarter.\n\nThe blowout gives Tymko a perfect 2-0 week and puts him in the three-way tie atop the standings at 3-1. The Rams travel to face Jordy's Broncos on Sunday night in a head-to-head that could create some real separation — the winner moves to 4-1 while the loser falls to 2-2 and out of the top tier."
+        }
+      ],
       "entrants": [
         {
-          "name": "Matej",
-          "result": "0-0",
+          "name": "Chris",
+          "result": "2-0",
           "tone": "good",
-          "text": "Leads the pool at 2-0 after a strong opening week, but hasn't kicked off yet. His Eagles travel to Tennessee at 1:00 PM Sunday, then his Jags face a huge head-to-head at Denver at 4:05 PM — a chance to put distance on Jordy or watch the gap close."
+          "text": "Chris posted the week's best performance with wins from both his Bills and Packers, including a head-to-head demolition of Jordy in Buffalo. He sits tied atop the standings at 3-1, though his Packers face a quick turnaround Thursday night against Atlanta before the Bills host Taras's Chargers in a head-to-head Sunday afternoon."
+        },
+        {
+          "name": "Tymko",
+          "result": "2-0",
+          "tone": "good",
+          "text": "Tymko matched Chris's 2-0 week with a Chiefs nail-biter and a Rams blowout, vaulting into the three-way tie at the top at 3-1. His Chiefs travel to Miami on Sunday before his Rams face Jordy's Broncos on Sunday night in a head-to-head that could create real separation at the top."
         },
         {
           "name": "Orest",
-          "result": "0-0",
-          "tone": "good",
-          "text": "Tied for first at 2-0 with a plus-21 net. His Ravens host the Saints in the early window Sunday, then his Hawks travel to Arizona in the late afternoon slot. Two road favourites could be tricky, but he's positioned well."
-        },
-        {
-          "name": "Ben, Tymko, Bill, Chris, Jordy",
-          "result": "0-0",
+          "result": "1-1",
           "tone": "flat",
-          "text": "All five sit at 1-1 after Week 1 and none have played yet. Chris and Jordy meet head-to-head Thursday night, while Bill hosts a head-to-head Sunday afternoon when his Steelers visit Adrian's Patriots. Tymko waits until Sunday night and Monday for both his games."
+          "text": "Orest's week was a study in contrasts — his Seahawks demolished Arizona 31-7 while his Ravens fell at home to New Orleans. He sits tied for first at 3-1 but faces a massive Week 3 with his Seahawks traveling to Washington on Sunday afternoon before his Ravens visit Bill's Cowboys in a Sunday evening head-to-head."
         },
         {
-          "name": "Adrian",
-          "result": "0-0",
-          "tone": "bad",
-          "text": "Winless at 0-2 and staring at a potential 0-4 hole. His Patriots host Bill's Steelers in a head-to-head Sunday at 1:00 PM, then his Bucs host Cleveland in the same window. Needs at least a split to avoid falling too far behind."
+          "name": "Adrian, Ben, Bill, Jordy, Matej",
+          "result": "1-1",
+          "tone": "flat",
+          "text": "Five entrants posted 1-1 weeks in the crowded middle. Adrian's Patriots won a head-to-head over Bill's Steelers while his Bucs fell to Cleveland. Ben's Niners rolled Miami but his Texans remain winless at 0-2. Bill's Cowboys demolished Washington but his Steelers got blanked in Foxborough. Jordy won a head-to-head in Denver but his Lions got torched by Chris's Bills. Matej's Eagles survived Tennessee but his Jags lost the head-to-head to Jordy. All five face critical Week 3 matchups with four head-to-heads among them."
         },
         {
           "name": "Taras",
-          "result": "0-0",
+          "result": "1-1",
           "tone": "bad",
-          "text": "Also 0-2 after a rough opening week with a minus-34 net. His Panthers visit Atlanta at 1:00 PM Sunday and his Chargers host the Raiders at 4:05 PM. Two home dogs makes the climb back to respectability steep."
+          "text": "Taras's Panthers demolished Atlanta 34-3, but his Chargers dropped their second straight to fall to 0-2 and put him in a deep hole at 1-3 overall. His Chargers face a must-win head-to-head at Buffalo on Sunday — another loss would make the climb back nearly impossible before October."
         }
       ],
       "ahead": [
-        "Thursday night's Lions-Bills head-to-head sets the tone — Jordy needs to stop the slide after his Broncos lost Week 1, while Chris looks to build on his Bills' opening win",
-        "Sunday's three-game afternoon window features two more head-to-heads and could dramatically reshape the standings",
-        "Tymko's teams play last — his Chiefs host Indy on Sunday night, then his Rams host the Giants on Monday night, giving him a chance to watch the chaos unfold before his fate is decided"
+        "Week 3 kicks off Thursday night when Chris's Packers host Atlanta at Lambeau, then explodes Sunday with five head-to-heads that could reshape the entire standings.",
+        "The marquee matchup comes Sunday afternoon when Taras's winless Chargers travel to face Chris's unbeaten Bills — a loss drops Taras to 0-3 with one team and puts him on the brink of elimination.",
+        "Sunday night brings Tymko's Rams to face Jordy's Broncos in a head-to-head between two 2-2 entrants, while Sunday afternoon features three more head-to-heads: Adrian's Patriots at Matej's Jags, Orest's Ravens at Bill's Cowboys, and a potential statement game as Orest's 2-0 Seahawks travel to Washington."
       ],
       "notes": [
         {
-          "label": "Most interesting game",
-          "value": "Jaguars at Broncos",
-          "sub": "Matej vs Jordy, 4:05 PM Sunday"
+          "label": "Biggest swing",
+          "value": "Chris over Jordy",
+          "sub": "41-31 head-to-head win in Buffalo creates tiebreaker edge"
         },
         {
-          "label": "Biggest chance to move",
-          "value": "Adrian",
-          "sub": "Can climb from 0-2 to 2-2 with a head-to-head win and a home result"
+          "label": "Perfect teams",
+          "value": "Four at 2-0",
+          "sub": "Bills, Seahawks, Eagles, 49ers all unbeaten"
         },
         {
-          "label": "Danger zone",
-          "value": "Taras",
-          "sub": "Two losses as dogs could put him at 0-4 with worst net in the pool"
+          "label": "Winless watch",
+          "value": "Three at 0-2",
+          "sub": "Texans, Buccaneers, Chargers desperately need Week 3"
+        },
+        {
+          "label": "Week 3 stakes",
+          "value": "Five head-to-heads",
+          "sub": "Potential for massive swings at top and bottom"
         }
       ],
-      "generated": "Written Wed, 9/16, 9:24 AM ET from the nightly feed"
+      "generated": "Written Tue, 9/22, 6:06 AM ET from the nightly feed",
+      "weekNumber": 2
     }
   ]
 }
