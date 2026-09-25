@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Thu, 9/24, 5:02 AM ET",
+  "updated": "Fri, 9/25, 5:02 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -142,10 +142,10 @@
       "name": "Green Bay Packers",
       "conf": "AFC",
       "w": 1,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 42,
-      "pa": 56,
+      "pf": 56,
+      "pa": 91,
       "color": "#203731"
     },
     "DEN": {
@@ -318,7 +318,7 @@
     "ATL": [
       "L",
       "L",
-      ""
+      "W"
     ],
     "CAR": [
       "L",
@@ -368,7 +368,7 @@
     "GB": [
       "L",
       "W",
-      ""
+      "L"
     ],
     "PHI": [
       "W",
@@ -413,12 +413,45 @@
   },
   "games": [
     {
-      "when": "Thu 9/24 · 8:15 PM ET",
+      "when": "Thu 9/24 · Final",
       "away": "ATL",
       "home": "GB",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "J. Love (GB)",
+          "28/53, 312 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "M. Lloyd (GB)",
+          "4 CAR, 11 YDS"
+        ],
+        [
+          "REC",
+          "M. Golden (GB)",
+          "5 REC, 100 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "M. Penix Jr. (ATL)",
+          "18/25, 256 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Robinson (ATL)",
+          "29 CAR, 194 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "D. London (ATL)",
+          "9 REC, 194 YDS"
+        ]
+      ],
+      "as": 35,
+      "hs": 14
     },
     {
       "when": "Sun 9/27 · 1:00 PM ET",
