@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Sun, 9/27, 2:38 PM ET",
+  "updated": "Sun, 9/27, 3:02 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -454,40 +454,40 @@
       "hs": 14
     },
     {
-      "when": "Sun 9/27 · Halftime",
+      "when": "Sun 9/27 · 3:50 - 3rd",
       "away": "LAC",
       "home": "BUF",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 10,
+      "as": 13,
       "hs": 10,
-      "clock": "Halftime"
+      "clock": "3:50 - 3rd"
     },
     {
-      "when": "Sun 9/27 · Halftime",
+      "when": "Sun 9/27 · 10:57 - 3rd",
       "away": "CAR",
       "home": "CLE",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 3,
+      "as": 6,
       "hs": 10,
-      "clock": "Halftime"
+      "clock": "10:57 - 3rd"
     },
     {
-      "when": "Sun 9/27 · 10:56 - 3rd",
+      "when": "Sun 9/27 · 15:00 - 4th",
       "away": "NYJ",
       "home": "DET",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 7,
+      "as": 10,
       "hs": 17,
-      "clock": "10:56 - 3rd"
+      "clock": "15:00 - 4th"
     },
     {
-      "when": "Sun 9/27 · Halftime",
+      "when": "Sun 9/27 · 7:48 - 3rd",
       "away": "HOU",
       "home": "IND",
       "done": false,
@@ -495,43 +495,43 @@
       "leaders": [],
       "as": 7,
       "hs": 13,
-      "clock": "Halftime"
+      "clock": "7:48 - 3rd"
     },
     {
-      "when": "Sun 9/27 · Halftime",
+      "when": "Sun 9/27 · 4:51 - 3rd",
       "away": "KC",
       "home": "MIA",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 14,
-      "hs": 7,
-      "clock": "Halftime"
+      "hs": 10,
+      "clock": "4:51 - 3rd"
     },
     {
-      "when": "Sun 9/27 · Halftime",
+      "when": "Sun 9/27 · 8:22 - 3rd",
       "away": "CIN",
       "home": "PIT",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 17,
+      "as": 20,
       "hs": 17,
-      "clock": "Halftime"
+      "clock": "8:22 - 3rd"
     },
     {
-      "when": "Sun 9/27 · 1:13 - 2nd",
+      "when": "Sun 9/27 · 14:54 - 3rd",
       "away": "SEA",
       "home": "WSH",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 7,
-      "hs": 14,
-      "clock": "1:13 - 2nd"
+      "as": 10,
+      "hs": 17,
+      "clock": "14:54 - 3rd"
     },
     {
-      "when": "Sun 9/27 · Halftime",
+      "when": "Sun 9/27 · 7:25 - 3rd",
       "away": "NE",
       "home": "JAX",
       "done": false,
@@ -539,7 +539,7 @@
       "leaders": [],
       "as": 3,
       "hs": 14,
-      "clock": "Halftime"
+      "clock": "7:25 - 3rd"
     },
     {
       "when": "Sun 9/27 · 4:05 PM ET",
