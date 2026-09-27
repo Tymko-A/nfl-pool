@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Sun, 9/27, 7:02 PM ET",
+  "updated": "Sun, 9/27, 7:35 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -82,10 +82,10 @@
       "name": "Tampa Bay Buccaneers",
       "conf": "AFC",
       "w": 0,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 46,
-      "pa": 56,
+      "pf": 62,
+      "pa": 79,
       "color": "#d50a0a"
     },
     "HOU": {
@@ -101,11 +101,11 @@
     "SF": {
       "name": "San Francisco 49ers",
       "conf": "AFC",
-      "w": 2,
+      "w": 3,
       "l": 0,
       "t": 0,
-      "pf": 62,
-      "pa": 20,
+      "pf": 98,
+      "pa": 50,
       "color": "#aa0000"
     },
     "PIT": {
@@ -268,7 +268,7 @@
     "SF": [
       "W",
       "W",
-      ""
+      "W"
     ],
     "CIN": [
       "W",
@@ -278,7 +278,7 @@
     "TB": [
       "L",
       "L",
-      ""
+      "L"
     ],
     "DET": [
       "W",
@@ -363,7 +363,7 @@
     "MIN": [
       "W",
       "W",
-      ""
+      "W"
     ],
     "GB": [
       "L",
@@ -388,7 +388,7 @@
     "ARI": [
       "W",
       "L",
-      ""
+      "L"
     ],
     "NYG": [
       "W",
@@ -412,6 +412,47 @@
     ]
   },
   "games": [
+    {
+      "when": "Sun 9/27 · Final",
+      "away": "MIN",
+      "home": "TB",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Mayfield (TB)",
+          "17/34, 217 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Irving (TB)",
+          "15 CAR, 46 YDS"
+        ],
+        [
+          "REC",
+          "E. Egbuka (TB)",
+          "5 REC, 62 YDS"
+        ],
+        [
+          "PASS",
+          "K. Murray (MIN)",
+          "15/29, 168 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "A. Jones Sr. (MIN)",
+          "17 CAR, 58 YDS"
+        ],
+        [
+          "REC",
+          "J. Addison (MIN)",
+          "5 REC, 90 YDS, 1 TD"
+        ]
+      ],
+      "as": 23,
+      "hs": 16
+    },
     {
       "when": "Sun 9/27 · Final",
       "away": "LAC",
@@ -741,6 +782,47 @@
       "hs": 35
     },
     {
+      "when": "Sun 9/27 · Final",
+      "away": "ARI",
+      "home": "SF",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Purdy (SF)",
+          "15/27, 297 YDS, 4 TD"
+        ],
+        [
+          "RUSH",
+          "C. McCaffrey (SF)",
+          "15 CAR, 75 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "G. Kittle (SF)",
+          "6 REC, 82 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "J. Brissett (ARI)",
+          "38/52, 280 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "J. Love (ARI)",
+          "21 CAR, 90 YDS"
+        ],
+        [
+          "REC",
+          "M. Wilson (ARI)",
+          "11 REC, 89 YDS, 1 TD"
+        ]
+      ],
+      "as": 30,
+      "hs": 36
+    },
+    {
       "when": "Thu 9/24 · Final",
       "away": "ATL",
       "home": "GB",
@@ -782,37 +864,15 @@
       "hs": 14
     },
     {
-      "when": "Sun 9/27 · 1:55 - 4th",
-      "away": "ARI",
-      "home": "SF",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 27,
-      "hs": 29,
-      "clock": "1:55 - 4th"
-    },
-    {
-      "when": "Sun 9/27 · 3:15 - 4th",
-      "away": "MIN",
-      "home": "TB",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 17,
-      "hs": 16,
-      "clock": "3:15 - 4th"
-    },
-    {
-      "when": "Sun 9/27 · 10:30 - 4th",
+      "when": "Sun 9/27 · 1:14 - 4th",
       "away": "BAL",
       "home": "DAL",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 24,
-      "hs": 21,
-      "clock": "10:30 - 4th"
+      "as": 31,
+      "hs": 28,
+      "clock": "1:14 - 4th"
     },
     {
       "when": "Sun 9/27 · 8:20 PM ET",
