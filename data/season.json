@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Sun, 9/27, 4:03 PM ET",
+  "updated": "Sun, 9/27, 4:35 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -72,10 +72,10 @@
       "name": "New England Patriots",
       "conf": "NFC",
       "w": 1,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 30,
-      "pa": 16,
+      "pf": 36,
+      "pa": 51,
       "color": "#002a5c"
     },
     "TB": {
@@ -92,10 +92,10 @@
       "name": "Houston Texans",
       "conf": "NFC",
       "w": 0,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 37,
-      "pa": 56,
+      "pf": 54,
+      "pa": 75,
       "color": "#03202f"
     },
     "SF": {
@@ -111,11 +111,11 @@
     "PIT": {
       "name": "Pittsburgh Steelers",
       "conf": "NFC",
-      "w": 1,
+      "w": 2,
       "l": 1,
       "t": 0,
-      "pf": 23,
-      "pa": 33,
+      "pf": 53,
+      "pa": 60,
       "color": "#ffb612"
     },
     "DAL": {
@@ -131,11 +131,11 @@
     "BUF": {
       "name": "Buffalo Bills",
       "conf": "NFC",
-      "w": 2,
+      "w": 3,
       "l": 0,
       "t": 0,
-      "pf": 77,
-      "pa": 62,
+      "pf": 101,
+      "pa": 78,
       "color": "#00338d"
     },
     "GB": {
@@ -171,11 +171,11 @@
     "JAX": {
       "name": "Jacksonville Jaguars",
       "conf": "NFC",
-      "w": 1,
+      "w": 2,
       "l": 1,
       "t": 0,
-      "pf": 47,
-      "pa": 30,
+      "pf": 82,
+      "pa": 36,
       "color": "#006778"
     },
     "PHI": {
@@ -202,30 +202,30 @@
       "name": "Seattle Seahawks",
       "conf": "AFC",
       "w": 2,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 44,
-      "pa": 17,
+      "pf": 75,
+      "pa": 50,
       "color": "#69be28"
     },
     "LAC": {
       "name": "Los Angeles Chargers",
       "conf": "NFC",
       "w": 0,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 28,
-      "pa": 52,
+      "pf": 44,
+      "pa": 76,
       "color": "#0080c6"
     },
     "CAR": {
       "name": "Carolina Panthers",
       "conf": "AFC",
       "w": 1,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 71,
-      "pa": 62,
+      "pf": 89,
+      "pa": 83,
       "color": "#0085ca"
     },
     "KC": {
@@ -253,12 +253,12 @@
     "SEA": [
       "W",
       "W",
-      ""
+      "L"
     ],
     "NE": [
       "L",
       "W",
-      ""
+      "L"
     ],
     "LAR": [
       "L",
@@ -273,7 +273,7 @@
     "CIN": [
       "W",
       "W",
-      ""
+      "L"
     ],
     "TB": [
       "L",
@@ -303,7 +303,7 @@
     "IND": [
       "L",
       "L",
-      ""
+      "W"
     ],
     "BAL": [
       "W",
@@ -313,7 +313,7 @@
     "PIT": [
       "W",
       "L",
-      ""
+      "W"
     ],
     "ATL": [
       "L",
@@ -323,7 +323,7 @@
     "CAR": [
       "L",
       "W",
-      ""
+      "L"
     ],
     "CHI": [
       "W",
@@ -333,22 +333,22 @@
     "JAX": [
       "W",
       "L",
-      ""
+      "W"
     ],
     "CLE": [
       "L",
       "W",
-      ""
+      "W"
     ],
     "HOU": [
       "L",
       "L",
-      ""
+      "L"
     ],
     "BUF": [
       "W",
       "W",
-      ""
+      "W"
     ],
     "LV": [
       "W",
@@ -378,12 +378,12 @@
     "WSH": [
       "L",
       "L",
-      ""
+      "W"
     ],
     "LAC": [
       "L",
       "L",
-      ""
+      "L"
     ],
     "ARI": [
       "W",
@@ -412,6 +412,88 @@
     ]
   },
   "games": [
+    {
+      "when": "Sun 9/27 · Final",
+      "away": "LAC",
+      "home": "BUF",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Allen (BUF)",
+          "16/26, 204 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "J. Cook III (BUF)",
+          "24 CAR, 154 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "D. Moore (BUF)",
+          "6 REC, 67 YDS"
+        ],
+        [
+          "PASS",
+          "J. Herbert (LAC)",
+          "20/34, 226 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "O. Hampton (LAC)",
+          "15 CAR, 56 YDS"
+        ],
+        [
+          "REC",
+          "T. Harris (LAC)",
+          "6 REC, 76 YDS"
+        ]
+      ],
+      "as": 16,
+      "hs": 24
+    },
+    {
+      "when": "Sun 9/27 · Final",
+      "away": "CAR",
+      "home": "CLE",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Watson (CLE)",
+          "16/30, 144 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "Q. Judkins (CLE)",
+          "18 CAR, 70 YDS"
+        ],
+        [
+          "REC",
+          "H. Fannin Jr. (CLE)",
+          "7 REC, 51 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "B. Young (CAR)",
+          "26/48, 291 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. Hubbard (CAR)",
+          "19 CAR, 82 YDS"
+        ],
+        [
+          "REC",
+          "B. Tremayne (CAR)",
+          "4 REC, 83 YDS"
+        ]
+      ],
+      "as": 18,
+      "hs": 21
+    },
     {
       "when": "Sun 9/27 · Final",
       "away": "NYJ",
@@ -455,6 +537,47 @@
     },
     {
       "when": "Sun 9/27 · Final",
+      "away": "HOU",
+      "home": "IND",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Jones (IND)",
+          "24/36, 235 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Taylor (IND)",
+          "23 CAR, 68 YDS"
+        ],
+        [
+          "REC",
+          "J. Downs (IND)",
+          "5 REC, 77 YDS"
+        ],
+        [
+          "PASS",
+          "C.J. Stroud (HOU)",
+          "16/27, 167 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "D. Montgomery (HOU)",
+          "11 CAR, 33 YDS"
+        ],
+        [
+          "REC",
+          "X. Hutchinson (HOU)",
+          "3 REC, 51 YDS"
+        ]
+      ],
+      "as": 17,
+      "hs": 19
+    },
+    {
+      "when": "Sun 9/27 · Final",
       "away": "KC",
       "home": "MIA",
       "done": true,
@@ -493,6 +616,129 @@
       ],
       "as": 24,
       "hs": 10
+    },
+    {
+      "when": "Sun 9/27 · Final",
+      "away": "CIN",
+      "home": "PIT",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "A. Rodgers (PIT)",
+          "19/34, 292 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Warren (PIT)",
+          "17 CAR, 127 YDS"
+        ],
+        [
+          "REC",
+          "D. Washington (PIT)",
+          "3 REC, 67 YDS"
+        ],
+        [
+          "PASS",
+          "J. Burrow (CIN)",
+          "28/37, 282 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "C. Brown (CIN)",
+          "13 CAR, 61 YDS"
+        ],
+        [
+          "REC",
+          "J. Chase (CIN)",
+          "9 REC, 98 YDS, 1 TD"
+        ]
+      ],
+      "as": 27,
+      "hs": 30
+    },
+    {
+      "when": "Sun 9/27 · Final",
+      "away": "SEA",
+      "home": "WSH",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "M. Mariota (WSH)",
+          "19/31, 183 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "J. Croskey-Merritt (WSH)",
+          "19 CAR, 36 YDS"
+        ],
+        [
+          "REC",
+          "T. McLaurin (WSH)",
+          "6 REC, 77 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "S. Darnold (SEA)",
+          "31/45, 379 YDS, 4 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "J. Price (SEA)",
+          "5 CAR, 15 YDS"
+        ],
+        [
+          "REC",
+          "J. Smith-Njigba (SEA)",
+          "10 REC, 128 YDS, 2 TD"
+        ]
+      ],
+      "as": 31,
+      "hs": 33
+    },
+    {
+      "when": "Sun 9/27 · Final",
+      "away": "NE",
+      "home": "JAX",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "T. Lawrence (JAX)",
+          "19/29, 182 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Tuten (JAX)",
+          "15 CAR, 73 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "J. Meyers (JAX)",
+          "7 REC, 64 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Maye (NE)",
+          "14/25, 199 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "T. Henderson (NE)",
+          "8 CAR, 23 YDS"
+        ],
+        [
+          "REC",
+          "M. Hollins (NE)",
+          "6 REC, 87 YDS"
+        ]
+      ],
+      "as": 6,
+      "hs": 35
     },
     {
       "when": "Thu 9/24 · Final",
@@ -536,94 +782,37 @@
       "hs": 14
     },
     {
-      "when": "Sun 9/27 · 1:59 - 4th",
-      "away": "LAC",
-      "home": "BUF",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 13,
-      "hs": 24,
-      "clock": "1:59 - 4th"
-    },
-    {
-      "when": "Sun 9/27 · 2:36 - 4th",
-      "away": "CAR",
-      "home": "CLE",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 18,
-      "hs": 13,
-      "clock": "2:36 - 4th"
-    },
-    {
-      "when": "Sun 9/27 · 0:20 - 4th",
-      "away": "HOU",
-      "home": "IND",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 17,
-      "hs": 16,
-      "clock": "0:20 - 4th"
-    },
-    {
-      "when": "Sun 9/27 · 2:08 - 4th",
-      "away": "CIN",
-      "home": "PIT",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 27,
-      "hs": 30,
-      "clock": "2:08 - 4th"
-    },
-    {
-      "when": "Sun 9/27 · 4:34 - 4th",
-      "away": "SEA",
-      "home": "WSH",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 24,
-      "hs": 27,
-      "clock": "4:34 - 4th"
-    },
-    {
-      "when": "Sun 9/27 · 0:23 - 4th",
-      "away": "NE",
-      "home": "JAX",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 6,
-      "hs": 35,
-      "clock": "0:23 - 4th"
-    },
-    {
-      "when": "Sun 9/27 · 4:05 PM ET",
+      "when": "Sun 9/27 · 4:31 - 1st",
       "away": "ARI",
       "home": "SF",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 7,
+      "clock": "4:31 - 1st"
     },
     {
-      "when": "Sun 9/27 · 4:05 PM ET",
+      "when": "Sun 9/27 · 4:42 - 1st",
       "away": "MIN",
       "home": "TB",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 10,
+      "hs": 7,
+      "clock": "4:42 - 1st"
     },
     {
-      "when": "Sun 9/27 · 4:25 PM ET",
+      "when": "Sun 9/27 · 8:10 - 1st",
       "away": "BAL",
       "home": "DAL",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 3,
+      "clock": "8:10 - 1st"
     },
     {
       "when": "Sun 9/27 · 8:20 PM ET",
