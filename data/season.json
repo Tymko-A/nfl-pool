@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Sun, 9/27, 1:03 PM ET",
+  "updated": "Sun, 9/27, 1:34 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -454,29 +454,84 @@
       "hs": 14
     },
     {
-      "when": "Sun 9/27 · 15:00 - 1st",
+      "when": "Sun 9/27 · 1:56 - 1st",
+      "away": "LAC",
+      "home": "BUF",
+      "done": false,
+      "live": true,
+      "leaders": [],
+      "as": 7,
+      "hs": 0,
+      "clock": "1:56 - 1st"
+    },
+    {
+      "when": "Sun 9/27 · 15:00 - 2nd",
+      "away": "CAR",
+      "home": "CLE",
+      "done": false,
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 0,
+      "clock": "15:00 - 2nd"
+    },
+    {
+      "when": "Sun 9/27 · 15:00 - 2nd",
+      "away": "NYJ",
+      "home": "DET",
+      "done": false,
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 0,
+      "clock": "15:00 - 2nd"
+    },
+    {
+      "when": "Sun 9/27 · 3:07 - 1st",
+      "away": "HOU",
+      "home": "IND",
+      "done": false,
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 3,
+      "clock": "3:07 - 1st"
+    },
+    {
+      "when": "Sun 9/27 · End of 1st",
       "away": "KC",
       "home": "MIA",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 0,
-      "hs": 0,
-      "clock": "15:00 - 1st"
+      "as": 7,
+      "hs": 7,
+      "clock": "End of 1st"
     },
     {
-      "when": "Sun 9/27 · 15:00 - 1st",
+      "when": "Sun 9/27 · 2:23 - 1st",
       "away": "CIN",
       "home": "PIT",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 0,
-      "hs": 0,
-      "clock": "15:00 - 1st"
+      "as": 7,
+      "hs": 7,
+      "clock": "2:23 - 1st"
     },
     {
-      "when": "Sun 9/27 · 15:00 - 1st",
+      "when": "Sun 9/27 · 5:08 - 1st",
+      "away": "SEA",
+      "home": "WSH",
+      "done": false,
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 7,
+      "clock": "5:08 - 1st"
+    },
+    {
+      "when": "Sun 9/27 · 0:12 - 1st",
       "away": "NE",
       "home": "JAX",
       "done": false,
@@ -484,47 +539,7 @@
       "leaders": [],
       "as": 0,
       "hs": 0,
-      "clock": "15:00 - 1st"
-    },
-    {
-      "when": "Sun 9/27 · 1:00 PM ET",
-      "away": "LAC",
-      "home": "BUF",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 9/27 · 1:00 PM ET",
-      "away": "CAR",
-      "home": "CLE",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 9/27 · 1:00 PM ET",
-      "away": "NYJ",
-      "home": "DET",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 9/27 · 1:00 PM ET",
-      "away": "HOU",
-      "home": "IND",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 9/27 · 1:00 PM ET",
-      "away": "SEA",
-      "home": "WSH",
-      "done": false,
-      "live": false,
-      "leaders": []
+      "clock": "0:12 - 1st"
     },
     {
       "when": "Sun 9/27 · 4:05 PM ET",
