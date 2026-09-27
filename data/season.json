@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Sun, 9/27, 5:02 AM ET",
+  "updated": "Sun, 9/27, 1:03 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -454,6 +454,39 @@
       "hs": 14
     },
     {
+      "when": "Sun 9/27 · 15:00 - 1st",
+      "away": "KC",
+      "home": "MIA",
+      "done": false,
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 0,
+      "clock": "15:00 - 1st"
+    },
+    {
+      "when": "Sun 9/27 · 15:00 - 1st",
+      "away": "CIN",
+      "home": "PIT",
+      "done": false,
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 0,
+      "clock": "15:00 - 1st"
+    },
+    {
+      "when": "Sun 9/27 · 15:00 - 1st",
+      "away": "NE",
+      "home": "JAX",
+      "done": false,
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 0,
+      "clock": "15:00 - 1st"
+    },
+    {
       "when": "Sun 9/27 · 1:00 PM ET",
       "away": "LAC",
       "home": "BUF",
@@ -487,32 +520,8 @@
     },
     {
       "when": "Sun 9/27 · 1:00 PM ET",
-      "away": "KC",
-      "home": "MIA",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 9/27 · 1:00 PM ET",
-      "away": "CIN",
-      "home": "PIT",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 9/27 · 1:00 PM ET",
       "away": "SEA",
       "home": "WSH",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 9/27 · 1:00 PM ET",
-      "away": "NE",
-      "home": "JAX",
       "done": false,
       "live": false,
       "leaders": []
