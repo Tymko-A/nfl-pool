@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Sun, 9/27, 3:33 PM ET",
+  "updated": "Sun, 9/27, 4:03 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -161,11 +161,11 @@
     "DET": {
       "name": "Detroit Lions",
       "conf": "AFC",
-      "w": 1,
+      "w": 2,
       "l": 1,
       "t": 0,
-      "pf": 62,
-      "pa": 71,
+      "pf": 93,
+      "pa": 95,
       "color": "#0076b6"
     },
     "JAX": {
@@ -231,11 +231,11 @@
     "KC": {
       "name": "Kansas City Chiefs",
       "conf": "NFC",
-      "w": 2,
+      "w": 3,
       "l": 0,
       "t": 0,
-      "pf": 64,
-      "pa": 40,
+      "pf": 88,
+      "pa": 50,
       "color": "#e31837"
     },
     "LAR": {
@@ -283,7 +283,7 @@
     "DET": [
       "W",
       "L",
-      ""
+      "W"
     ],
     "NO": [
       "L",
@@ -293,12 +293,12 @@
     "TEN": [
       "L",
       "L",
-      ""
+      "L"
     ],
     "NYJ": [
       "W",
       "L",
-      ""
+      "L"
     ],
     "IND": [
       "L",
@@ -358,7 +358,7 @@
     "MIA": [
       "L",
       "L",
-      ""
+      "L"
     ],
     "MIN": [
       "W",
@@ -393,7 +393,7 @@
     "NYG": [
       "W",
       "L",
-      ""
+      "W"
     ],
     "DAL": [
       "L",
@@ -403,7 +403,7 @@
     "KC": [
       "W",
       "W",
-      ""
+      "W"
     ],
     "DEN": [
       "L",
@@ -412,6 +412,88 @@
     ]
   },
   "games": [
+    {
+      "when": "Sun 9/27 · Final",
+      "away": "NYJ",
+      "home": "DET",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Goff (DET)",
+          "25/32, 269 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "J. Gibbs (DET)",
+          "20 CAR, 99 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "I. TeSlaa (DET)",
+          "3 REC, 66 YDS"
+        ],
+        [
+          "PASS",
+          "G. Smith (NYJ)",
+          "31/37, 321 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "B. Hall (NYJ)",
+          "13 CAR, 32 YDS"
+        ],
+        [
+          "REC",
+          "G. Wilson (NYJ)",
+          "10 REC, 107 YDS, 1 TD"
+        ]
+      ],
+      "as": 24,
+      "hs": 31
+    },
+    {
+      "when": "Sun 9/27 · Final",
+      "away": "KC",
+      "home": "MIA",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "M. Willis (MIA)",
+          "20/36, 210 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "M. Willis (MIA)",
+          "9 CAR, 56 YDS"
+        ],
+        [
+          "REC",
+          "C. Bell (MIA)",
+          "4 REC, 67 YDS"
+        ],
+        [
+          "PASS",
+          "P. Mahomes (KC)",
+          "20/24, 246 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "K. Walker III (KC)",
+          "18 CAR, 70 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "R. Rice (KC)",
+          "7 REC, 88 YDS"
+        ]
+      ],
+      "as": 24,
+      "hs": 10
+    },
     {
       "when": "Thu 9/24 · Final",
       "away": "ATL",
@@ -454,92 +536,70 @@
       "hs": 14
     },
     {
-      "when": "Sun 9/27 · 10:28 - 4th",
+      "when": "Sun 9/27 · 1:59 - 4th",
       "away": "LAC",
       "home": "BUF",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 13,
-      "hs": 10,
-      "clock": "10:28 - 4th"
+      "hs": 24,
+      "clock": "1:59 - 4th"
     },
     {
-      "when": "Sun 9/27 · 15:00 - 4th",
+      "when": "Sun 9/27 · 2:36 - 4th",
       "away": "CAR",
       "home": "CLE",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 9,
-      "hs": 10,
-      "clock": "15:00 - 4th"
+      "as": 18,
+      "hs": 13,
+      "clock": "2:36 - 4th"
     },
     {
-      "when": "Sun 9/27 · 5:21 - 4th",
-      "away": "NYJ",
-      "home": "DET",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 16,
-      "hs": 24,
-      "clock": "5:21 - 4th"
-    },
-    {
-      "when": "Sun 9/27 · 8:21 - 4th",
+      "when": "Sun 9/27 · 0:20 - 4th",
       "away": "HOU",
       "home": "IND",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 7,
-      "hs": 16,
-      "clock": "8:21 - 4th"
-    },
-    {
-      "when": "Sun 9/27 · 7:17 - 4th",
-      "away": "KC",
-      "home": "MIA",
-      "done": false,
-      "live": true,
-      "leaders": [],
       "as": 17,
-      "hs": 10,
-      "clock": "7:17 - 4th"
+      "hs": 16,
+      "clock": "0:20 - 4th"
     },
     {
-      "when": "Sun 9/27 · 13:29 - 4th",
+      "when": "Sun 9/27 · 2:08 - 4th",
       "away": "CIN",
       "home": "PIT",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 27,
-      "hs": 24,
-      "clock": "13:29 - 4th"
+      "hs": 30,
+      "clock": "2:08 - 4th"
     },
     {
-      "when": "Sun 9/27 · 4:25 - 3rd",
+      "when": "Sun 9/27 · 4:34 - 4th",
       "away": "SEA",
       "home": "WSH",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 17,
-      "hs": 24,
-      "clock": "4:25 - 3rd"
+      "as": 24,
+      "hs": 27,
+      "clock": "4:34 - 4th"
     },
     {
-      "when": "Sun 9/27 · 13:31 - 4th",
+      "when": "Sun 9/27 · 0:23 - 4th",
       "away": "NE",
       "home": "JAX",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 3,
-      "hs": 28,
-      "clock": "13:31 - 4th"
+      "as": 6,
+      "hs": 35,
+      "clock": "0:23 - 4th"
     },
     {
       "when": "Sun 9/27 · 4:05 PM ET",
