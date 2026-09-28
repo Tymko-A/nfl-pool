@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Sun, 9/27, 10:11 PM ET",
+  "updated": "Sun, 9/27, 10:42 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -905,15 +905,15 @@
       "hs": 14
     },
     {
-      "when": "Sun 9/27 · 13:57 - 3rd",
+      "when": "Sun 9/27 · 3:11 - 3rd",
       "away": "LAR",
       "home": "DEN",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 16,
-      "hs": 0,
-      "clock": "13:57 - 3rd"
+      "hs": 8,
+      "clock": "3:11 - 3rd"
     },
     {
       "when": "Mon 9/28 · 8:15 PM ET",
