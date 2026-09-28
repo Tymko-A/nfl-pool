@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Sun, 9/27, 11:44 PM ET",
+  "updated": "Mon, 9/28, 12:12 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -151,11 +151,11 @@
     "DEN": {
       "name": "Denver Broncos",
       "conf": "NFC",
-      "w": 1,
+      "w": 2,
       "l": 1,
       "t": 0,
-      "pf": 30,
-      "pa": 44,
+      "pf": 60,
+      "pa": 70,
       "color": "#fb4f14"
     },
     "DET": {
@@ -242,10 +242,10 @@
       "name": "Los Angeles Rams",
       "conf": "AFC",
       "w": 1,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 35,
-      "pa": 33,
+      "pf": 61,
+      "pa": 63,
       "color": "#003594"
     }
   },
@@ -263,7 +263,7 @@
     "LAR": [
       "L",
       "W",
-      ""
+      "L"
     ],
     "SF": [
       "W",
@@ -408,10 +408,51 @@
     "DEN": [
       "L",
       "W",
-      ""
+      "W"
     ]
   },
   "games": [
+    {
+      "when": "Thu 9/24 · Final",
+      "away": "ATL",
+      "home": "GB",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Love (GB)",
+          "28/53, 312 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "M. Lloyd (GB)",
+          "4 CAR, 11 YDS"
+        ],
+        [
+          "REC",
+          "M. Golden (GB)",
+          "5 REC, 100 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "M. Penix Jr. (ATL)",
+          "18/25, 256 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Robinson (ATL)",
+          "29 CAR, 194 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "D. London (ATL)",
+          "9 REC, 194 YDS"
+        ]
+      ],
+      "as": 35,
+      "hs": 14
+    },
     {
       "when": "Sun 9/27 · Final",
       "away": "LAC",
@@ -864,56 +905,45 @@
       "hs": 31
     },
     {
-      "when": "Thu 9/24 · Final",
-      "away": "ATL",
-      "home": "GB",
+      "when": "Sun 9/27 · Final",
+      "away": "LAR",
+      "home": "DEN",
       "done": true,
       "live": false,
       "leaders": [
         [
           "PASS",
-          "J. Love (GB)",
-          "28/53, 312 YDS, 2 TD, 1 INT"
+          "B. Nix (DEN)",
+          "17/34, 186 YDS, 2 TD, 1 INT"
         ],
         [
           "RUSH",
-          "M. Lloyd (GB)",
-          "4 CAR, 11 YDS"
+          "J.K. Dobbins (DEN)",
+          "17 CAR, 49 YDS"
         ],
         [
           "REC",
-          "M. Golden (GB)",
-          "5 REC, 100 YDS, 1 TD"
+          "C. Sutton (DEN)",
+          "3 REC, 46 YDS"
         ],
         [
           "PASS",
-          "M. Penix Jr. (ATL)",
-          "18/25, 256 YDS, 1 TD, 1 INT"
+          "M. Stafford (LAR)",
+          "30/55, 390 YDS, 2 TD, 2 INT"
         ],
         [
           "RUSH",
-          "B. Robinson (ATL)",
-          "29 CAR, 194 YDS, 2 TD"
+          "K. Williams (LAR)",
+          "15 CAR, 88 YDS"
         ],
         [
           "REC",
-          "D. London (ATL)",
-          "9 REC, 194 YDS"
+          "D. Adams (LAR)",
+          "7 REC, 137 YDS"
         ]
       ],
-      "as": 35,
-      "hs": 14
-    },
-    {
-      "when": "Sun 9/27 · 0:47 - 4th",
-      "away": "LAR",
-      "home": "DEN",
-      "done": false,
-      "live": true,
-      "leaders": [],
       "as": 26,
-      "hs": 29,
-      "clock": "0:47 - 4th"
+      "hs": 30
     },
     {
       "when": "Mon 9/28 · 8:15 PM ET",
