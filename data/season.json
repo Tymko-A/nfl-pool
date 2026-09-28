@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Sun, 9/27, 7:35 PM ET",
+  "updated": "Sun, 9/27, 8:18 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -122,10 +122,10 @@
       "name": "Dallas Cowboys",
       "conf": "AFC",
       "w": 1,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 57,
-      "pa": 48,
+      "pf": 88,
+      "pa": 82,
       "color": "#041e42"
     },
     "BUF": {
@@ -191,11 +191,11 @@
     "BAL": {
       "name": "Baltimore Ravens",
       "conf": "NFC",
-      "w": 1,
+      "w": 2,
       "l": 1,
       "t": 0,
-      "pf": 58,
-      "pa": 47,
+      "pf": 92,
+      "pa": 78,
       "color": "#241773"
     },
     "SEA": {
@@ -288,7 +288,7 @@
     "NO": [
       "L",
       "W",
-      ""
+      "L"
     ],
     "TEN": [
       "L",
@@ -308,7 +308,7 @@
     "BAL": [
       "W",
       "L",
-      ""
+      "W"
     ],
     "PIT": [
       "W",
@@ -353,7 +353,7 @@
     "LV": [
       "W",
       "W",
-      ""
+      "W"
     ],
     "MIA": [
       "L",
@@ -398,7 +398,7 @@
     "DAL": [
       "L",
       "W",
-      ""
+      "L"
     ],
     "KC": [
       "W",
@@ -412,47 +412,6 @@
     ]
   },
   "games": [
-    {
-      "when": "Sun 9/27 · Final",
-      "away": "MIN",
-      "home": "TB",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "B. Mayfield (TB)",
-          "17/34, 217 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "B. Irving (TB)",
-          "15 CAR, 46 YDS"
-        ],
-        [
-          "REC",
-          "E. Egbuka (TB)",
-          "5 REC, 62 YDS"
-        ],
-        [
-          "PASS",
-          "K. Murray (MIN)",
-          "15/29, 168 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "A. Jones Sr. (MIN)",
-          "17 CAR, 58 YDS"
-        ],
-        [
-          "REC",
-          "J. Addison (MIN)",
-          "5 REC, 90 YDS, 1 TD"
-        ]
-      ],
-      "as": 23,
-      "hs": 16
-    },
     {
       "when": "Sun 9/27 · Final",
       "away": "LAC",
@@ -823,6 +782,88 @@
       "hs": 36
     },
     {
+      "when": "Sun 9/27 · Final",
+      "away": "MIN",
+      "home": "TB",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Mayfield (TB)",
+          "17/34, 217 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Irving (TB)",
+          "15 CAR, 46 YDS"
+        ],
+        [
+          "REC",
+          "E. Egbuka (TB)",
+          "5 REC, 62 YDS"
+        ],
+        [
+          "PASS",
+          "K. Murray (MIN)",
+          "15/29, 168 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "A. Jones Sr. (MIN)",
+          "17 CAR, 58 YDS"
+        ],
+        [
+          "REC",
+          "J. Addison (MIN)",
+          "5 REC, 90 YDS, 1 TD"
+        ]
+      ],
+      "as": 23,
+      "hs": 16
+    },
+    {
+      "when": "Sun 9/27 · Final",
+      "away": "BAL",
+      "home": "DAL",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Prescott (DAL)",
+          "25/40, 276 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "J. Williams (DAL)",
+          "19 CAR, 98 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "C. Lamb (DAL)",
+          "7 REC, 112 YDS"
+        ],
+        [
+          "PASS",
+          "L. Jackson (BAL)",
+          "15/20, 186 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "D. Henry (BAL)",
+          "26 CAR, 89 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "Z. Flowers (BAL)",
+          "5 REC, 84 YDS"
+        ]
+      ],
+      "as": 34,
+      "hs": 31
+    },
+    {
       "when": "Thu 9/24 · Final",
       "away": "ATL",
       "home": "GB",
@@ -862,17 +903,6 @@
       ],
       "as": 35,
       "hs": 14
-    },
-    {
-      "when": "Sun 9/27 · 1:14 - 4th",
-      "away": "BAL",
-      "home": "DAL",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 31,
-      "hs": 28,
-      "clock": "1:14 - 4th"
     },
     {
       "when": "Sun 9/27 · 8:20 PM ET",
