@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Mon, 9/28, 9:13 PM ET",
+  "updated": "Mon, 9/28, 9:42 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -946,15 +946,15 @@
       "hs": 30
     },
     {
-      "when": "Mon 9/28 · 7:41 - 2nd",
+      "when": "Mon 9/28 · Halftime",
       "away": "PHI",
       "home": "CHI",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 0,
-      "hs": 7,
-      "clock": "7:41 - 2nd"
+      "as": 7,
+      "hs": 10,
+      "clock": "Halftime"
     }
   ],
   "recap": {
