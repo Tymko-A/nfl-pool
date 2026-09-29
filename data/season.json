@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Mon, 9/28, 5:04 AM ET",
+  "updated": "Mon, 9/28, 8:19 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -946,12 +946,15 @@
       "hs": 30
     },
     {
-      "when": "Mon 9/28 · 8:15 PM ET",
+      "when": "Mon 9/28 · 13:08 - 1st",
       "away": "PHI",
       "home": "CHI",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 0,
+      "clock": "13:08 - 1st"
     }
   ],
   "recap": {
