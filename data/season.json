@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Mon, 9/28, 10:42 PM ET",
+  "updated": "Mon, 9/28, 11:14 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -182,10 +182,10 @@
       "name": "Philadelphia Eagles",
       "conf": "AFC",
       "w": 2,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 48,
-      "pa": 42,
+      "pf": 55,
+      "pa": 69,
       "color": "#004c54"
     },
     "BAL": {
@@ -328,7 +328,7 @@
     "CHI": [
       "W",
       "L",
-      ""
+      "W"
     ],
     "JAX": [
       "W",
@@ -373,7 +373,7 @@
     "PHI": [
       "W",
       "W",
-      ""
+      "L"
     ],
     "WSH": [
       "L",
@@ -412,6 +412,47 @@
     ]
   },
   "games": [
+    {
+      "when": "Mon 9/28 · Final",
+      "away": "PHI",
+      "home": "CHI",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "C. Keenum (CHI)",
+          "24/34, 247 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "D. Swift (CHI)",
+          "20 CAR, 84 YDS"
+        ],
+        [
+          "REC",
+          "K. Raymond (CHI)",
+          "6 REC, 90 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "J. Hurts (PHI)",
+          "16/25, 153 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "S. Barkley (PHI)",
+          "15 CAR, 82 YDS"
+        ],
+        [
+          "REC",
+          "D. Smith (PHI)",
+          "6 REC, 65 YDS"
+        ]
+      ],
+      "as": 7,
+      "hs": 27
+    },
     {
       "when": "Thu 9/24 · Final",
       "away": "ATL",
@@ -944,17 +985,6 @@
       ],
       "as": 26,
       "hs": 30
-    },
-    {
-      "when": "Mon 9/28 · 13:34 - 4th",
-      "away": "PHI",
-      "home": "CHI",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 7,
-      "hs": 20,
-      "clock": "13:34 - 4th"
     }
   ],
   "recap": {
