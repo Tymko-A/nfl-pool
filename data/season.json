@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 3,
-  "updated": "Mon, 9/28, 11:47 PM ET",
+  "updated": "Tue, 9/29, 12:14 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -412,47 +412,6 @@
     ]
   },
   "games": [
-    {
-      "when": "Mon 9/28 · Final",
-      "away": "PHI",
-      "home": "CHI",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "C. Keenum (CHI)",
-          "24/34, 247 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "D. Swift (CHI)",
-          "20 CAR, 84 YDS"
-        ],
-        [
-          "REC",
-          "K. Raymond (CHI)",
-          "6 REC, 90 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "J. Hurts (PHI)",
-          "16/25, 153 YDS, 1 INT"
-        ],
-        [
-          "RUSH",
-          "S. Barkley (PHI)",
-          "15 CAR, 82 YDS"
-        ],
-        [
-          "REC",
-          "D. Smith (PHI)",
-          "6 REC, 65 YDS"
-        ]
-      ],
-      "as": 7,
-      "hs": 27
-    },
     {
       "when": "Thu 9/24 · Final",
       "away": "ATL",
@@ -985,6 +944,47 @@
       ],
       "as": 26,
       "hs": 30
+    },
+    {
+      "when": "Mon 9/28 · Final",
+      "away": "PHI",
+      "home": "CHI",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "C. Keenum (CHI)",
+          "24/34, 247 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "D. Swift (CHI)",
+          "20 CAR, 84 YDS"
+        ],
+        [
+          "REC",
+          "K. Raymond (CHI)",
+          "6 REC, 90 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "J. Hurts (PHI)",
+          "16/25, 153 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "S. Barkley (PHI)",
+          "15 CAR, 82 YDS"
+        ],
+        [
+          "REC",
+          "D. Smith (PHI)",
+          "6 REC, 65 YDS"
+        ]
+      ],
+      "as": 7,
+      "hs": 27
     }
   ],
   "recap": {
