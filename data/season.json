@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 4,
-  "updated": "Thu, 10/1, 5:04 AM ET",
+  "updated": "Fri, 10/2, 5:04 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -112,10 +112,10 @@
       "name": "Pittsburgh Steelers",
       "conf": "NFC",
       "w": 2,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 53,
-      "pa": 60,
+      "pf": 77,
+      "pa": 87,
       "color": "#ffb612"
     },
     "DAL": {
@@ -326,7 +326,7 @@
       "W",
       "L",
       "W",
-      ""
+      "L"
     ],
     "ATL": [
       "L",
@@ -356,7 +356,7 @@
       "L",
       "W",
       "W",
-      ""
+      "W"
     ],
     "HOU": [
       "L",
@@ -445,12 +445,45 @@
   },
   "games": [
     {
-      "when": "Thu 10/1 · 8:15 PM ET",
+      "when": "Thu 10/1 · Final",
       "away": "PIT",
       "home": "CLE",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "D. Watson (CLE)",
+          "24/33, 268 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "Q. Judkins (CLE)",
+          "17 CAR, 53 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "D. Boston (CLE)",
+          "4 REC, 89 YDS"
+        ],
+        [
+          "PASS",
+          "A. Rodgers (PIT)",
+          "22/40, 299 YDS, 3 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "J. Warren (PIT)",
+          "17 CAR, 93 YDS"
+        ],
+        [
+          "REC",
+          "D. Metcalf (PIT)",
+          "5 REC, 115 YDS"
+        ]
+      ],
+      "as": 24,
+      "hs": 27
     },
     {
       "when": "Sun 10/4 · 1:00 PM ET",
