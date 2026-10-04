@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 4,
-  "updated": "Sun, 10/4, 6:04 PM ET",
+  "updated": "Sun, 10/4, 6:37 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -732,7 +732,7 @@
       "hs": 27
     },
     {
-      "when": "Sun 10/4 · 11:41 - 3rd",
+      "when": "Sun 10/4 · 0:30 - 3rd",
       "away": "KC",
       "home": "LV",
       "done": false,
@@ -740,29 +740,29 @@
       "leaders": [],
       "as": 10,
       "hs": 13,
-      "clock": "11:41 - 3rd"
+      "clock": "0:30 - 3rd"
     },
     {
-      "when": "Sun 10/4 · Halftime",
+      "when": "Sun 10/4 · 4:15 - 3rd",
       "away": "DEN",
       "home": "SF",
       "done": false,
       "live": true,
       "leaders": [],
       "as": 3,
-      "hs": 3,
-      "clock": "Halftime"
+      "hs": 10,
+      "clock": "4:15 - 3rd"
     },
     {
-      "when": "Sun 10/4 · Halftime",
+      "when": "Sun 10/4 · 4:58 - 3rd",
       "away": "LAC",
       "home": "SEA",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 6,
-      "hs": 20,
-      "clock": "Halftime"
+      "as": 12,
+      "hs": 27,
+      "clock": "4:58 - 3rd"
     },
     {
       "when": "Sun 10/4 · 8:20 PM ET",
