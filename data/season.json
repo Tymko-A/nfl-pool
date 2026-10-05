@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 4,
-  "updated": "Sun, 10/4, 11:14 PM ET",
+  "updated": "Sun, 10/4, 11:46 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -162,10 +162,10 @@
       "name": "Detroit Lions",
       "conf": "AFC",
       "w": 2,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 93,
-      "pa": 95,
+      "pf": 119,
+      "pa": 127,
       "color": "#0076b6"
     },
     "JAX": {
@@ -221,11 +221,11 @@
     "CAR": {
       "name": "Carolina Panthers",
       "conf": "AFC",
-      "w": 1,
+      "w": 2,
       "l": 2,
       "t": 0,
-      "pf": 89,
-      "pa": 83,
+      "pf": 121,
+      "pa": 109,
       "color": "#0085ca"
     },
     "KC": {
@@ -290,7 +290,7 @@
       "W",
       "L",
       "W",
-      ""
+      "L"
     ],
     "NO": [
       "L",
@@ -338,7 +338,7 @@
       "L",
       "W",
       "L",
-      ""
+      "W"
     ],
     "CHI": [
       "W",
@@ -444,6 +444,47 @@
     ]
   },
   "games": [
+    {
+      "when": "Sun 10/4 · Final",
+      "away": "DET",
+      "home": "CAR",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Young (CAR)",
+          "29/41, 329 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "C. Hubbard (CAR)",
+          "20 CAR, 122 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "T. McMillan (CAR)",
+          "14 REC, 192 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "J. Goff (DET)",
+          "32/52, 412 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "J. Gibbs (DET)",
+          "15 CAR, 46 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "J. Williams (DET)",
+          "6 REC, 102 YDS"
+        ]
+      ],
+      "as": 26,
+      "hs": 32
+    },
     {
       "when": "Sun 10/4 · Final",
       "away": "NE",
@@ -853,17 +894,6 @@
       ],
       "as": 24,
       "hs": 27
-    },
-    {
-      "when": "Sun 10/4 · 7:02 - 4th",
-      "away": "DET",
-      "home": "CAR",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 19,
-      "hs": 32,
-      "clock": "7:02 - 4th"
     }
   ],
   "recap": {
