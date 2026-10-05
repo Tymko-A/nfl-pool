@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 4,
-  "updated": "Sun, 10/4, 10:13 PM ET",
+  "updated": "Sun, 10/4, 10:45 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -855,15 +855,15 @@
       "hs": 27
     },
     {
-      "when": "Sun 10/4 · 11:25 - 3rd",
+      "when": "Sun 10/4 · 15:00 - 4th",
       "away": "DET",
       "home": "CAR",
       "done": false,
       "live": true,
       "leaders": [],
-      "as": 16,
-      "hs": 16,
-      "clock": "11:25 - 3rd"
+      "as": 19,
+      "hs": 29,
+      "clock": "15:00 - 4th"
     }
   ],
   "recap": {
