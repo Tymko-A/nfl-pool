@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 4,
-  "updated": "Sun, 10/4, 11:46 PM ET",
+  "updated": "Mon, 10/5, 12:15 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -445,45 +445,45 @@
   },
   "games": [
     {
-      "when": "Sun 10/4 · Final",
-      "away": "DET",
-      "home": "CAR",
+      "when": "Thu 10/1 · Final",
+      "away": "PIT",
+      "home": "CLE",
       "done": true,
       "live": false,
       "leaders": [
         [
           "PASS",
-          "B. Young (CAR)",
-          "29/41, 329 YDS, 2 TD"
+          "D. Watson (CLE)",
+          "24/33, 268 YDS, 1 TD, 1 INT"
         ],
         [
           "RUSH",
-          "C. Hubbard (CAR)",
-          "20 CAR, 122 YDS, 2 TD"
+          "Q. Judkins (CLE)",
+          "17 CAR, 53 YDS, 1 TD"
         ],
         [
           "REC",
-          "T. McMillan (CAR)",
-          "14 REC, 192 YDS, 2 TD"
+          "D. Boston (CLE)",
+          "4 REC, 89 YDS"
         ],
         [
           "PASS",
-          "J. Goff (DET)",
-          "32/52, 412 YDS, 1 TD"
+          "A. Rodgers (PIT)",
+          "22/40, 299 YDS, 3 TD, 2 INT"
         ],
         [
           "RUSH",
-          "J. Gibbs (DET)",
-          "15 CAR, 46 YDS, 1 TD"
+          "J. Warren (PIT)",
+          "17 CAR, 93 YDS"
         ],
         [
           "REC",
-          "J. Williams (DET)",
-          "6 REC, 102 YDS"
+          "D. Metcalf (PIT)",
+          "5 REC, 115 YDS"
         ]
       ],
-      "as": 26,
-      "hs": 32
+      "as": 24,
+      "hs": 27
     },
     {
       "when": "Sun 10/4 · Final",
@@ -855,45 +855,45 @@
       "hs": 30
     },
     {
-      "when": "Thu 10/1 · Final",
-      "away": "PIT",
-      "home": "CLE",
+      "when": "Sun 10/4 · Final",
+      "away": "DET",
+      "home": "CAR",
       "done": true,
       "live": false,
       "leaders": [
         [
           "PASS",
-          "D. Watson (CLE)",
-          "24/33, 268 YDS, 1 TD, 1 INT"
+          "B. Young (CAR)",
+          "29/41, 329 YDS, 2 TD"
         ],
         [
           "RUSH",
-          "Q. Judkins (CLE)",
-          "17 CAR, 53 YDS, 1 TD"
+          "C. Hubbard (CAR)",
+          "20 CAR, 122 YDS, 2 TD"
         ],
         [
           "REC",
-          "D. Boston (CLE)",
-          "4 REC, 89 YDS"
+          "T. McMillan (CAR)",
+          "14 REC, 192 YDS, 2 TD"
         ],
         [
           "PASS",
-          "A. Rodgers (PIT)",
-          "22/40, 299 YDS, 3 TD, 2 INT"
+          "J. Goff (DET)",
+          "32/52, 412 YDS, 1 TD"
         ],
         [
           "RUSH",
-          "J. Warren (PIT)",
-          "17 CAR, 93 YDS"
+          "J. Gibbs (DET)",
+          "15 CAR, 46 YDS, 1 TD"
         ],
         [
           "REC",
-          "D. Metcalf (PIT)",
-          "5 REC, 115 YDS"
+          "J. Williams (DET)",
+          "6 REC, 102 YDS"
         ]
       ],
-      "as": 24,
-      "hs": 27
+      "as": 26,
+      "hs": 32
     }
   ],
   "recap": {
