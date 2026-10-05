@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 4,
-  "updated": "Sun, 10/4, 7:37 PM ET",
+  "updated": "Sun, 10/4, 8:19 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -201,21 +201,21 @@
     "SEA": {
       "name": "Seattle Seahawks",
       "conf": "AFC",
-      "w": 2,
+      "w": 3,
       "l": 1,
       "t": 0,
-      "pf": 75,
-      "pa": 50,
+      "pf": 105,
+      "pa": 73,
       "color": "#69be28"
     },
     "LAC": {
       "name": "Los Angeles Chargers",
       "conf": "NFC",
       "w": 0,
-      "l": 3,
+      "l": 4,
       "t": 0,
-      "pf": 44,
-      "pa": 76,
+      "pf": 67,
+      "pa": 106,
       "color": "#0080c6"
     },
     "CAR": {
@@ -231,11 +231,11 @@
     "KC": {
       "name": "Kansas City Chiefs",
       "conf": "NFC",
-      "w": 3,
+      "w": 4,
       "l": 0,
       "t": 0,
-      "pf": 88,
-      "pa": 50,
+      "pf": 118,
+      "pa": 77,
       "color": "#e31837"
     },
     "LAR": {
@@ -254,7 +254,7 @@
       "W",
       "W",
       "L",
-      ""
+      "W"
     ],
     "NE": [
       "L",
@@ -374,7 +374,7 @@
       "W",
       "W",
       "W",
-      ""
+      "L"
     ],
     "MIA": [
       "L",
@@ -410,7 +410,7 @@
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "ARI": [
       "W",
@@ -434,7 +434,7 @@
       "W",
       "W",
       "W",
-      ""
+      "W"
     ],
     "DEN": [
       "L",
@@ -444,47 +444,6 @@
     ]
   },
   "games": [
-    {
-      "when": "Sun 10/4 · Final",
-      "away": "DEN",
-      "home": "SF",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "B. Purdy (SF)",
-          "19/30, 218 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "C. McCaffrey (SF)",
-          "15 CAR, 52 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "M. Evans (SF)",
-          "5 REC, 76 YDS"
-        ],
-        [
-          "PASS",
-          "B. Nix (DEN)",
-          "25/42, 214 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "J.K. Dobbins (DEN)",
-          "11 CAR, 40 YDS"
-        ],
-        [
-          "REC",
-          "R. Harvey (DEN)",
-          "10 REC, 68 YDS"
-        ]
-      ],
-      "as": 14,
-      "hs": 24
-    },
     {
       "when": "Sun 10/4 · Final",
       "away": "NE",
@@ -732,6 +691,129 @@
       "hs": 30
     },
     {
+      "when": "Sun 10/4 · Final",
+      "away": "KC",
+      "home": "LV",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "K. Cousins (LV)",
+          "31/52, 365 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "A. Jeanty (LV)",
+          "15 CAR, 58 YDS"
+        ],
+        [
+          "REC",
+          "B. Bowers (LV)",
+          "6 REC, 86 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "P. Mahomes (KC)",
+          "15/30, 225 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "K. Walker III (KC)",
+          "22 CAR, 177 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "T. Thornton (KC)",
+          "5 REC, 111 YDS, 2 TD"
+        ]
+      ],
+      "as": 30,
+      "hs": 27
+    },
+    {
+      "when": "Sun 10/4 · Final",
+      "away": "DEN",
+      "home": "SF",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Purdy (SF)",
+          "19/30, 218 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "C. McCaffrey (SF)",
+          "15 CAR, 52 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "M. Evans (SF)",
+          "5 REC, 76 YDS"
+        ],
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "25/42, 214 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "J.K. Dobbins (DEN)",
+          "11 CAR, 40 YDS"
+        ],
+        [
+          "REC",
+          "R. Harvey (DEN)",
+          "10 REC, 68 YDS"
+        ]
+      ],
+      "as": 14,
+      "hs": 24
+    },
+    {
+      "when": "Sun 10/4 · Final",
+      "away": "LAC",
+      "home": "SEA",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "S. Darnold (SEA)",
+          "13/22, 168 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "E. Wilson (SEA)",
+          "21 CAR, 81 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "J. Smith-Njigba (SEA)",
+          "5 REC, 76 YDS"
+        ],
+        [
+          "PASS",
+          "J. Herbert (LAC)",
+          "19/31, 189 YDS, 1 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "O. Hampton (LAC)",
+          "9 CAR, 45 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "T. Harris (LAC)",
+          "3 REC, 60 YDS"
+        ]
+      ],
+      "as": 23,
+      "hs": 30
+    },
+    {
       "when": "Thu 10/1 · Final",
       "away": "PIT",
       "home": "CLE",
@@ -771,28 +853,6 @@
       ],
       "as": 24,
       "hs": 27
-    },
-    {
-      "when": "Sun 10/4 · 1:11 - 4th",
-      "away": "KC",
-      "home": "LV",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 30,
-      "hs": 27,
-      "clock": "1:11 - 4th"
-    },
-    {
-      "when": "Sun 10/4 · 1:56 - 4th",
-      "away": "LAC",
-      "home": "SEA",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 23,
-      "hs": 30,
-      "clock": "1:56 - 4th"
     },
     {
       "when": "Sun 10/4 · 8:20 PM ET",
