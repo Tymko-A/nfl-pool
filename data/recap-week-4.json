@@ -1,0 +1,163 @@
+{
+  "week": "Week 4",
+  "headline": "Orest and Tymko stay perfect with 2-0 weekends; Jordy blanked",
+  "dek": "Week 4 delivered five head-to-heads and a clear separation atop the standings. Orest and Tymko both went 2-0 to seize the lead at 6-2, while five entrants settled for 1-1 splits and Jordy suffered the week's only shutout.",
+  "takeaways": [
+    "Five head-to-heads in one week — the most pool consequence we've seen all season.",
+    "Orest's Ravens and Seahawks both won close ones to keep pace with Tymko's unbeaten Chiefs.",
+    "Ben's Niners stay spotless at 4-0 while his Texans remain winless at 0-4 — a 4-game swing between his two teams.",
+    "Jordy's 0-2 drops him into a three-way logjam at 4-4 with Ben and Bill."
+  ],
+  "games": [
+    {
+      "winKey": "CLE",
+      "winScore": 27,
+      "loseKey": "PIT",
+      "loseScore": 24,
+      "text": "Bill's Steelers jumped out to a 17-7 lead behind three Aaron Rodgers touchdown passes, but Deshaun Watson brought the Browns back with 268 yards and a late scoring drive. Jaylen Warren churned out 93 yards on the ground and DK Metcalf hauled in 115 receiving, but two Rodgers picks proved costly. Bill falls to 2-2 with Pittsburgh and faces the Colts at home Sunday afternoon."
+    },
+    {
+      "winKey": "NE",
+      "winScore": 29,
+      "loseKey": "BUF",
+      "loseScore": 26,
+      "text": "The week's first head-to-head went to Adrian as his Patriots stunned Chris's Bills in Orchard Park. Drake Maye threw three touchdowns and scrambled for 54 yards while Josh Allen's 253 yards and a pick weren't enough for Buffalo. The three-point win gave Adrian a crucial head-to-head edge over Chris, though both remain stuck in the middle of the pack at 5-3 and 4-4 respectively."
+    },
+    {
+      "winKey": "JAX",
+      "winScore": 22,
+      "loseKey": "CIN",
+      "loseScore": 17,
+      "text": "Matej's Jags survived a Joe Burrow aerial assault — 428 yards and 11 Tee Higgins catches — to escape Cincinnati with a five-point win. Trevor Lawrence was efficient at 18-of-23 for 227 yards and Travis Etienne's ground game controlled the clock down the stretch. Matej sits at 5-3, one game back of the co-leaders, and faces a peculiar self-head-to-head Sunday morning in London."
+    },
+    {
+      "winKey": "LAR",
+      "winScore": 24,
+      "loseKey": "PHI",
+      "loseScore": 20,
+      "text": "Tymko's Rams took the Sunday afternoon head-to-head from Matej's Eagles behind Kyren Williams's two rushing scores and Puka Nacua's 125 receiving yards. Jalen Hurts managed just 93 passing yards but threw two touchdowns to DeVonta Cooper; it wasn't enough to overcome Matthew Stafford's 317-yard effort despite two picks. The win keeps Tymko tied atop the pool at 6-2."
+    },
+    {
+      "winKey": "GB",
+      "winScore": 17,
+      "loseKey": "TB",
+      "loseScore": 14,
+      "text": "Chris's Pack squeaked past Adrian's Bucs in Tampa to salvage a 1-1 split in the week's third head-to-head. Jordan Love threw two touchdowns against one interception while Jayden Daniels was picked off twice in his first career start for the Buccaneers. The three-point margin keeps Chris in the hunt at 5-3 overall despite the Bills loss."
+    },
+    {
+      "winKey": "BAL",
+      "winScore": 24,
+      "loseKey": "TEN",
+      "loseScore": 18,
+      "text": "Orest's Ravens handled the Titans at home behind Lamar Jackson's tidy 15-of-20, 222-yard, two-touchdown performance. Derrick Henry rumbled for 73 yards and a score against his former team, while Zay Flowers torched Tennessee for 118 yards and a touchdown. The win keeps Baltimore perfect at 3-1 and Orest tied for the pool lead."
+    },
+    {
+      "winKey": "DAL",
+      "winScore": 34,
+      "loseKey": "HOU",
+      "loseScore": 30,
+      "text": "Bill's Cowboys outlasted Ben's Texans in a head-to-head shootout that saw CeeDee Lamb catch 17 balls for 189 yards and Javonte Williams punch in three rushing touchdowns. C.J. Stroud threw for 347 yards and Nico Collins had two scores, but Houston's winless start continues at 0-4. Bill gets the crucial pool point and stays afloat at 4-4."
+    },
+    {
+      "winKey": "KC",
+      "winScore": 30,
+      "loseKey": "LV",
+      "loseScore": 27,
+      "text": "Tymko's unbeaten Chiefs survived a scare in Vegas as Kenneth Walker III exploded for 177 yards and two touchdowns on 22 carries. Patrick Mahomes threw two scores to Travis Thornton, and Kansas City improved to 4-0 despite Kirk Cousins's 365-yard, two-touchdown effort for the Raiders. Tymko sits 6-2 and tied for first, one game ahead of five chasers."
+    },
+    {
+      "winKey": "SF",
+      "winScore": 24,
+      "loseKey": "DEN",
+      "loseScore": 14,
+      "text": "Ben's Niners rolled over Jordy's Broncos in the week's final head-to-head as Brock Purdy threw two touchdowns and Christian McCaffrey rumbled for 52 yards and a score. Bo Nix threw for 214 yards but couldn't keep pace with San Francisco's balanced attack. The 10-point win pushes Ben's 49ers to 4-0 while Jordy's Broncos slip to 2-2."
+    },
+    {
+      "winKey": "SEA",
+      "winScore": 30,
+      "loseKey": "LAC",
+      "loseScore": 23,
+      "text": "Orest's Seahawks took care of Taras's still-winless Chargers in a Sunday night head-to-head behind Sam Darnold's two touchdown passes and Elijah Wilson's 81-yard rushing effort. Justin Herbert threw two picks and the Chargers fall to 0-4, leaving Taras mired in eighth place at 2-6. Orest's 2-0 week vaults him into a share of the lead."
+    },
+    {
+      "winKey": "CAR",
+      "winScore": 32,
+      "loseKey": "DET",
+      "loseScore": 26,
+      "text": "Taras's Panthers salvaged a 1-1 split by outlasting Jordy's Lions in Charlotte. Bryce Young threw for 329 yards and two scores, while Tetairoa McMillan torched Detroit for 14 catches, 192 yards, and two touchdowns. Chuba Hubbard added 122 yards and two rushing scores. Jared Goff's 412-yard effort wasn't enough, and Jordy's 0-2 week drops him to 4-4."
+    }
+  ],
+  "entrants": [
+    {
+      "name": "Orest",
+      "result": "2-0",
+      "tone": "good",
+      "text": "The week's only clean sweep — his Ravens dispatched Tennessee and his Seahawks took the head-to-head from Taras's Chargers to seize a share of first place at 6-2. He faces a crucial Sunday night showdown with Ben's unbeaten Niners."
+    },
+    {
+      "name": "Tymko",
+      "result": "2-0",
+      "tone": "good",
+      "text": "His Chiefs stayed perfect at 4-0 with a narrow escape in Vegas, and his Rams won the head-to-head over Matej's Eagles to match Orest at 6-2 atop the standings. He gets a bye this week with Kansas City, then faces Chris's Bills on Monday night."
+    },
+    {
+      "name": "Matej",
+      "result": "1-1",
+      "tone": "flat",
+      "text": "His Jags held off the Bengals but his Eagles fell to Tymko's Rams in the head-to-head, leaving him one game back at 5-3. He faces himself Sunday morning in London as his Eagles and Jaguars meet in the season's most unusual pool matchup."
+    },
+    {
+      "name": "Chris",
+      "result": "1-1",
+      "tone": "flat",
+      "text": "His Bills lost the head-to-head to Adrian's Patriots but his Packers beat Adrian's Bucs in the return fixture, salvaging a split that keeps him at 5-3. He faces the Bears on Sunday then the pivotal Monday night head-to-head with Tymko's Rams."
+    },
+    {
+      "name": "Ben, Bill, and Adrian",
+      "result": "1-1",
+      "tone": "flat",
+      "text": "All three went 1-1 in head-to-heads — Ben's Niners crushed Jordy's Broncos but his Texans fell to Bill's Cowboys; Bill lost to the Browns with Pittsburgh; Adrian's Patriots beat Chris's Bills but his Bucs fell to Chris's Pack. Ben faces another head-to-head Sunday afternoon, Bill gets one Thursday night, and Adrian's winless Bucs visit Dallas on a short week."
+    },
+    {
+      "name": "Taras",
+      "result": "1-1",
+      "tone": "bad",
+      "text": "His Panthers salvaged a win over Jordy's Lions, but his Chargers fell to 0-4 in the head-to-head loss to Orest's Seahawks, leaving him at 2-6 in eighth place. His Chargers host Jordy's Broncos Sunday in a must-win head-to-head."
+    },
+    {
+      "name": "Jordy",
+      "result": "0-2",
+      "tone": "bad",
+      "text": "The week's only shutout — his Broncos were overwhelmed by Ben's Niners and his Lions fell to Taras's Panthers, dropping him into a three-way tie at 4-4. He faces two more head-to-heads in Week 5 and desperately needs a split."
+    }
+  ],
+  "ahead": [
+    "Week 5 kicks off Thursday night with Adrian's winless Bucs visiting Bill's Cowboys in a head-to-head that could push one of them toward the bottom.",
+    "Matej faces himself Sunday morning in London as his Eagles meet his Jaguars in the pool's most peculiar matchup.",
+    "Sunday afternoon brings three more head-to-heads: Jordy's Broncos at Taras's Chargers, Ben's Niners at Orest's Seahawks, and Chris's Bills at Tymko's Rams on Monday night."
+  ],
+  "notes": [
+    {
+      "label": "Biggest swing",
+      "value": "Orest +2, Jordy -2",
+      "sub": "Orest's sweep and Jordy's blanking created a four-game gap"
+    },
+    {
+      "label": "Head-to-head record",
+      "value": "5 in one week",
+      "sub": "Most pool consequence we've seen all season"
+    },
+    {
+      "label": "Strangest split",
+      "value": "Ben's 4-game divide",
+      "sub": "49ers 4-0, Texans 0-4 — eight games, eight different results"
+    },
+    {
+      "label": "Next week chaos",
+      "value": "5 more head-to-heads",
+      "sub": "Including Matej vs. Matej in London"
+    }
+  ],
+  "generated": "Written Tue, 10/6, 6:07 AM ET from the nightly feed",
+  "weekNumber": 4
+}
