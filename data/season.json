@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "week": 4,
-  "updated": "Tue, 10/6, 6:07 AM ET",
+  "week": 5,
+  "updated": "Wed, 10/7, 5:04 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -254,646 +254,315 @@
       "W",
       "W",
       "L",
-      "W"
+      "W",
+      ""
     ],
     "NE": [
       "L",
       "W",
       "L",
-      "W"
+      "W",
+      ""
     ],
     "LAR": [
       "L",
       "W",
       "L",
-      "W"
+      "W",
+      ""
     ],
     "SF": [
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      ""
     ],
     "CIN": [
       "W",
       "W",
       "L",
-      "L"
+      "L",
+      ""
     ],
     "TB": [
       "L",
       "L",
       "L",
-      "L"
+      "L",
+      ""
     ],
     "DET": [
       "W",
       "L",
       "W",
-      "L"
+      "L",
+      ""
     ],
     "NO": [
       "L",
       "W",
       "L",
-      "L"
+      "L",
+      ""
     ],
     "TEN": [
       "L",
       "L",
       "L",
-      "L"
+      "L",
+      ""
     ],
     "NYJ": [
       "W",
       "L",
       "L",
-      "L"
+      "L",
+      ""
     ],
     "IND": [
       "L",
       "L",
       "W",
-      "W"
+      "W",
+      ""
     ],
     "BAL": [
       "W",
       "L",
       "W",
-      "W"
+      "W",
+      ""
     ],
     "PIT": [
       "W",
       "L",
       "W",
-      "L"
+      "L",
+      ""
     ],
     "ATL": [
       "L",
       "L",
       "W",
-      "W"
+      "W",
+      ""
     ],
     "CAR": [
       "L",
       "W",
       "L",
-      "W"
+      "W",
+      ""
     ],
     "CHI": [
       "W",
       "L",
       "W",
-      "W"
+      "W",
+      ""
     ],
     "JAX": [
       "W",
       "L",
       "W",
-      "W"
+      "W",
+      ""
     ],
     "CLE": [
       "L",
       "W",
       "W",
-      "W"
+      "W",
+      ""
     ],
     "HOU": [
       "L",
       "L",
       "L",
-      "L"
+      "L",
+      ""
     ],
     "BUF": [
       "W",
       "W",
       "W",
-      "L"
+      "L",
+      ""
     ],
     "LV": [
       "W",
       "W",
       "W",
-      "L"
+      "L",
+      ""
     ],
     "MIA": [
       "L",
       "L",
       "L",
-      "L"
+      "L",
+      ""
     ],
     "MIN": [
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      ""
     ],
     "GB": [
       "L",
       "W",
       "L",
-      "W"
+      "W",
+      ""
     ],
     "PHI": [
       "W",
       "W",
       "L",
-      "L"
+      "L",
+      ""
     ],
     "WSH": [
       "L",
       "L",
       "W",
-      "L"
+      "L",
+      ""
     ],
     "LAC": [
       "L",
       "L",
       "L",
-      "L"
+      "L",
+      ""
     ],
     "ARI": [
       "W",
       "L",
       "L",
-      "L"
+      "L",
+      ""
     ],
     "NYG": [
       "W",
       "L",
       "W",
-      "W"
+      "W",
+      ""
     ],
     "DAL": [
       "L",
       "W",
       "L",
-      "W"
+      "W",
+      ""
     ],
     "KC": [
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      ""
     ],
     "DEN": [
       "L",
       "W",
       "W",
-      "L"
+      "L",
+      ""
     ]
   },
   "games": [
     {
-      "when": "Thu 10/1 · Final",
-      "away": "PIT",
-      "home": "CLE",
-      "done": true,
+      "when": "Thu 10/8 · 8:15 PM ET",
+      "away": "TB",
+      "home": "DAL",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "D. Watson (CLE)",
-          "24/33, 268 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "Q. Judkins (CLE)",
-          "17 CAR, 53 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "D. Boston (CLE)",
-          "4 REC, 89 YDS"
-        ],
-        [
-          "PASS",
-          "A. Rodgers (PIT)",
-          "22/40, 299 YDS, 3 TD, 2 INT"
-        ],
-        [
-          "RUSH",
-          "J. Warren (PIT)",
-          "17 CAR, 93 YDS"
-        ],
-        [
-          "REC",
-          "D. Metcalf (PIT)",
-          "5 REC, 115 YDS"
-        ]
-      ],
-      "as": 24,
-      "hs": 27
+      "leaders": []
     },
     {
-      "when": "Sun 10/4 · Final",
-      "away": "NE",
-      "home": "BUF",
-      "done": true,
+      "when": "Sun 10/11 · 9:30 AM ET",
+      "away": "PHI",
+      "home": "JAX",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "J. Allen (BUF)",
-          "23/33, 253 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "J. Cook III (BUF)",
-          "12 CAR, 75 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "K. Coleman (BUF)",
-          "6 REC, 116 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "D. Maye (NE)",
-          "22/37, 269 YDS, 3 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "D. Maye (NE)",
-          "8 CAR, 54 YDS"
-        ],
-        [
-          "REC",
-          "H. Henry (NE)",
-          "5 REC, 62 YDS"
-        ]
-      ],
-      "as": 29,
-      "hs": 26
+      "leaders": []
     },
     {
-      "when": "Sun 10/4 · Final",
-      "away": "JAX",
-      "home": "CIN",
-      "done": true,
+      "when": "Sun 10/11 · 1:00 PM ET",
+      "away": "CHI",
+      "home": "GB",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "J. Burrow (CIN)",
-          "39/54, 428 YDS, 1 TD, 2 INT"
-        ],
-        [
-          "RUSH",
-          "C. Brown (CIN)",
-          "9 CAR, 10 YDS"
-        ],
-        [
-          "REC",
-          "T. Higgins (CIN)",
-          "11 REC, 157 YDS"
-        ],
-        [
-          "PASS",
-          "T. Lawrence (JAX)",
-          "18/23, 227 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "B. Tuten (JAX)",
-          "17 CAR, 73 YDS"
-        ],
-        [
-          "REC",
-          "B. Strange (JAX)",
-          "7 REC, 95 YDS"
-        ]
-      ],
-      "as": 22,
-      "hs": 17
+      "leaders": []
     },
     {
-      "when": "Sun 10/4 · Final",
-      "away": "LAR",
-      "home": "PHI",
-      "done": true,
+      "when": "Sun 10/11 · 1:00 PM ET",
+      "away": "HOU",
+      "home": "TEN",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "J. Hurts (PHI)",
-          "12/27, 93 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "T. Bigsby (PHI)",
-          "14 CAR, 55 YDS"
-        ],
-        [
-          "REC",
-          "D. Cooper (PHI)",
-          "3 REC, 33 YDS, 2 TD"
-        ],
-        [
-          "PASS",
-          "M. Stafford (LAR)",
-          "32/51, 317 YDS, 2 INT"
-        ],
-        [
-          "RUSH",
-          "K. Williams (LAR)",
-          "16 CAR, 80 YDS, 2 TD"
-        ],
-        [
-          "REC",
-          "P. Nacua (LAR)",
-          "9 REC, 125 YDS"
-        ]
-      ],
-      "as": 24,
-      "hs": 20
+      "leaders": []
     },
     {
-      "when": "Sun 10/4 · Final",
-      "away": "GB",
-      "home": "TB",
-      "done": true,
+      "when": "Sun 10/11 · 1:00 PM ET",
+      "away": "LV",
+      "home": "NE",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "J. Daniels (TB)",
-          "19/27, 148 YDS, 1 TD, 2 INT"
-        ],
-        [
-          "RUSH",
-          "B. Irving (TB)",
-          "16 CAR, 61 YDS"
-        ],
-        [
-          "REC",
-          "C. Otton (TB)",
-          "4 REC, 37 YDS"
-        ],
-        [
-          "PASS",
-          "J. Love (GB)",
-          "22/30, 197 YDS, 2 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "K. Johnson (GB)",
-          "8 CAR, 42 YDS"
-        ],
-        [
-          "REC",
-          "C. Watson (GB)",
-          "3 REC, 47 YDS"
-        ]
-      ],
-      "as": 17,
-      "hs": 14
+      "leaders": []
     },
     {
-      "when": "Sun 10/4 · Final",
-      "away": "TEN",
-      "home": "BAL",
-      "done": true,
+      "when": "Sun 10/11 · 1:00 PM ET",
+      "away": "IND",
+      "home": "PIT",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "L. Jackson (BAL)",
-          "15/20, 222 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "D. Henry (BAL)",
-          "23 CAR, 73 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "Z. Flowers (BAL)",
-          "8 REC, 118 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "C. Ward (TEN)",
-          "20/31, 222 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "T. Pollard (TEN)",
-          "16 CAR, 48 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "C. Tate (TEN)",
-          "9 REC, 145 YDS"
-        ]
-      ],
-      "as": 18,
-      "hs": 24
+      "leaders": []
     },
     {
-      "when": "Sun 10/4 · Final",
-      "away": "DAL",
-      "home": "HOU",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "C.J. Stroud (HOU)",
-          "21/31, 347 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "D. Montgomery (HOU)",
-          "10 CAR, 24 YDS"
-        ],
-        [
-          "REC",
-          "N. Collins (HOU)",
-          "7 REC, 118 YDS, 2 TD"
-        ],
-        [
-          "PASS",
-          "D. Prescott (DAL)",
-          "32/45, 335 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "J. Williams (DAL)",
-          "19 CAR, 62 YDS, 3 TD"
-        ],
-        [
-          "REC",
-          "C. Lamb (DAL)",
-          "17 REC, 189 YDS, 1 TD"
-        ]
-      ],
-      "as": 34,
-      "hs": 30
-    },
-    {
-      "when": "Sun 10/4 · Final",
-      "away": "KC",
-      "home": "LV",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "K. Cousins (LV)",
-          "31/52, 365 YDS, 2 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "A. Jeanty (LV)",
-          "15 CAR, 58 YDS"
-        ],
-        [
-          "REC",
-          "B. Bowers (LV)",
-          "6 REC, 86 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "P. Mahomes (KC)",
-          "15/30, 225 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "K. Walker III (KC)",
-          "22 CAR, 177 YDS, 2 TD"
-        ],
-        [
-          "REC",
-          "T. Thornton (KC)",
-          "5 REC, 111 YDS, 2 TD"
-        ]
-      ],
-      "as": 30,
-      "hs": 27
-    },
-    {
-      "when": "Sun 10/4 · Final",
+      "when": "Sun 10/11 · 4:05 PM ET",
       "away": "DEN",
-      "home": "SF",
-      "done": true,
+      "home": "LAC",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "B. Purdy (SF)",
-          "19/30, 218 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "C. McCaffrey (SF)",
-          "15 CAR, 52 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "M. Evans (SF)",
-          "5 REC, 76 YDS"
-        ],
-        [
-          "PASS",
-          "B. Nix (DEN)",
-          "25/42, 214 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "J.K. Dobbins (DEN)",
-          "11 CAR, 40 YDS"
-        ],
-        [
-          "REC",
-          "R. Harvey (DEN)",
-          "10 REC, 68 YDS"
-        ]
-      ],
-      "as": 14,
-      "hs": 24
+      "leaders": []
     },
     {
-      "when": "Sun 10/4 · Final",
-      "away": "LAC",
-      "home": "SEA",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "S. Darnold (SEA)",
-          "13/22, 168 YDS, 2 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "E. Wilson (SEA)",
-          "21 CAR, 81 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "J. Smith-Njigba (SEA)",
-          "5 REC, 76 YDS"
-        ],
-        [
-          "PASS",
-          "J. Herbert (LAC)",
-          "19/31, 189 YDS, 1 TD, 2 INT"
-        ],
-        [
-          "RUSH",
-          "O. Hampton (LAC)",
-          "9 CAR, 45 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "T. Harris (LAC)",
-          "3 REC, 60 YDS"
-        ]
-      ],
-      "as": 23,
-      "hs": 30
-    },
-    {
-      "when": "Sun 10/4 · Final",
+      "when": "Sun 10/11 · 4:25 PM ET",
       "away": "DET",
-      "home": "CAR",
-      "done": true,
+      "home": "ARI",
+      "done": false,
       "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "B. Young (CAR)",
-          "29/41, 329 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "C. Hubbard (CAR)",
-          "20 CAR, 122 YDS, 2 TD"
-        ],
-        [
-          "REC",
-          "T. McMillan (CAR)",
-          "14 REC, 192 YDS, 2 TD"
-        ],
-        [
-          "PASS",
-          "J. Goff (DET)",
-          "32/52, 412 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "J. Gibbs (DET)",
-          "15 CAR, 46 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "J. Williams (DET)",
-          "6 REC, 102 YDS"
-        ]
-      ],
-      "as": 26,
-      "hs": 32
+      "leaders": []
+    },
+    {
+      "when": "Sun 10/11 · 4:25 PM ET",
+      "away": "SF",
+      "home": "SEA",
+      "done": false,
+      "live": false,
+      "leaders": []
+    },
+    {
+      "when": "Sun 10/11 · 8:20 PM ET",
+      "away": "BAL",
+      "home": "ATL",
+      "done": false,
+      "live": false,
+      "leaders": []
+    },
+    {
+      "when": "Mon 10/12 · 8:15 PM ET",
+      "away": "BUF",
+      "home": "LAR",
+      "done": false,
+      "live": false,
+      "leaders": []
     }
   ],
   "recap": {
