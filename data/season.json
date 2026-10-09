@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 5,
-  "updated": "Thu, 10/8, 5:05 AM ET",
+  "updated": "Fri, 10/9, 5:05 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -81,11 +81,11 @@
     "TB": {
       "name": "Tampa Bay Buccaneers",
       "conf": "AFC",
-      "w": 0,
+      "w": 1,
       "l": 4,
       "t": 0,
-      "pf": 76,
-      "pa": 96,
+      "pf": 100,
+      "pa": 112,
       "color": "#d50a0a"
     },
     "HOU": {
@@ -122,10 +122,10 @@
       "name": "Dallas Cowboys",
       "conf": "AFC",
       "w": 2,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 122,
-      "pa": 112,
+      "pf": 138,
+      "pa": 136,
       "color": "#041e42"
     },
     "BUF": {
@@ -290,7 +290,7 @@
       "L",
       "L",
       "L",
-      ""
+      "W"
     ],
     "DET": [
       "W",
@@ -458,7 +458,7 @@
       "W",
       "L",
       "W",
-      ""
+      "L"
     ],
     "KC": [
       "W",
@@ -477,12 +477,45 @@
   },
   "games": [
     {
-      "when": "Thu 10/8 · 8:15 PM ET",
+      "when": "Thu 10/8 · Final",
       "away": "TB",
       "home": "DAL",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "D. Prescott (DAL)",
+          "24/42, 316 YDS, 1 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "J. Williams (DAL)",
+          "12 CAR, 45 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "G. Pickens (DAL)",
+          "9 REC, 130 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "J. Daniels (TB)",
+          "19/25, 189 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "B. Irving (TB)",
+          "21 CAR, 165 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "T. Johnson (TB)",
+          "1 REC, 64 YDS"
+        ]
+      ],
+      "as": 24,
+      "hs": 16
     },
     {
       "when": "Sun 10/11 · 9:30 AM ET",
