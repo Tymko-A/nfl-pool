@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 5,
-  "updated": "Sun, 10/11, 1:04 PM ET",
+  "updated": "Sun, 10/11, 5:00 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -71,11 +71,11 @@
     "NE": {
       "name": "New England Patriots",
       "conf": "NFC",
-      "w": 2,
+      "w": 3,
       "l": 2,
       "t": 0,
-      "pf": 65,
-      "pa": 77,
+      "pf": 110,
+      "pa": 94,
       "color": "#002a5c"
     },
     "TB": {
@@ -91,11 +91,11 @@
     "HOU": {
       "name": "Houston Texans",
       "conf": "NFC",
-      "w": 0,
+      "w": 1,
       "l": 4,
       "t": 0,
-      "pf": 84,
-      "pa": 109,
+      "pf": 110,
+      "pa": 112,
       "color": "#03202f"
     },
     "SF": {
@@ -111,11 +111,11 @@
     "PIT": {
       "name": "Pittsburgh Steelers",
       "conf": "NFC",
-      "w": 2,
+      "w": 3,
       "l": 2,
       "t": 0,
-      "pf": 77,
-      "pa": 87,
+      "pf": 111,
+      "pa": 109,
       "color": "#ffb612"
     },
     "DAL": {
@@ -141,11 +141,11 @@
     "GB": {
       "name": "Green Bay Packers",
       "conf": "AFC",
-      "w": 2,
+      "w": 3,
       "l": 2,
       "t": 0,
-      "pf": 73,
-      "pa": 105,
+      "pf": 104,
+      "pa": 112,
       "color": "#203731"
     },
     "DEN": {
@@ -171,21 +171,21 @@
     "JAX": {
       "name": "Jacksonville Jaguars",
       "conf": "NFC",
-      "w": 3,
+      "w": 4,
       "l": 1,
       "t": 0,
-      "pf": 104,
-      "pa": 53,
+      "pf": 123,
+      "pa": 70,
       "color": "#006778"
     },
     "PHI": {
       "name": "Philadelphia Eagles",
       "conf": "AFC",
       "w": 2,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 75,
-      "pa": 93,
+      "pf": 92,
+      "pa": 112,
       "color": "#004c54"
     },
     "BAL": {
@@ -262,7 +262,7 @@
       "W",
       "L",
       "W",
-      ""
+      "W"
     ],
     "LAR": [
       "L",
@@ -283,7 +283,7 @@
       "W",
       "L",
       "L",
-      ""
+      "W"
     ],
     "TB": [
       "L",
@@ -304,28 +304,28 @@
       "W",
       "L",
       "L",
-      ""
+      "L"
     ],
     "TEN": [
       "L",
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "NYJ": [
       "W",
       "L",
       "L",
       "L",
-      ""
+      "W"
     ],
     "IND": [
       "L",
       "L",
       "W",
       "W",
-      ""
+      "L"
     ],
     "BAL": [
       "W",
@@ -339,7 +339,7 @@
       "L",
       "W",
       "L",
-      ""
+      "W"
     ],
     "ATL": [
       "L",
@@ -360,28 +360,28 @@
       "L",
       "W",
       "W",
-      ""
+      "L"
     ],
     "JAX": [
       "W",
       "L",
       "W",
       "W",
-      ""
+      "W"
     ],
     "CLE": [
       "L",
       "W",
       "W",
       "W",
-      ""
+      "L"
     ],
     "HOU": [
       "L",
       "L",
       "L",
       "L",
-      ""
+      "W"
     ],
     "BUF": [
       "W",
@@ -395,42 +395,42 @@
       "W",
       "W",
       "L",
-      ""
+      "L"
     ],
     "MIA": [
       "L",
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "MIN": [
       "W",
       "W",
       "W",
       "W",
-      ""
+      "W"
     ],
     "GB": [
       "L",
       "W",
       "L",
       "W",
-      ""
+      "W"
     ],
     "PHI": [
       "W",
       "W",
       "L",
       "L",
-      ""
+      "L"
     ],
     "WSH": [
       "L",
       "L",
       "W",
       "L",
-      ""
+      "T"
     ],
     "LAC": [
       "L",
@@ -451,7 +451,7 @@
       "L",
       "W",
       "W",
-      ""
+      "T"
     ],
     "DAL": [
       "L",
@@ -476,6 +476,211 @@
     ]
   },
   "games": [
+    {
+      "when": "Sun 10/11 · Final",
+      "away": "PHI",
+      "home": "JAX",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "T. Lawrence (JAX)",
+          "24/39, 331 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Tuten (JAX)",
+          "22 CAR, 72 YDS"
+        ],
+        [
+          "REC",
+          "P. Washington (JAX)",
+          "6 REC, 124 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "J. Hurts (PHI)",
+          "21/40, 220 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "D. Pierce (PHI)",
+          "11 CAR, 14 YDS"
+        ],
+        [
+          "REC",
+          "D. Cooper (PHI)",
+          "2 REC, 71 YDS, 1 TD"
+        ]
+      ],
+      "as": 17,
+      "hs": 19
+    },
+    {
+      "when": "Sun 10/11 · Final",
+      "away": "CHI",
+      "home": "GB",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Love (GB)",
+          "25/31, 367 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "M. Lloyd (GB)",
+          "10 CAR, 31 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "C. Watson (GB)",
+          "6 REC, 143 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "C. Keenum (CHI)",
+          "11/19, 108 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "D. Swift (CHI)",
+          "9 CAR, 43 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "L. Burden III (CHI)",
+          "4 REC, 47 YDS"
+        ]
+      ],
+      "as": 7,
+      "hs": 31
+    },
+    {
+      "when": "Sun 10/11 · Final",
+      "away": "HOU",
+      "home": "TEN",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "C. Ward (TEN)",
+          "23/36, 170 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "T. Pollard (TEN)",
+          "14 CAR, 52 YDS"
+        ],
+        [
+          "REC",
+          "W. Robinson (TEN)",
+          "6 REC, 53 YDS"
+        ],
+        [
+          "PASS",
+          "C.J. Stroud (HOU)",
+          "26/34, 261 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "W. Marks (HOU)",
+          "15 CAR, 62 YDS"
+        ],
+        [
+          "REC",
+          "X. Hutchinson (HOU)",
+          "4 REC, 65 YDS"
+        ]
+      ],
+      "as": 26,
+      "hs": 3
+    },
+    {
+      "when": "Sun 10/11 · Final",
+      "away": "LV",
+      "home": "NE",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Maye (NE)",
+          "26/34, 374 YDS, 4 TD"
+        ],
+        [
+          "RUSH",
+          "R. Stevenson (NE)",
+          "13 CAR, 64 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "K. Williams (NE)",
+          "3 REC, 91 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "K. Cousins (LV)",
+          "19/28, 243 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "A. Jeanty (LV)",
+          "10 CAR, 27 YDS"
+        ],
+        [
+          "REC",
+          "B. Bowers (LV)",
+          "8 REC, 110 YDS, 1 TD"
+        ]
+      ],
+      "as": 17,
+      "hs": 45
+    },
+    {
+      "when": "Sun 10/11 · Final",
+      "away": "IND",
+      "home": "PIT",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "A. Rodgers (PIT)",
+          "22/31, 235 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "J. Warren (PIT)",
+          "15 CAR, 101 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "J. Warren (PIT)",
+          "6 REC, 87 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Jones (IND)",
+          "24/44, 267 YDS"
+        ],
+        [
+          "RUSH",
+          "J. Taylor (IND)",
+          "15 CAR, 45 YDS"
+        ],
+        [
+          "REC",
+          "T. Warren (IND)",
+          "7 REC, 83 YDS"
+        ]
+      ],
+      "as": 22,
+      "hs": 34
+    },
     {
       "when": "Thu 10/8 · Final",
       "away": "TB",
@@ -518,83 +723,37 @@
       "hs": 16
     },
     {
-      "when": "Sun 10/11 · 1:31 - 4th",
-      "away": "PHI",
-      "home": "JAX",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 14,
-      "hs": 16,
-      "clock": "1:31 - 4th"
-    },
-    {
-      "when": "Sun 10/11 · 15:00 - 1st",
-      "away": "CHI",
-      "home": "GB",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 0,
-      "hs": 0,
-      "clock": "15:00 - 1st"
-    },
-    {
-      "when": "Sun 10/11 · 14:53 - 1st",
-      "away": "HOU",
-      "home": "TEN",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 0,
-      "hs": 0,
-      "clock": "14:53 - 1st"
-    },
-    {
-      "when": "Sun 10/11 · 14:54 - 1st",
-      "away": "LV",
-      "home": "NE",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 0,
-      "hs": 0,
-      "clock": "14:54 - 1st"
-    },
-    {
-      "when": "Sun 10/11 · 14:54 - 1st",
-      "away": "IND",
-      "home": "PIT",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 0,
-      "hs": 0,
-      "clock": "14:54 - 1st"
-    },
-    {
-      "when": "Sun 10/11 · 4:05 PM ET",
+      "when": "Sun 10/11 · 8:13 - 2nd",
       "away": "DEN",
       "home": "LAC",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 7,
+      "hs": 3,
+      "clock": "8:13 - 2nd"
     },
     {
-      "when": "Sun 10/11 · 4:25 PM ET",
+      "when": "Sun 10/11 · 15:00 - 2nd",
       "away": "DET",
       "home": "ARI",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 7,
+      "clock": "15:00 - 2nd"
     },
     {
-      "when": "Sun 10/11 · 4:25 PM ET",
+      "when": "Sun 10/11 · 0:39 - 1st",
       "away": "SF",
       "home": "SEA",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 7,
+      "hs": 7,
+      "clock": "0:39 - 1st"
     },
     {
       "when": "Sun 10/11 · 8:20 PM ET",
