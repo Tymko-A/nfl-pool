@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 5,
-  "updated": "Sun, 10/11, 5:03 AM ET",
+  "updated": "Sun, 10/11, 1:04 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -518,44 +518,59 @@
       "hs": 16
     },
     {
-      "when": "Sun 10/11 · 9:30 AM ET",
+      "when": "Sun 10/11 · 1:31 - 4th",
       "away": "PHI",
       "home": "JAX",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 14,
+      "hs": 16,
+      "clock": "1:31 - 4th"
     },
     {
-      "when": "Sun 10/11 · 1:00 PM ET",
+      "when": "Sun 10/11 · 15:00 - 1st",
       "away": "CHI",
       "home": "GB",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 0,
+      "clock": "15:00 - 1st"
     },
     {
-      "when": "Sun 10/11 · 1:00 PM ET",
+      "when": "Sun 10/11 · 14:53 - 1st",
       "away": "HOU",
       "home": "TEN",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 0,
+      "clock": "14:53 - 1st"
     },
     {
-      "when": "Sun 10/11 · 1:00 PM ET",
+      "when": "Sun 10/11 · 14:54 - 1st",
       "away": "LV",
       "home": "NE",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 0,
+      "clock": "14:54 - 1st"
     },
     {
-      "when": "Sun 10/11 · 1:00 PM ET",
+      "when": "Sun 10/11 · 14:54 - 1st",
       "away": "IND",
       "home": "PIT",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 0,
+      "clock": "14:54 - 1st"
     },
     {
       "when": "Sun 10/11 · 4:05 PM ET",
