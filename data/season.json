@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 5,
-  "updated": "Sun, 10/11, 8:39 PM ET",
+  "updated": "Mon, 10/12, 2:19 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -191,11 +191,11 @@
     "BAL": {
       "name": "Baltimore Ravens",
       "conf": "NFC",
-      "w": 3,
+      "w": 4,
       "l": 1,
       "t": 0,
-      "pf": 116,
-      "pa": 96,
+      "pf": 146,
+      "pa": 119,
       "color": "#241773"
     },
     "SEA": {
@@ -332,7 +332,7 @@
       "L",
       "W",
       "W",
-      ""
+      "W"
     ],
     "PIT": [
       "W",
@@ -346,7 +346,7 @@
       "L",
       "W",
       "W",
-      ""
+      "L"
     ],
     "CAR": [
       "L",
@@ -476,6 +476,47 @@
     ]
   },
   "games": [
+    {
+      "when": "Thu 10/8 · Final",
+      "away": "TB",
+      "home": "DAL",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Prescott (DAL)",
+          "24/42, 316 YDS, 1 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "J. Williams (DAL)",
+          "12 CAR, 45 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "G. Pickens (DAL)",
+          "9 REC, 130 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "J. Daniels (TB)",
+          "19/25, 189 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "B. Irving (TB)",
+          "21 CAR, 165 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "T. Johnson (TB)",
+          "1 REC, 64 YDS"
+        ]
+      ],
+      "as": 24,
+      "hs": 16
+    },
     {
       "when": "Sun 10/11 · Final",
       "away": "PHI",
@@ -805,56 +846,45 @@
       "hs": 29
     },
     {
-      "when": "Thu 10/8 · Final",
-      "away": "TB",
-      "home": "DAL",
+      "when": "Sun 10/11 · Final",
+      "away": "BAL",
+      "home": "ATL",
       "done": true,
       "live": false,
       "leaders": [
         [
           "PASS",
-          "D. Prescott (DAL)",
-          "24/42, 316 YDS, 1 TD, 2 INT"
+          "M. Penix Jr. (ATL)",
+          "19/32, 240 YDS, 1 TD"
         ],
         [
           "RUSH",
-          "J. Williams (DAL)",
-          "12 CAR, 45 YDS, 1 TD"
+          "B. Robinson (ATL)",
+          "17 CAR, 86 YDS"
         ],
         [
           "REC",
-          "G. Pickens (DAL)",
-          "9 REC, 130 YDS, 1 TD"
+          "D. London (ATL)",
+          "7 REC, 118 YDS"
         ],
         [
           "PASS",
-          "J. Daniels (TB)",
-          "19/25, 189 YDS, 1 TD"
+          "T. Huntley (BAL)",
+          "24/32, 201 YDS, 2 TD"
         ],
         [
           "RUSH",
-          "B. Irving (TB)",
-          "21 CAR, 165 YDS, 1 TD"
+          "D. Henry (BAL)",
+          "24 CAR, 102 YDS"
         ],
         [
           "REC",
-          "T. Johnson (TB)",
-          "1 REC, 64 YDS"
+          "R. Bateman (BAL)",
+          "5 REC, 62 YDS"
         ]
       ],
-      "as": 24,
-      "hs": 16
-    },
-    {
-      "when": "Sun 10/11 · 9:33 - 1st",
-      "away": "BAL",
-      "home": "ATL",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 3,
-      "hs": 0,
-      "clock": "9:33 - 1st"
+      "as": 30,
+      "hs": 23
     },
     {
       "when": "Mon 10/12 · 8:15 PM ET",
