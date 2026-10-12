@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 5,
-  "updated": "Sun, 10/11, 5:00 PM ET",
+  "updated": "Sun, 10/11, 8:20 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -101,11 +101,11 @@
     "SF": {
       "name": "San Francisco 49ers",
       "conf": "AFC",
-      "w": 4,
+      "w": 5,
       "l": 0,
       "t": 0,
-      "pf": 122,
-      "pa": 64,
+      "pf": 154,
+      "pa": 93,
       "color": "#aa0000"
     },
     "PIT": {
@@ -151,21 +151,21 @@
     "DEN": {
       "name": "Denver Broncos",
       "conf": "NFC",
-      "w": 2,
+      "w": 3,
       "l": 2,
       "t": 0,
-      "pf": 74,
-      "pa": 94,
+      "pf": 97,
+      "pa": 111,
       "color": "#fb4f14"
     },
     "DET": {
       "name": "Detroit Lions",
       "conf": "AFC",
-      "w": 2,
+      "w": 3,
       "l": 2,
       "t": 0,
-      "pf": 119,
-      "pa": 127,
+      "pf": 164,
+      "pa": 148,
       "color": "#0076b6"
     },
     "JAX": {
@@ -202,20 +202,20 @@
       "name": "Seattle Seahawks",
       "conf": "AFC",
       "w": 3,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 105,
-      "pa": 73,
+      "pf": 134,
+      "pa": 105,
       "color": "#69be28"
     },
     "LAC": {
       "name": "Los Angeles Chargers",
       "conf": "NFC",
       "w": 0,
-      "l": 4,
+      "l": 5,
       "t": 0,
-      "pf": 67,
-      "pa": 106,
+      "pf": 84,
+      "pa": 129,
       "color": "#0080c6"
     },
     "CAR": {
@@ -255,7 +255,7 @@
       "W",
       "L",
       "W",
-      ""
+      "L"
     ],
     "NE": [
       "L",
@@ -276,7 +276,7 @@
       "W",
       "W",
       "W",
-      ""
+      "W"
     ],
     "CIN": [
       "W",
@@ -297,7 +297,7 @@
       "L",
       "W",
       "L",
-      ""
+      "W"
     ],
     "NO": [
       "L",
@@ -437,14 +437,14 @@
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "ARI": [
       "W",
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "NYG": [
       "W",
@@ -472,7 +472,7 @@
       "W",
       "W",
       "L",
-      ""
+      "W"
     ]
   },
   "games": [
@@ -682,6 +682,129 @@
       "hs": 34
     },
     {
+      "when": "Sun 10/11 · Final",
+      "away": "DEN",
+      "home": "LAC",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Herbert (LAC)",
+          "14/24, 121 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "K. Vidal (LAC)",
+          "8 CAR, 57 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "C. Kolar (LAC)",
+          "3 REC, 37 YDS"
+        ],
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "16/27, 123 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "J.K. Dobbins (DEN)",
+          "18 CAR, 68 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "E. Engram (DEN)",
+          "4 REC, 55 YDS"
+        ]
+      ],
+      "as": 23,
+      "hs": 17
+    },
+    {
+      "when": "Sun 10/11 · Final",
+      "away": "DET",
+      "home": "ARI",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Brissett (ARI)",
+          "29/47, 292 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Love (ARI)",
+          "12 CAR, 22 YDS"
+        ],
+        [
+          "REC",
+          "K. Bourne (ARI)",
+          "5 REC, 70 YDS"
+        ],
+        [
+          "PASS",
+          "J. Goff (DET)",
+          "19/30, 271 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "J. Gibbs (DET)",
+          "25 CAR, 151 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "S. LaPorta (DET)",
+          "5 REC, 88 YDS, 1 TD"
+        ]
+      ],
+      "as": 45,
+      "hs": 21
+    },
+    {
+      "when": "Sun 10/11 · Final",
+      "away": "SF",
+      "home": "SEA",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "S. Darnold (SEA)",
+          "18/29, 195 YDS, 1 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "E. Wilson (SEA)",
+          "20 CAR, 61 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "J. Smith-Njigba (SEA)",
+          "5 REC, 102 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "B. Purdy (SF)",
+          "19/29, 189 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. McCaffrey (SF)",
+          "11 CAR, 68 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "M. Evans (SF)",
+          "7 REC, 113 YDS, 1 TD"
+        ]
+      ],
+      "as": 32,
+      "hs": 29
+    },
+    {
       "when": "Thu 10/8 · Final",
       "away": "TB",
       "home": "DAL",
@@ -721,39 +844,6 @@
       ],
       "as": 24,
       "hs": 16
-    },
-    {
-      "when": "Sun 10/11 · 8:13 - 2nd",
-      "away": "DEN",
-      "home": "LAC",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 7,
-      "hs": 3,
-      "clock": "8:13 - 2nd"
-    },
-    {
-      "when": "Sun 10/11 · 15:00 - 2nd",
-      "away": "DET",
-      "home": "ARI",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 0,
-      "hs": 7,
-      "clock": "15:00 - 2nd"
-    },
-    {
-      "when": "Sun 10/11 · 0:39 - 1st",
-      "away": "SF",
-      "home": "SEA",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 7,
-      "hs": 7,
-      "clock": "0:39 - 1st"
     },
     {
       "when": "Sun 10/11 · 8:20 PM ET",
