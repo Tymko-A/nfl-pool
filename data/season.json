@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 5,
-  "updated": "Sun, 10/11, 8:20 PM ET",
+  "updated": "Sun, 10/11, 8:39 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -846,12 +846,15 @@
       "hs": 16
     },
     {
-      "when": "Sun 10/11 · 8:20 PM ET",
+      "when": "Sun 10/11 · 9:33 - 1st",
       "away": "BAL",
       "home": "ATL",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 3,
+      "hs": 0,
+      "clock": "9:33 - 1st"
     },
     {
       "when": "Mon 10/12 · 8:15 PM ET",
