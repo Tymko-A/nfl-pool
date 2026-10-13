@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 5,
-  "updated": "Mon, 10/12, 5:07 AM ET",
+  "updated": "Mon, 10/12, 8:24 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -90,7 +90,7 @@
     },
     "HOU": {
       "name": "Houston Texans",
-      "conf": "NFC",
+      "conf": "AFC",
       "w": 1,
       "l": 4,
       "t": 0,
@@ -110,7 +110,7 @@
     },
     "PIT": {
       "name": "Pittsburgh Steelers",
-      "conf": "NFC",
+      "conf": "AFC",
       "w": 3,
       "l": 2,
       "t": 0,
@@ -170,7 +170,7 @@
     },
     "JAX": {
       "name": "Jacksonville Jaguars",
-      "conf": "NFC",
+      "conf": "AFC",
       "w": 4,
       "l": 1,
       "t": 0,
@@ -190,7 +190,7 @@
     },
     "BAL": {
       "name": "Baltimore Ravens",
-      "conf": "NFC",
+      "conf": "AFC",
       "w": 4,
       "l": 1,
       "t": 0,
@@ -887,12 +887,15 @@
       "hs": 23
     },
     {
-      "when": "Mon 10/12 · 8:15 PM ET",
+      "when": "Mon 10/12 · 12:41 - 1st",
       "away": "BUF",
       "home": "LAR",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 3,
+      "hs": 0,
+      "clock": "12:41 - 1st"
     }
   ],
   "recap": {
