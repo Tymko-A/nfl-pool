@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 5,
-  "updated": "Mon, 10/12, 8:24 PM ET",
+  "updated": "Tue, 10/13, 2:59 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -131,11 +131,11 @@
     "BUF": {
       "name": "Buffalo Bills",
       "conf": "NFC",
-      "w": 3,
+      "w": 4,
       "l": 1,
       "t": 0,
-      "pf": 127,
-      "pa": 107,
+      "pf": 164,
+      "pa": 141,
       "color": "#00338d"
     },
     "GB": {
@@ -242,10 +242,10 @@
       "name": "Los Angeles Rams",
       "conf": "AFC",
       "w": 2,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 85,
-      "pa": 83,
+      "pf": 119,
+      "pa": 120,
       "color": "#003594"
     }
   },
@@ -269,7 +269,7 @@
       "W",
       "L",
       "W",
-      ""
+      "L"
     ],
     "SF": [
       "W",
@@ -388,7 +388,7 @@
       "W",
       "W",
       "L",
-      ""
+      "W"
     ],
     "LV": [
       "W",
@@ -887,15 +887,45 @@
       "hs": 23
     },
     {
-      "when": "Mon 10/12 · 12:41 - 1st",
+      "when": "Mon 10/12 · Final",
       "away": "BUF",
       "home": "LAR",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 3,
-      "hs": 0,
-      "clock": "12:41 - 1st"
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "40/54, 383 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "K. Williams (LAR)",
+          "16 CAR, 49 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "P. Nacua (LAR)",
+          "17 REC, 138 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "J. Allen (BUF)",
+          "12/19, 210 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Allen (BUF)",
+          "10 CAR, 121 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "K. Shakir (BUF)",
+          "3 REC, 80 YDS"
+        ]
+      ],
+      "as": 37,
+      "hs": 34
     }
   ],
   "recap": {
