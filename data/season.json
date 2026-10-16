@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated": "Thu, 10/15, 9:45 AM ET",
+  "updated": "Fri, 10/16, 9:36 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -151,11 +151,11 @@
     "DEN": {
       "name": "Denver Broncos",
       "conf": "NFC",
-      "w": 3,
+      "w": 4,
       "l": 2,
       "t": 0,
-      "pf": 97,
-      "pa": 111,
+      "pf": 114,
+      "pa": 125,
       "color": "#fb4f14"
     },
     "DET": {
@@ -202,10 +202,10 @@
       "name": "Seattle Seahawks",
       "conf": "AFC",
       "w": 3,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 134,
-      "pa": 105,
+      "pf": 148,
+      "pa": 122,
       "color": "#69be28"
     },
     "LAC": {
@@ -256,7 +256,7 @@
       "L",
       "W",
       "L",
-      ""
+      "L"
     ],
     "NE": [
       "L",
@@ -504,17 +504,50 @@
       "W",
       "L",
       "W",
-      ""
+      "W"
     ]
   },
   "games": [
     {
-      "when": "Thu 10/15 · 8:15 PM ET",
+      "when": "Thu 10/15 · Final",
       "away": "SEA",
       "home": "DEN",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "17/27, 107 YDS"
+        ],
+        [
+          "RUSH",
+          "J.K. Dobbins (DEN)",
+          "17 CAR, 41 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "R. Harvey (DEN)",
+          "3 REC, 31 YDS"
+        ],
+        [
+          "PASS",
+          "S. Darnold (SEA)",
+          "27/51, 278 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "E. Wilson (SEA)",
+          "14 CAR, 52 YDS"
+        ],
+        [
+          "REC",
+          "J. Smith-Njigba (SEA)",
+          "12 REC, 134 YDS"
+        ]
+      ],
+      "as": 14,
+      "hs": 17
     },
     {
       "when": "Sun 10/18 · 9:30 AM ET",
