@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated": "Sun, 10/18, 5:37 PM ET",
+  "updated": "Sun, 10/18, 7:47 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -131,11 +131,11 @@
     "BUF": {
       "name": "Buffalo Bills",
       "conf": "NFC",
-      "w": 4,
+      "w": 5,
       "l": 1,
       "t": 0,
-      "pf": 164,
-      "pa": 141,
+      "pf": 197,
+      "pa": 171,
       "color": "#00338d"
     },
     "GB": {
@@ -212,10 +212,10 @@
       "name": "Los Angeles Chargers",
       "conf": "NFC",
       "w": 0,
-      "l": 5,
+      "l": 6,
       "t": 0,
-      "pf": 84,
-      "pa": 129,
+      "pf": 90,
+      "pa": 151,
       "color": "#0080c6"
     },
     "CAR": {
@@ -231,21 +231,21 @@
     "KC": {
       "name": "Kansas City Chiefs",
       "conf": "NFC",
-      "w": 4,
+      "w": 5,
       "l": 0,
       "t": 0,
-      "pf": 118,
-      "pa": 77,
+      "pf": 140,
+      "pa": 83,
       "color": "#e31837"
     },
     "LAR": {
       "name": "Los Angeles Rams",
       "conf": "AFC",
       "w": 2,
-      "l": 3,
+      "l": 4,
       "t": 0,
-      "pf": 119,
-      "pa": 120,
+      "pf": 135,
+      "pa": 138,
       "color": "#003594"
     }
   },
@@ -272,7 +272,7 @@
       "L",
       "W",
       "L",
-      ""
+      "L"
     ],
     "SF": [
       "W",
@@ -408,7 +408,7 @@
       "W",
       "L",
       "W",
-      ""
+      "W"
     ],
     "LV": [
       "W",
@@ -416,7 +416,7 @@
       "W",
       "L",
       "L",
-      ""
+      "L"
     ],
     "MIA": [
       "L",
@@ -464,7 +464,7 @@
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "ARI": [
       "W",
@@ -472,7 +472,7 @@
       "L",
       "L",
       "L",
-      ""
+      "W"
     ],
     "NYG": [
       "W",
@@ -496,7 +496,7 @@
       "W",
       "W",
       "",
-      ""
+      "W"
     ],
     "DEN": [
       "L",
@@ -714,6 +714,129 @@
       "hs": 19
     },
     {
+      "when": "Sun 10/18 · Final",
+      "away": "ARI",
+      "home": "LAR",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "25/33, 222 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "K. Williams (LAR)",
+          "10 CAR, 50 YDS"
+        ],
+        [
+          "REC",
+          "P. Nacua (LAR)",
+          "6 REC, 80 YDS"
+        ],
+        [
+          "PASS",
+          "J. Brissett (ARI)",
+          "24/35, 218 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Knight (ARI)",
+          "15 CAR, 80 YDS"
+        ],
+        [
+          "REC",
+          "T. McBride (ARI)",
+          "7 REC, 53 YDS"
+        ]
+      ],
+      "as": 18,
+      "hs": 16
+    },
+    {
+      "when": "Sun 10/18 · Final",
+      "away": "LAC",
+      "home": "KC",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "P. Mahomes (KC)",
+          "23/30, 272 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "K. Walker III (KC)",
+          "19 CAR, 128 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "X. Worthy (KC)",
+          "7 REC, 73 YDS"
+        ],
+        [
+          "PASS",
+          "J. Herbert (LAC)",
+          "22/37, 204 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Herbert (LAC)",
+          "5 CAR, 26 YDS"
+        ],
+        [
+          "REC",
+          "Q. Johnston (LAC)",
+          "1 REC, 57 YDS"
+        ]
+      ],
+      "as": 6,
+      "hs": 22
+    },
+    {
+      "when": "Sun 10/18 · Final",
+      "away": "BUF",
+      "home": "LV",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "K. Cousins (LV)",
+          "23/41, 313 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "M. Washington Jr. (LV)",
+          "9 CAR, 43 YDS"
+        ],
+        [
+          "REC",
+          "T. Tucker (LV)",
+          "5 REC, 97 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "J. Allen (BUF)",
+          "23/33, 255 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "J. Cook III (BUF)",
+          "22 CAR, 95 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "K. Coleman (BUF)",
+          "4 REC, 59 YDS, 1 TD"
+        ]
+      ],
+      "as": 33,
+      "hs": 30
+    },
+    {
       "when": "Thu 10/15 · Final",
       "away": "SEA",
       "home": "DEN",
@@ -753,39 +876,6 @@
       ],
       "as": 14,
       "hs": 17
-    },
-    {
-      "when": "Sun 10/18 · Halftime",
-      "away": "ARI",
-      "home": "LAR",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 9,
-      "hs": 9,
-      "clock": "Halftime"
-    },
-    {
-      "when": "Sun 10/18 · 1:49 - 2nd",
-      "away": "LAC",
-      "home": "KC",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 3,
-      "hs": 15,
-      "clock": "1:49 - 2nd"
-    },
-    {
-      "when": "Sun 10/18 · 0:15 - 2nd",
-      "away": "BUF",
-      "home": "LV",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 13,
-      "hs": 10,
-      "clock": "0:15 - 2nd"
     },
     {
       "when": "Sun 10/18 · 8:20 PM ET",
