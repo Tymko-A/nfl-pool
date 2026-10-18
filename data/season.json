@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated": "Sun, 10/18, 8:51 AM ET",
+  "updated": "Sun, 10/18, 3:03 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -91,11 +91,11 @@
     "HOU": {
       "name": "Houston Texans",
       "conf": "AFC",
-      "w": 1,
+      "w": 2,
       "l": 4,
       "t": 0,
-      "pf": 110,
-      "pa": 112,
+      "pf": 144,
+      "pa": 143,
       "color": "#03202f"
     },
     "SF": {
@@ -172,10 +172,10 @@
       "name": "Jacksonville Jaguars",
       "conf": "AFC",
       "w": 4,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 123,
-      "pa": 70,
+      "pf": 154,
+      "pa": 104,
       "color": "#006778"
     },
     "PHI": {
@@ -384,7 +384,7 @@
       "W",
       "W",
       "W",
-      ""
+      "L"
     ],
     "CLE": [
       "L",
@@ -400,7 +400,7 @@
       "L",
       "L",
       "W",
-      ""
+      "W"
     ],
     "BUF": [
       "W",
@@ -509,6 +509,47 @@
   },
   "games": [
     {
+      "when": "Sun 10/18 · Final",
+      "away": "HOU",
+      "home": "JAX",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "T. Lawrence (JAX)",
+          "24/41, 306 YDS, 4 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. Rodriguez Jr. (JAX)",
+          "11 CAR, 55 YDS"
+        ],
+        [
+          "REC",
+          "J. Meyers (JAX)",
+          "5 REC, 83 YDS"
+        ],
+        [
+          "PASS",
+          "C.J. Stroud (HOU)",
+          "24/34, 312 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "W. Marks (HOU)",
+          "15 CAR, 56 YDS"
+        ],
+        [
+          "REC",
+          "J. Noel (HOU)",
+          "4 REC, 107 YDS, 1 TD"
+        ]
+      ],
+      "as": 34,
+      "hs": 31
+    },
+    {
       "when": "Thu 10/15 · Final",
       "away": "SEA",
       "home": "DEN",
@@ -550,44 +591,48 @@
       "hs": 17
     },
     {
-      "when": "Sun 10/18 · 9:30 AM ET",
-      "away": "HOU",
-      "home": "JAX",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 10/18 · 1:00 PM ET",
+      "when": "Sun 10/18 · 1:54 - 3rd",
       "away": "BAL",
       "home": "CLE",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 10,
+      "hs": 3,
+      "clock": "1:54 - 3rd"
     },
     {
-      "when": "Sun 10/18 · 1:00 PM ET",
+      "when": "Sun 10/18 · 8:04 - 3rd",
       "away": "NYJ",
       "home": "NE",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 10,
+      "hs": 17,
+      "clock": "8:04 - 3rd"
     },
     {
-      "when": "Sun 10/18 · 1:00 PM ET",
+      "when": "Sun 10/18 · 11:53 - 3rd",
       "away": "CAR",
       "home": "PHI",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 10,
+      "hs": 7,
+      "clock": "11:53 - 3rd"
     },
     {
-      "when": "Sun 10/18 · 1:00 PM ET",
+      "when": "Sun 10/18 · 5:05 - 3rd",
       "away": "PIT",
       "home": "TB",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 3,
+      "hs": 13,
+      "clock": "5:05 - 3rd"
     },
     {
       "when": "Sun 10/18 · 4:05 PM ET",
