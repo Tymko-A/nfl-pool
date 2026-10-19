@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated": "Sun, 10/18, 11:38 PM ET",
+  "updated": "Mon, 10/19, 5:40 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -122,10 +122,10 @@
       "name": "Dallas Cowboys",
       "conf": "AFC",
       "w": 2,
-      "l": 3,
+      "l": 4,
       "t": 0,
-      "pf": 138,
-      "pa": 136,
+      "pf": 151,
+      "pa": 159,
       "color": "#041e42"
     },
     "BUF": {
@@ -141,11 +141,11 @@
     "GB": {
       "name": "Green Bay Packers",
       "conf": "AFC",
-      "w": 3,
+      "w": 4,
       "l": 2,
       "t": 0,
-      "pf": 104,
-      "pa": 112,
+      "pf": 127,
+      "pa": 125,
       "color": "#203731"
     },
     "DEN": {
@@ -440,7 +440,7 @@
       "L",
       "W",
       "W",
-      ""
+      "W"
     ],
     "PHI": [
       "W",
@@ -488,7 +488,7 @@
       "L",
       "W",
       "L",
-      ""
+      "L"
     ],
     "KC": [
       "W",
@@ -508,6 +508,47 @@
     ]
   },
   "games": [
+    {
+      "when": "Thu 10/15 · Final",
+      "away": "SEA",
+      "home": "DEN",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "17/27, 107 YDS"
+        ],
+        [
+          "RUSH",
+          "J.K. Dobbins (DEN)",
+          "17 CAR, 41 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "R. Harvey (DEN)",
+          "3 REC, 31 YDS"
+        ],
+        [
+          "PASS",
+          "S. Darnold (SEA)",
+          "27/51, 278 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "E. Wilson (SEA)",
+          "14 CAR, 52 YDS"
+        ],
+        [
+          "REC",
+          "J. Smith-Njigba (SEA)",
+          "12 REC, 134 YDS"
+        ]
+      ],
+      "as": 14,
+      "hs": 17
+    },
     {
       "when": "Sun 10/18 · Final",
       "away": "HOU",
@@ -837,56 +878,45 @@
       "hs": 30
     },
     {
-      "when": "Thu 10/15 · Final",
-      "away": "SEA",
-      "home": "DEN",
+      "when": "Sun 10/18 · Final",
+      "away": "DAL",
+      "home": "GB",
       "done": true,
       "live": false,
       "leaders": [
         [
           "PASS",
-          "B. Nix (DEN)",
-          "17/27, 107 YDS"
+          "J. Love (GB)",
+          "23/41, 276 YDS, 1 TD, 1 INT"
         ],
         [
           "RUSH",
-          "J.K. Dobbins (DEN)",
-          "17 CAR, 41 YDS, 1 TD"
+          "P. Strong Jr. (GB)",
+          "11 CAR, 28 YDS"
         ],
         [
           "REC",
-          "R. Harvey (DEN)",
-          "3 REC, 31 YDS"
+          "M. Golden (GB)",
+          "6 REC, 104 YDS, 1 TD"
         ],
         [
           "PASS",
-          "S. Darnold (SEA)",
-          "27/51, 278 YDS, 2 INT"
+          "D. Prescott (DAL)",
+          "34/54, 258 YDS, 1 TD, 2 INT"
         ],
         [
           "RUSH",
-          "E. Wilson (SEA)",
-          "14 CAR, 52 YDS"
+          "J. Williams (DAL)",
+          "11 CAR, 41 YDS, 1 TD"
         ],
         [
           "REC",
-          "J. Smith-Njigba (SEA)",
-          "12 REC, 134 YDS"
+          "G. Pickens (DAL)",
+          "6 REC, 73 YDS"
         ]
       ],
-      "as": 14,
-      "hs": 17
-    },
-    {
-      "when": "Sun 10/18 · 1:54 - 4th",
-      "away": "DAL",
-      "home": "GB",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 7,
-      "hs": 23,
-      "clock": "1:54 - 4th"
+      "as": 13,
+      "hs": 23
     },
     {
       "when": "Mon 10/19 · 8:15 PM ET",
