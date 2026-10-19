@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated": "Sun, 10/18, 7:47 PM ET",
+  "updated": "Sun, 10/18, 11:38 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -878,12 +878,15 @@
       "hs": 17
     },
     {
-      "when": "Sun 10/18 · 8:20 PM ET",
+      "when": "Sun 10/18 · 1:54 - 4th",
       "away": "DAL",
       "home": "GB",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 7,
+      "hs": 23,
+      "clock": "1:54 - 4th"
     },
     {
       "when": "Mon 10/19 · 8:15 PM ET",
