@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated": "Tue, 10/20, 12:01 AM ET",
+  "updated": "Tue, 10/20, 5:34 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -509,47 +509,6 @@
   },
   "games": [
     {
-      "when": "Mon 10/19 · Final",
-      "away": "WSH",
-      "home": "SF",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "B. Purdy (SF)",
-          "21/29, 264 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "C. McCaffrey (SF)",
-          "16 CAR, 64 YDS, 2 TD"
-        ],
-        [
-          "REC",
-          "M. Evans (SF)",
-          "3 REC, 94 YDS"
-        ],
-        [
-          "PASS",
-          "J. Daniels (WSH)",
-          "29/40, 300 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "R. White (WSH)",
-          "7 CAR, 27 YDS"
-        ],
-        [
-          "REC",
-          "C. Okonkwo (WSH)",
-          "7 REC, 69 YDS"
-        ]
-      ],
-      "as": 17,
-      "hs": 23
-    },
-    {
       "when": "Thu 10/15 · Final",
       "away": "SEA",
       "home": "DEN",
@@ -957,6 +916,47 @@
         ]
       ],
       "as": 13,
+      "hs": 23
+    },
+    {
+      "when": "Mon 10/19 · Final",
+      "away": "WSH",
+      "home": "SF",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Purdy (SF)",
+          "21/29, 264 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "C. McCaffrey (SF)",
+          "16 CAR, 64 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "M. Evans (SF)",
+          "3 REC, 94 YDS"
+        ],
+        [
+          "PASS",
+          "J. Daniels (WSH)",
+          "29/40, 300 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "R. White (WSH)",
+          "7 CAR, 27 YDS"
+        ],
+        [
+          "REC",
+          "C. Okonkwo (WSH)",
+          "7 REC, 69 YDS"
+        ]
+      ],
+      "as": 17,
       "hs": 23
     }
   ],
