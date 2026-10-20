@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated": "Tue, 10/20, 9:56 AM ET",
+  "updated": "Tue, 10/20, 10:35 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -961,178 +961,166 @@
     }
   ],
   "recap": {
-    "week": "Week 5",
-    "headline": "Four go 2-0 as pool leaders hold serve",
-    "dek": "Adrian, Ben, Chris and Jordy all posted perfect weeks while Orest clung to the top spot on net points. Three head-to-heads produced clear winners, and the bottom of the standings got tighter.",
+    "week": "Week 6",
+    "headline": "Ben's perfect week vaults him into second; Orest blanked",
+    "dek": "Ben's 2-0 climbs him to within a game of Chris, who also went undefeated. Four head-to-heads decided, with Orest suffering the week's only 0-2.",
     "takeaways": [
-      "Drake Maye's four-TD explosion powered Adrian's Patriots to their most lopsided win of the year — 45-17 over the Raiders — giving him a rare 2-0 week after his Bucs took down Bill's Cowboys in Arlington.",
-      "Ben's undefeated Niners survived a West Coast slugfest with Orest's Seahawks 32-29, keeping San Francisco spotless at 5-0 while his Texans blanked Tennessee 26-3.",
-      "All four 2-0 weeks came courtesy of head-to-head wins: Adrian over Bill, Ben over Orest, Jordy's Broncos over Taras's winless Chargers, and Chris's Bills edging Tymko's Rams 37-34 in L.A."
+      "Four head-to-heads resolved in Week 6 — the most consequential being Ben over Matej in Houston, flipping two points in the standings",
+      "Chris maintains the pool lead at 9-3 but Ben's perfect week brings him within a game, and Ben holds a whopping +40 edge in net points",
+      "Taras' Chargers are now 0-6 after another ugly showing in Kansas City — they've been outscored by 84 points in six games"
     ],
     "games": [
       {
-        "winKey": "TB",
-        "winScore": 24,
-        "loseKey": "DAL",
-        "loseScore": 16,
-        "text": "Adrian's Buccaneers went into Jerry's World and came away with eight points the hard way, riding Bucky Irving's 165 rushing yards to a 24-16 victory over Bill's Cowboys. Dak Prescott aired it out 42 times for 316 yards but threw two picks, and while George Pickens hauled in nine for 130 and a score, Dallas couldn't overcome Irving's ground game or Jayden Daniels's efficient 19-of-25 night. The head-to-head lifts Adrian to 2-0 on the week and drops Bill to 1-1, a crucial swing in the middle of the pack."
-      },
-      {
-        "winKey": "JAX",
-        "winScore": 19,
-        "loseKey": "PHI",
-        "loseScore": 17,
-        "text": "Matej's teams played each other in Jacksonville, and it was his Jags who came out on top 19-17 thanks to Trevor Lawrence's 331 yards and two touchdowns to Paris Washington. Jalen Hurts threw for 220 but the Eagles managed just 14 rushing yards from Dameon Pierce, and that offensive imbalance proved costly. The internal head-to-head leaves Matej at 1-1 for the week — a wash in the standings but a nice tiebreaker boost down the road."
-      },
-      {
-        "winKey": "GB",
-        "winScore": 31,
-        "loseKey": "CHI",
-        "loseScore": 7,
-        "text": "Chris's Packers dismantled the Bears at Lambeau 31-7, with Jordan Love completing 25 of 31 for 367 yards and two scores while Christian Watson torched Chicago for 143 yards and both receiving touchdowns. MarShawn Lloyd added two rushing TDs as Green Bay rolled to 31 unanswered after the Bears' lone score. Chris sits tied atop the pool at 7-3 with Orest, though Orest holds the net-points edge."
+        "winKey": "DEN",
+        "winScore": 17,
+        "loseKey": "SEA",
+        "loseScore": 14,
+        "text": "Jordy's Broncos escaped with a low-scoring head-to-head win over Orest's Seahawks in Denver, 17-14. Bo Nix managed just 107 yards through the air but J.K. Dobbins punched in a rushing touchdown to provide the margin. Sam Darnold threw for 278 yards but couldn't find the end zone, tossing two costly interceptions instead. Jaxon Smith-Njigba hauled in 12 catches for 134 yards in a losing effort.\n\nThe result flips a point in Jordy's favour and keeps his Broncos at 4-2, while Orest's Hawks slide to 3-3. Jordy took the only bye-free 1-0 this week and sits in fifth place with 7 points. Orest, meanwhile, is staring down an 0-2 weekend and drops to fourth at 7-5."
       },
       {
         "winKey": "HOU",
-        "winScore": 26,
-        "loseKey": "TEN",
-        "loseScore": 3,
-        "text": "Ben's Texans finally got in the win column, and they did it emphatically, throttling the Titans 26-3 in Nashville. C.J. Stroud was surgical — 26 of 34 for 261 yards and a touchdown — while Tennessee managed just a field goal on 170 passing yards from Cam Ward. It's only Houston's first win, but combined with Ben's Niners staying perfect, he moves into sole possession of third at 6-4."
+        "winScore": 34,
+        "loseKey": "JAX",
+        "loseScore": 31,
+        "text": "Ben's Texans held off Matej's Jags in a wild shootout in Jacksonville, 34-31, in the week's highest-scoring head-to-head. C.J. Stroud threw for 312 yards and three touchdowns, while J. Noel torched the Jags secondary for 107 yards and a score. Trevor Lawrence kept Jacksonville in it with 306 yards and four touchdowns of his own, but it wasn't quite enough.\n\nThe win pushes Ben to 2-0 on the week and vaults him into sole possession of second place at 8-4, just one game behind Chris. Ben's Niners remain undefeated at 6-0, and even his struggling Texans managed a road win to improve to 2-4. Matej takes the loss and drops to 0-2 for the week, falling to sixth at 6-6. He'll need his Eagles to turn things around quickly."
+      },
+      {
+        "winKey": "CLE",
+        "winScore": 13,
+        "loseKey": "BAL",
+        "loseScore": 10,
+        "text": "Orest's Ravens stumbled in Cleveland, falling 13-10 in a defensive slugfest. Deshaun Watson threw for just 164 yards but avoided major mistakes, while backup Tyler Huntley couldn't generate much for Baltimore with only 165 yards through the air. Derrick Henry managed 58 yards on the ground but couldn't find the end zone.\n\nThe loss completes a dismal 0-2 week for Orest, who sees both his teams fall in Week 6. His Ravens drop to 4-2 but remain competitive in the AFC, while his Seahawks' loss to Jordy's Broncos leaves them at 3-3. Orest sits fourth in the pool at 7-5, watching Ben and Tymko close in from behind."
       },
       {
         "winKey": "NE",
-        "winScore": 45,
-        "loseKey": "LV",
-        "loseScore": 17,
-        "text": "Adrian's Patriots put on an absolute clinic at home, demolishing the Raiders 45-17 behind Drake Maye's four-TD, 374-yard masterpiece. Rhamondre Stevenson added a rushing score, and Kayshon Williams went for 91 yards and a TD. Kirk Cousins threw for 243 and a score for Vegas, but the Raiders were never in this one. The blowout was Adrian's second win of the week and vaulted him into the upper half of the standings."
+        "winScore": 26,
+        "loseKey": "NYJ",
+        "loseScore": 19,
+        "text": "Adrian's Patriots got a breakout performance from rookie Drake Maye, who threw for 235 yards and three touchdowns in a 26-19 win over the Jets. Demario Douglas caught seven balls for 86 yards and a score, while Geno Smith threw for 252 yards on the other side but couldn't keep pace.\n\nThe win salvages Adrian's week at 1-1 after his Bucs fell to Bill's Steelers. His Patriots improve to 4-2 and look increasingly dangerous with Maye under center, though his Bucs remain a disaster at 1-5. Adrian sits eighth at 5-7, needing his Patriots to carry the load the rest of the way."
+      },
+      {
+        "winKey": "CAR",
+        "winScore": 25,
+        "loseKey": "PHI",
+        "loseScore": 14,
+        "text": "Taras' Panthers rolled into Philadelphia and dominated Matej's Eagles, 25-14, in a head-to-head that wasn't as close as the score suggests. Chuba Hubbard gashed the Eagles defence for 120 yards and a touchdown on 28 carries, while Bryce Young connected on two touchdown passes. The Eagles' backup quarterback Trevor McKee threw for 215 yards and a score but couldn't generate much offense.\n\nThe win gives Taras a 1-1 split and his Panthers improve to 3-2, providing a rare bright spot in his otherwise miserable season. Matej, meanwhile, completes an 0-2 disaster as both his teams lost head-to-heads this week. His Eagles fall to 2-4 and his Jags dropped a shootout to Ben's Texans. He's now 6-6 and falling fast."
       },
       {
         "winKey": "PIT",
-        "winScore": 34,
-        "loseKey": "IND",
-        "loseScore": 22,
-        "text": "Bill's Steelers took care of business at home against the Colts 34-22, with Aaron Rodgers throwing three touchdowns and Jaylen Warren doing double duty — 101 rushing yards and a score plus six catches for 87 and another TD. Daniel Jones threw for 267 for Indy but couldn't keep pace. The win salvages a 1-1 week for Bill after his Cowboys fell to Adrian's Bucs in the early window."
+        "winScore": 26,
+        "loseKey": "TB",
+        "loseScore": 19,
+        "text": "Bill's Steelers escaped Tampa with a 26-19 head-to-head victory over Adrian's Buccaneers. Aaron Rodgers aired it out 49 times for 253 yards and two touchdowns, with DK Metcalf hauling in 11 catches for 93 yards. Jayden Daniels struggled mightily for the Bucs with just 164 yards and two interceptions in a losing effort.\n\nThe win gives Bill a 1-1 split on the week after his Cowboys were dismantled by Chris' Packers. His Steelers improve to 4-2 and remain in the AFC playoff hunt, while his Cowboys sink to 2-4. He sits seventh at 6-6. Adrian's Bucs, now 1-5, are becoming a serious anchor — they've lost to Bill's Steelers in a game they desperately needed."
       },
       {
-        "winKey": "DEN",
-        "winScore": 23,
+        "winKey": "ARI",
+        "winScore": 18,
+        "loseKey": "LAR",
+        "loseScore": 16,
+        "text": "Tymko's Rams came agonizingly close but fell at home to Arizona, 18-16. Matthew Stafford threw for 222 yards and two touchdowns, connecting with Puka Nacua six times for 80 yards, but the offense stalled when it mattered most. The Cardinals' ground game controlled the clock with running back Ben Knight racking up 80 yards.\n\nThe loss damages what could have been a perfect week for Tymko, who splits 1-1 after his Chiefs demolished Taras' Chargers. His Rams drop to 2-4 and look increasingly lost, while his undefeated Chiefs roll on at 5-0. Tymko sits third at 7-4, tied with Jordy but well ahead on net points."
+      },
+      {
+        "winKey": "KC",
+        "winScore": 22,
         "loseKey": "LAC",
-        "loseScore": 17,
-        "text": "Jordy's Broncos took a head-to-head from Taras's Chargers 23-17 in Los Angeles, riding J.K. Dobbins's 68 rushing yards and a score while Bo Nix threw for 123 and a TD. Justin Herbert managed just 121 yards on 14 completions with a pick, and the Chargers fall to 0-5, officially the league's last winless team. Taras now sits two full games out of eighth place."
-      },
-      {
-        "winKey": "DET",
-        "winScore": 45,
-        "loseKey": "ARI",
-        "loseScore": 21,
-        "text": "Jordy's Lions obliterated the Cardinals in Arizona 45-21, with Jahmyr Gibbs racking up 151 yards and two touchdowns on 25 carries while Jared Goff tossed three scores. Sam LaPorta hauled in five for 88 and a TD, and Detroit was never threatened despite Jacoby Brissett's 292 yards and three touchdowns for the Cardinals. The win gives Jordy a 2-0 week and keeps him in the thick of things at 6-4."
-      },
-      {
-        "winKey": "SF",
-        "winScore": 32,
-        "loseKey": "SEA",
-        "loseScore": 29,
-        "text": "Ben's undefeated Niners escaped Seattle 32-29 in a West Coast shootout that came down to the wire. Brock Purdy threw two touchdowns and Christian McCaffrey added a rushing score, while Mike Evans torched the Seahawks for seven catches and 113 yards. Sam Darnold threw two picks for Seattle despite Jaxon Smith-Njigba's 102-yard day, and the loss drops Orest to 1-1 on the week — a pivotal head-to-head swing in the race for first."
-      },
-      {
-        "winKey": "BAL",
-        "winScore": 30,
-        "loseKey": "ATL",
-        "loseScore": 23,
-        "text": "Orest's Ravens held off the Falcons 30-23 in Atlanta behind Derrick Henry's 102 rushing yards and Tyler Huntley's two passing touchdowns. Michael Penix Jr. threw for 240 for the Falcons and Drake London had 118 receiving, but Baltimore's ground game controlled the clock. The win salvages a 1-1 week for Orest and keeps him atop the pool on net points despite the Seahawks' loss to Ben's Niners."
+        "loseScore": 6,
+        "text": "Tymko's Chiefs absolutely throttled Taras' Chargers in Kansas City, 22-6, in a head-to-head that was never competitive. Kenneth Walker III ran wild for 128 yards and two touchdowns, while Patrick Mahomes efficiently managed the game with 272 passing yards. Justin Herbert and the Chargers managed just 204 yards through the air and couldn't crack the end zone once.\n\nThe win gives Tymko a 1-1 split after his Rams fell to Arizona, and his Chiefs remain the only undefeated team in the pool at 5-0. Taras, meanwhile, watches his Chargers drop to an abysmal 0-6 after being outscored 22-6. His Panthers won earlier in the week to salvage a 1-1 split, but the Chargers are dragging him down badly — he's dead last at 3-8."
       },
       {
         "winKey": "BUF",
-        "winScore": 37,
-        "loseKey": "LAR",
-        "loseScore": 34,
-        "text": "Chris's Bills outlasted Tymko's Rams in a wild 37-34 shootout in Los Angeles, with Josh Allen doing Josh Allen things — 210 passing yards, 121 rushing yards and two total touchdowns. Matthew Stafford threw for 383 and three scores, and Puka Nacua had 17 catches for 138 yards, but it wasn't enough. The head-to-head win completes a 2-0 week for Chris and drops Tymko to 0-1 after Kansas City was on a bye."
+        "winScore": 33,
+        "loseKey": "LV",
+        "loseScore": 30,
+        "text": "Chris' Bills survived a back-and-forth thriller in Las Vegas, escaping with a 33-30 victory. Josh Allen threw for 255 yards and two touchdowns, while James Cook III bulldozed his way to 95 rushing yards and another score. Kirk Cousins kept the Raiders in it with 313 yards and two touchdowns, but it wasn't enough in the end.\n\nThe win completes a perfect 2-0 week for Chris, who maintains his pool lead at 9-3. His Bills improve to 5-1 and look like a legitimate contender, while his Packers also won to move to 4-2. Chris holds a one-game lead over Ben and is the only entrant still above .500 on both teams."
+      },
+      {
+        "winKey": "GB",
+        "winScore": 23,
+        "loseKey": "DAL",
+        "loseScore": 13,
+        "text": "Chris' Packers dismantled Bill's Cowboys at Lambeau Field, 23-13, in a head-to-head that was never in doubt. Jordan Love threw for 276 yards and a touchdown to Malik Golden, who had 104 receiving yards. Dak Prescott struggled badly with 258 yards, a touchdown and two interceptions as the Cowboys' offense sputtered.\n\nThe win seals a 2-0 week for Chris and keeps him atop the pool standings at 9-3. His Packers improve to 4-2 and his Bills are 5-1 — he's the clear leader with both teams playing well. Bill takes the loss and finishes 1-1 on the week, with his Cowboys falling to 2-4 and looking increasingly hapless. He's seventh at 6-6 and needs his Steelers to carry more weight."
+      },
+      {
+        "winKey": "SF",
+        "winScore": 23,
+        "loseKey": "WSH",
+        "loseScore": 17,
+        "text": "Ben's Niners stayed perfect with a 23-17 home win over Washington, improving to 6-0 on the season. Brock Purdy was efficient with 264 yards and a touchdown, while Christian McCaffrey punched in two rushing touchdowns on 64 yards. Jayden Daniels threw for 300 yards and two scores for Washington but couldn't overcome San Francisco's balanced attack.\n\nThe win completes a perfect 2-0 week for Ben, who vaults into second place in the pool at 8-4. His Niners remain the only undefeated NFC team in the pool and have been his lifeline all season. Even his struggling Texans won a head-to-head over Matej's Jags, giving Ben serious momentum heading into Week 7."
       }
     ],
     "entrants": [
       {
-        "name": "Adrian",
-        "result": "2-0",
-        "tone": "good",
-        "text": "Adrian's perfect week — Bucs over Bill's Cowboys, Patriots destroying the Raiders — rockets him to 4-6 and within striking distance of the middle pack; next week brings two more head-to-heads as his Steelers visit his Bucs and his Patriots host the Jets."
-      },
-      {
         "name": "Ben",
         "result": "2-0",
         "tone": "good",
-        "text": "Ben's Niners stayed undefeated with a nail-biter over Orest's Seahawks while his Texans finally got a win, leaving him third at 6-4; he faces Matej's Jags on Sunday morning in London and closes Monday night against Washington."
+        "text": "Ben surges into second place at 8-4 with his first perfect week of the season. His undefeated Niners are carrying the load at 6-0, but his Texans' head-to-head win over Matej's Jags was massive. He trails Chris by just one game but holds a commanding +40 net points advantage. Next week his Niners travel to Atlanta and his Texans host the Giants."
       },
       {
         "name": "Chris",
         "result": "2-0",
         "tone": "good",
-        "text": "Chris's Packers demolished Chicago and his Bills survived a shootout with Tymko's Rams to keep him tied for first at 7-3; a Thursday night head-to-head looms as his Cowboys visit his Packers on Sunday night."
+        "text": "Chris stays atop the pool at 9-3 after sweeping both his games, including a head-to-head win over Bill's Cowboys. His Bills are 5-1 and his Packers 4-2 — the only entrant with both teams above .500. He's got a one-game cushion over Ben, but Buffalo is on a bye next week while his Pack travels to Detroit to face Jordy's Lions in a critical head-to-head."
       },
       {
         "name": "Jordy",
-        "result": "2-0",
-        "tone": "good",
-        "text": "Jordy's Broncos handled Taras's Chargers and his Lions demolished Arizona for a 2-0 week that keeps him at 6-4; his Broncos host Orest's Seahawks on Thursday night while Detroit is on bye."
-      },
-      {
-        "name": "Matej",
-        "result": "1-1",
+        "result": "1-0",
         "tone": "flat",
-        "text": "Matej's Jags beat his Eagles 19-17 in a wash of a week that leaves him at 6-4; he gets Ben's Texans in London and hosts Taras's Panthers on Sunday."
-      },
-      {
-        "name": "Orest",
-        "result": "1-1",
-        "tone": "flat",
-        "text": "Orest's Ravens salvaged a split after his Seahawks fell to Ben's Niners, but he clings to first place at 7-3 on net points; his Seahawks travel to Jordy's Broncos on Thursday night and his Ravens visit Cleveland on Sunday."
-      },
-      {
-        "name": "Bill",
-        "result": "1-1",
-        "tone": "flat",
-        "text": "Bill's Cowboys lost the head-to-head to Adrian's Bucs but his Steelers handled Indy for a 1-1 week that keeps him at 5-5; both his teams face Adrian's next week in a pair of crucial head-to-heads."
+        "text": "Jordy's Broncos won a head-to-head over Orest's Seahawks while his Lions were on a bye, giving him a clean 1-0 week. He's tied for third at 7-4 but trails Tymko badly on net points. Next week brings a massive Sunday afternoon head-to-head with Chris' Packers visiting his Lions, with his Broncos traveling to Arizona."
       },
       {
         "name": "Tymko",
-        "result": "0-1",
-        "tone": "bad",
-        "text": "Tymko's Rams fell in a shootout to Chris's Bills while his Chiefs were on bye, leaving him 6-3 and in danger of slipping; his Rams host Arizona while his Chiefs get Taras's Chargers in a head-to-head on Sunday afternoon."
+        "result": "1-1",
+        "tone": "flat",
+        "text": "Tymko splits 1-1 with his Chiefs demolishing Taras' Chargers in a head-to-head but his Rams falling at home to Arizona. His Chiefs are a perfect 5-0 and look unstoppable, but his Rams are 2-4 and drowning. He's third at 7-4, tied with Jordy but ahead on net points. Next week his Chiefs travel to Seattle to face Orest in a head-to-head, while his Rams visit Las Vegas."
       },
       {
-        "name": "Taras",
-        "result": "0-1",
+        "name": "Adrian, Bill, Taras",
+        "result": "1-1",
+        "tone": "flat",
+        "text": "Adrian (5-7), Bill (6-6) and Taras (3-8) all split 1-1 with head-to-head wins and losses. Adrian's Patriots are keeping him afloat at 4-2 while his Bucs sink to 1-5. Bill's Steelers won but his Cowboys were crushed by Chris' Packers. Taras' Panthers are 3-2 but his Chargers are a catastrophic 0-6. Adrian faces Taras in a head-to-head next week, Bill gets two more head-to-heads, and Taras desperately needs his Panthers to keep winning."
+      },
+      {
+        "name": "Orest",
+        "result": "0-2",
         "tone": "bad",
-        "text": "Taras's Chargers are officially the league's last winless team after falling to Jordy's Broncos, and at 2-7 he's two full games out of eighth; his Panthers visit Matej's Eagles and his Chargers face Tymko's Chiefs in back-to-back head-to-heads."
+        "text": "Orest suffers the week's only 0-2, losing a head-to-head to Jordy's Broncos and falling to Cleveland. Both his teams are 4-2 and 3-3 respectively, but the losses drop him to fourth at 7-5. He's suddenly in danger of falling further as Ben and Tymko close in. Next week his Ravens host Cincinnati and his Seahawks face Tymko's Chiefs in a head-to-head on Sunday night."
+      },
+      {
+        "name": "Matej",
+        "result": "0-2",
+        "tone": "bad",
+        "text": "Matej's nightmare week sees both his teams lose head-to-heads — his Jags falling in a shootout to Ben's Texans and his Eagles getting throttled at home by Taras' Panthers. He drops to sixth at 6-6 and is spiraling. His Jags are 4-2 but his Eagles are 2-4 and look lost. Next week his Eagles host Bill's Cowboys on Monday night in another head-to-head he desperately needs."
       }
     ],
     "ahead": [
-      "Week 6 opens Thursday night with a head-to-head as Orest's Seahawks travel to Jordy's Broncos.",
-      "Sunday morning brings another head-to-head in London when Ben's Texans face Matej's Jags.",
-      "Four more head-to-heads dot the Sunday slate: Taras's Panthers at Matej's Eagles, Bill's Steelers at Adrian's Bucs, Taras's Chargers at Tymko's Chiefs, and Bill's Cowboys visiting Chris's Packers on Sunday night."
+      "Week 7 kicks off Thursday night with Adrian's Patriots visiting Chicago, then Sunday morning sees Bill's Steelers travel to New Orleans in the international series",
+      "Sunday afternoon features two massive head-to-heads: Chris' Packers at Jordy's Lions, and Adrian's Bucs at Taras' Panthers",
+      "Sunday night brings Tymko's Chiefs at Orest's Seahawks in Seattle, with Monday night capping the week as Bill's Cowboys visit Matej's Eagles"
     ],
     "notes": [
       {
         "label": "Biggest swing",
-        "value": "Chris over Tymko",
-        "sub": "Bills 37, Rams 34 — a six-point head-to-head swing"
+        "value": "Ben over Matej",
+        "sub": "Texans 34, Jaguars 31 — flipped 2 points"
       },
       {
         "label": "Perfect weeks",
-        "value": "Four entrants",
-        "sub": "Adrian, Ben, Chris and Jordy all went 2-0"
+        "value": "Ben, Chris",
+        "sub": "Both go 2-0; Chris stays ahead by one game"
       },
       {
-        "label": "Winless watch",
-        "value": "Chargers 0-5",
-        "sub": "Taras's AFC team is the league's last without a win"
+        "label": "Winless",
+        "value": "Taras' Chargers",
+        "sub": "0-6, outscored by 84 points through six weeks"
       },
       {
-        "label": "Undefeated watch",
-        "value": "49ers 5-0",
-        "sub": "Ben's NFC squad is the league's last unblemished team"
+        "label": "Week 7 head-to-heads",
+        "value": "Four scheduled",
+        "sub": "Chris-Jordy, Adrian-Taras, Tymko-Orest, Bill-Matej"
       }
     ],
-    "generated": "Written Tue, 10/13, 6:09 AM ET from the nightly feed",
-    "weekNumber": 5
+    "generated": "Written Tue, 10/20, 10:35 AM ET from the nightly feed",
+    "weekNumber": 6
   },
   "recaps": [
     {
@@ -2047,6 +2035,168 @@
       ],
       "generated": "Written Tue, 10/13, 6:09 AM ET from the nightly feed",
       "weekNumber": 5
+    },
+    {
+      "week": "Week 6",
+      "headline": "Ben's perfect week vaults him into second; Orest blanked",
+      "dek": "Ben's 2-0 climbs him to within a game of Chris, who also went undefeated. Four head-to-heads decided, with Orest suffering the week's only 0-2.",
+      "takeaways": [
+        "Four head-to-heads resolved in Week 6 — the most consequential being Ben over Matej in Houston, flipping two points in the standings",
+        "Chris maintains the pool lead at 9-3 but Ben's perfect week brings him within a game, and Ben holds a whopping +40 edge in net points",
+        "Taras' Chargers are now 0-6 after another ugly showing in Kansas City — they've been outscored by 84 points in six games"
+      ],
+      "games": [
+        {
+          "winKey": "DEN",
+          "winScore": 17,
+          "loseKey": "SEA",
+          "loseScore": 14,
+          "text": "Jordy's Broncos escaped with a low-scoring head-to-head win over Orest's Seahawks in Denver, 17-14. Bo Nix managed just 107 yards through the air but J.K. Dobbins punched in a rushing touchdown to provide the margin. Sam Darnold threw for 278 yards but couldn't find the end zone, tossing two costly interceptions instead. Jaxon Smith-Njigba hauled in 12 catches for 134 yards in a losing effort.\n\nThe result flips a point in Jordy's favour and keeps his Broncos at 4-2, while Orest's Hawks slide to 3-3. Jordy took the only bye-free 1-0 this week and sits in fifth place with 7 points. Orest, meanwhile, is staring down an 0-2 weekend and drops to fourth at 7-5."
+        },
+        {
+          "winKey": "HOU",
+          "winScore": 34,
+          "loseKey": "JAX",
+          "loseScore": 31,
+          "text": "Ben's Texans held off Matej's Jags in a wild shootout in Jacksonville, 34-31, in the week's highest-scoring head-to-head. C.J. Stroud threw for 312 yards and three touchdowns, while J. Noel torched the Jags secondary for 107 yards and a score. Trevor Lawrence kept Jacksonville in it with 306 yards and four touchdowns of his own, but it wasn't quite enough.\n\nThe win pushes Ben to 2-0 on the week and vaults him into sole possession of second place at 8-4, just one game behind Chris. Ben's Niners remain undefeated at 6-0, and even his struggling Texans managed a road win to improve to 2-4. Matej takes the loss and drops to 0-2 for the week, falling to sixth at 6-6. He'll need his Eagles to turn things around quickly."
+        },
+        {
+          "winKey": "CLE",
+          "winScore": 13,
+          "loseKey": "BAL",
+          "loseScore": 10,
+          "text": "Orest's Ravens stumbled in Cleveland, falling 13-10 in a defensive slugfest. Deshaun Watson threw for just 164 yards but avoided major mistakes, while backup Tyler Huntley couldn't generate much for Baltimore with only 165 yards through the air. Derrick Henry managed 58 yards on the ground but couldn't find the end zone.\n\nThe loss completes a dismal 0-2 week for Orest, who sees both his teams fall in Week 6. His Ravens drop to 4-2 but remain competitive in the AFC, while his Seahawks' loss to Jordy's Broncos leaves them at 3-3. Orest sits fourth in the pool at 7-5, watching Ben and Tymko close in from behind."
+        },
+        {
+          "winKey": "NE",
+          "winScore": 26,
+          "loseKey": "NYJ",
+          "loseScore": 19,
+          "text": "Adrian's Patriots got a breakout performance from rookie Drake Maye, who threw for 235 yards and three touchdowns in a 26-19 win over the Jets. Demario Douglas caught seven balls for 86 yards and a score, while Geno Smith threw for 252 yards on the other side but couldn't keep pace.\n\nThe win salvages Adrian's week at 1-1 after his Bucs fell to Bill's Steelers. His Patriots improve to 4-2 and look increasingly dangerous with Maye under center, though his Bucs remain a disaster at 1-5. Adrian sits eighth at 5-7, needing his Patriots to carry the load the rest of the way."
+        },
+        {
+          "winKey": "CAR",
+          "winScore": 25,
+          "loseKey": "PHI",
+          "loseScore": 14,
+          "text": "Taras' Panthers rolled into Philadelphia and dominated Matej's Eagles, 25-14, in a head-to-head that wasn't as close as the score suggests. Chuba Hubbard gashed the Eagles defence for 120 yards and a touchdown on 28 carries, while Bryce Young connected on two touchdown passes. The Eagles' backup quarterback Trevor McKee threw for 215 yards and a score but couldn't generate much offense.\n\nThe win gives Taras a 1-1 split and his Panthers improve to 3-2, providing a rare bright spot in his otherwise miserable season. Matej, meanwhile, completes an 0-2 disaster as both his teams lost head-to-heads this week. His Eagles fall to 2-4 and his Jags dropped a shootout to Ben's Texans. He's now 6-6 and falling fast."
+        },
+        {
+          "winKey": "PIT",
+          "winScore": 26,
+          "loseKey": "TB",
+          "loseScore": 19,
+          "text": "Bill's Steelers escaped Tampa with a 26-19 head-to-head victory over Adrian's Buccaneers. Aaron Rodgers aired it out 49 times for 253 yards and two touchdowns, with DK Metcalf hauling in 11 catches for 93 yards. Jayden Daniels struggled mightily for the Bucs with just 164 yards and two interceptions in a losing effort.\n\nThe win gives Bill a 1-1 split on the week after his Cowboys were dismantled by Chris' Packers. His Steelers improve to 4-2 and remain in the AFC playoff hunt, while his Cowboys sink to 2-4. He sits seventh at 6-6. Adrian's Bucs, now 1-5, are becoming a serious anchor — they've lost to Bill's Steelers in a game they desperately needed."
+        },
+        {
+          "winKey": "ARI",
+          "winScore": 18,
+          "loseKey": "LAR",
+          "loseScore": 16,
+          "text": "Tymko's Rams came agonizingly close but fell at home to Arizona, 18-16. Matthew Stafford threw for 222 yards and two touchdowns, connecting with Puka Nacua six times for 80 yards, but the offense stalled when it mattered most. The Cardinals' ground game controlled the clock with running back Ben Knight racking up 80 yards.\n\nThe loss damages what could have been a perfect week for Tymko, who splits 1-1 after his Chiefs demolished Taras' Chargers. His Rams drop to 2-4 and look increasingly lost, while his undefeated Chiefs roll on at 5-0. Tymko sits third at 7-4, tied with Jordy but well ahead on net points."
+        },
+        {
+          "winKey": "KC",
+          "winScore": 22,
+          "loseKey": "LAC",
+          "loseScore": 6,
+          "text": "Tymko's Chiefs absolutely throttled Taras' Chargers in Kansas City, 22-6, in a head-to-head that was never competitive. Kenneth Walker III ran wild for 128 yards and two touchdowns, while Patrick Mahomes efficiently managed the game with 272 passing yards. Justin Herbert and the Chargers managed just 204 yards through the air and couldn't crack the end zone once.\n\nThe win gives Tymko a 1-1 split after his Rams fell to Arizona, and his Chiefs remain the only undefeated team in the pool at 5-0. Taras, meanwhile, watches his Chargers drop to an abysmal 0-6 after being outscored 22-6. His Panthers won earlier in the week to salvage a 1-1 split, but the Chargers are dragging him down badly — he's dead last at 3-8."
+        },
+        {
+          "winKey": "BUF",
+          "winScore": 33,
+          "loseKey": "LV",
+          "loseScore": 30,
+          "text": "Chris' Bills survived a back-and-forth thriller in Las Vegas, escaping with a 33-30 victory. Josh Allen threw for 255 yards and two touchdowns, while James Cook III bulldozed his way to 95 rushing yards and another score. Kirk Cousins kept the Raiders in it with 313 yards and two touchdowns, but it wasn't enough in the end.\n\nThe win completes a perfect 2-0 week for Chris, who maintains his pool lead at 9-3. His Bills improve to 5-1 and look like a legitimate contender, while his Packers also won to move to 4-2. Chris holds a one-game lead over Ben and is the only entrant still above .500 on both teams."
+        },
+        {
+          "winKey": "GB",
+          "winScore": 23,
+          "loseKey": "DAL",
+          "loseScore": 13,
+          "text": "Chris' Packers dismantled Bill's Cowboys at Lambeau Field, 23-13, in a head-to-head that was never in doubt. Jordan Love threw for 276 yards and a touchdown to Malik Golden, who had 104 receiving yards. Dak Prescott struggled badly with 258 yards, a touchdown and two interceptions as the Cowboys' offense sputtered.\n\nThe win seals a 2-0 week for Chris and keeps him atop the pool standings at 9-3. His Packers improve to 4-2 and his Bills are 5-1 — he's the clear leader with both teams playing well. Bill takes the loss and finishes 1-1 on the week, with his Cowboys falling to 2-4 and looking increasingly hapless. He's seventh at 6-6 and needs his Steelers to carry more weight."
+        },
+        {
+          "winKey": "SF",
+          "winScore": 23,
+          "loseKey": "WSH",
+          "loseScore": 17,
+          "text": "Ben's Niners stayed perfect with a 23-17 home win over Washington, improving to 6-0 on the season. Brock Purdy was efficient with 264 yards and a touchdown, while Christian McCaffrey punched in two rushing touchdowns on 64 yards. Jayden Daniels threw for 300 yards and two scores for Washington but couldn't overcome San Francisco's balanced attack.\n\nThe win completes a perfect 2-0 week for Ben, who vaults into second place in the pool at 8-4. His Niners remain the only undefeated NFC team in the pool and have been his lifeline all season. Even his struggling Texans won a head-to-head over Matej's Jags, giving Ben serious momentum heading into Week 7."
+        }
+      ],
+      "entrants": [
+        {
+          "name": "Ben",
+          "result": "2-0",
+          "tone": "good",
+          "text": "Ben surges into second place at 8-4 with his first perfect week of the season. His undefeated Niners are carrying the load at 6-0, but his Texans' head-to-head win over Matej's Jags was massive. He trails Chris by just one game but holds a commanding +40 net points advantage. Next week his Niners travel to Atlanta and his Texans host the Giants."
+        },
+        {
+          "name": "Chris",
+          "result": "2-0",
+          "tone": "good",
+          "text": "Chris stays atop the pool at 9-3 after sweeping both his games, including a head-to-head win over Bill's Cowboys. His Bills are 5-1 and his Packers 4-2 — the only entrant with both teams above .500. He's got a one-game cushion over Ben, but Buffalo is on a bye next week while his Pack travels to Detroit to face Jordy's Lions in a critical head-to-head."
+        },
+        {
+          "name": "Jordy",
+          "result": "1-0",
+          "tone": "flat",
+          "text": "Jordy's Broncos won a head-to-head over Orest's Seahawks while his Lions were on a bye, giving him a clean 1-0 week. He's tied for third at 7-4 but trails Tymko badly on net points. Next week brings a massive Sunday afternoon head-to-head with Chris' Packers visiting his Lions, with his Broncos traveling to Arizona."
+        },
+        {
+          "name": "Tymko",
+          "result": "1-1",
+          "tone": "flat",
+          "text": "Tymko splits 1-1 with his Chiefs demolishing Taras' Chargers in a head-to-head but his Rams falling at home to Arizona. His Chiefs are a perfect 5-0 and look unstoppable, but his Rams are 2-4 and drowning. He's third at 7-4, tied with Jordy but ahead on net points. Next week his Chiefs travel to Seattle to face Orest in a head-to-head, while his Rams visit Las Vegas."
+        },
+        {
+          "name": "Adrian, Bill, Taras",
+          "result": "1-1",
+          "tone": "flat",
+          "text": "Adrian (5-7), Bill (6-6) and Taras (3-8) all split 1-1 with head-to-head wins and losses. Adrian's Patriots are keeping him afloat at 4-2 while his Bucs sink to 1-5. Bill's Steelers won but his Cowboys were crushed by Chris' Packers. Taras' Panthers are 3-2 but his Chargers are a catastrophic 0-6. Adrian faces Taras in a head-to-head next week, Bill gets two more head-to-heads, and Taras desperately needs his Panthers to keep winning."
+        },
+        {
+          "name": "Orest",
+          "result": "0-2",
+          "tone": "bad",
+          "text": "Orest suffers the week's only 0-2, losing a head-to-head to Jordy's Broncos and falling to Cleveland. Both his teams are 4-2 and 3-3 respectively, but the losses drop him to fourth at 7-5. He's suddenly in danger of falling further as Ben and Tymko close in. Next week his Ravens host Cincinnati and his Seahawks face Tymko's Chiefs in a head-to-head on Sunday night."
+        },
+        {
+          "name": "Matej",
+          "result": "0-2",
+          "tone": "bad",
+          "text": "Matej's nightmare week sees both his teams lose head-to-heads — his Jags falling in a shootout to Ben's Texans and his Eagles getting throttled at home by Taras' Panthers. He drops to sixth at 6-6 and is spiraling. His Jags are 4-2 but his Eagles are 2-4 and look lost. Next week his Eagles host Bill's Cowboys on Monday night in another head-to-head he desperately needs."
+        }
+      ],
+      "ahead": [
+        "Week 7 kicks off Thursday night with Adrian's Patriots visiting Chicago, then Sunday morning sees Bill's Steelers travel to New Orleans in the international series",
+        "Sunday afternoon features two massive head-to-heads: Chris' Packers at Jordy's Lions, and Adrian's Bucs at Taras' Panthers",
+        "Sunday night brings Tymko's Chiefs at Orest's Seahawks in Seattle, with Monday night capping the week as Bill's Cowboys visit Matej's Eagles"
+      ],
+      "notes": [
+        {
+          "label": "Biggest swing",
+          "value": "Ben over Matej",
+          "sub": "Texans 34, Jaguars 31 — flipped 2 points"
+        },
+        {
+          "label": "Perfect weeks",
+          "value": "Ben, Chris",
+          "sub": "Both go 2-0; Chris stays ahead by one game"
+        },
+        {
+          "label": "Winless",
+          "value": "Taras' Chargers",
+          "sub": "0-6, outscored by 84 points through six weeks"
+        },
+        {
+          "label": "Week 7 head-to-heads",
+          "value": "Four scheduled",
+          "sub": "Chris-Jordy, Adrian-Taras, Tymko-Orest, Bill-Matej"
+        }
+      ],
+      "generated": "Written Tue, 10/20, 10:35 AM ET from the nightly feed",
+      "weekNumber": 6
     }
   ]
 }
