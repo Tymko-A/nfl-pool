@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 6,
-  "updated": "Mon, 10/19, 11:58 AM ET",
+  "updated": "Tue, 10/20, 12:01 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -101,11 +101,11 @@
     "SF": {
       "name": "San Francisco 49ers",
       "conf": "AFC",
-      "w": 5,
+      "w": 6,
       "l": 0,
       "t": 0,
-      "pf": 154,
-      "pa": 93,
+      "pf": 177,
+      "pa": 110,
       "color": "#aa0000"
     },
     "PIT": {
@@ -280,7 +280,7 @@
       "W",
       "W",
       "W",
-      ""
+      "W"
     ],
     "CIN": [
       "W",
@@ -456,7 +456,7 @@
       "W",
       "L",
       "T",
-      ""
+      "L"
     ],
     "LAC": [
       "L",
@@ -508,6 +508,47 @@
     ]
   },
   "games": [
+    {
+      "when": "Mon 10/19 · Final",
+      "away": "WSH",
+      "home": "SF",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Purdy (SF)",
+          "21/29, 264 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "C. McCaffrey (SF)",
+          "16 CAR, 64 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "M. Evans (SF)",
+          "3 REC, 94 YDS"
+        ],
+        [
+          "PASS",
+          "J. Daniels (WSH)",
+          "29/40, 300 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "R. White (WSH)",
+          "7 CAR, 27 YDS"
+        ],
+        [
+          "REC",
+          "C. Okonkwo (WSH)",
+          "7 REC, 69 YDS"
+        ]
+      ],
+      "as": 17,
+      "hs": 23
+    },
     {
       "when": "Thu 10/15 · Final",
       "away": "SEA",
@@ -917,14 +958,6 @@
       ],
       "as": 13,
       "hs": 23
-    },
-    {
-      "when": "Mon 10/19 · 8:15 PM ET",
-      "away": "WSH",
-      "home": "SF",
-      "done": false,
-      "live": false,
-      "leaders": []
     }
   ],
   "recap": {
