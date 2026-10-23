@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated": "Thu, 10/22, 10:10 AM ET",
+  "updated": "Fri, 10/23, 9:54 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -72,10 +72,10 @@
       "name": "New England Patriots",
       "conf": "NFC",
       "w": 4,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 136,
-      "pa": 113,
+      "pf": 160,
+      "pa": 143,
       "color": "#002a5c"
     },
     "TB": {
@@ -266,7 +266,7 @@
       "W",
       "W",
       "W",
-      ""
+      "L"
     ],
     "LAR": [
       "L",
@@ -392,7 +392,7 @@
       "W",
       "L",
       "W",
-      ""
+      "W"
     ],
     "JAX": [
       "W",
@@ -541,12 +541,45 @@
   },
   "games": [
     {
-      "when": "Thu 10/22 · 8:15 PM ET",
+      "when": "Thu 10/22 · Final",
       "away": "NE",
       "home": "CHI",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "C. Williams (CHI)",
+          "22/33, 308 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "D. Swift (CHI)",
+          "22 CAR, 78 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "L. Burden III (CHI)",
+          "4 REC, 130 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Maye (NE)",
+          "24/31, 321 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "D. Maye (NE)",
+          "4 CAR, 26 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "R. Stevenson (NE)",
+          "5 REC, 93 YDS, 1 TD"
+        ]
+      ],
+      "as": 24,
+      "hs": 30
     },
     {
       "when": "Sun 10/25 · 9:30 AM ET",
