@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated": "Sun, 10/25, 3:22 PM ET",
+  "updated": "Sun, 10/25, 5:56 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -81,31 +81,31 @@
     "TB": {
       "name": "Tampa Bay Buccaneers",
       "conf": "AFC",
-      "w": 1,
+      "w": 2,
       "l": 5,
       "t": 0,
-      "pf": 119,
-      "pa": 138,
+      "pf": 162,
+      "pa": 151,
       "color": "#d50a0a"
     },
     "HOU": {
       "name": "Houston Texans",
       "conf": "AFC",
       "w": 2,
-      "l": 4,
+      "l": 5,
       "t": 0,
-      "pf": 144,
-      "pa": 143,
+      "pf": 165,
+      "pa": 170,
       "color": "#03202f"
     },
     "SF": {
       "name": "San Francisco 49ers",
       "conf": "AFC",
       "w": 6,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 177,
-      "pa": 110,
+      "pf": 197,
+      "pa": 139,
       "color": "#aa0000"
     },
     "PIT": {
@@ -192,10 +192,10 @@
       "name": "Baltimore Ravens",
       "conf": "AFC",
       "w": 4,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 156,
-      "pa": 132,
+      "pf": 169,
+      "pa": 167,
       "color": "#241773"
     },
     "SEA": {
@@ -222,10 +222,10 @@
       "name": "Carolina Panthers",
       "conf": "AFC",
       "w": 3,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 146,
-      "pa": 123,
+      "pf": 159,
+      "pa": 166,
       "color": "#0085ca"
     },
     "KC": {
@@ -284,7 +284,7 @@
       "W",
       "W",
       "W",
-      ""
+      "L"
     ],
     "CIN": [
       "W",
@@ -293,7 +293,7 @@
       "L",
       "W",
       "",
-      ""
+      "W"
     ],
     "TB": [
       "L",
@@ -302,7 +302,7 @@
       "L",
       "W",
       "L",
-      ""
+      "W"
     ],
     "DET": [
       "W",
@@ -329,7 +329,7 @@
       "L",
       "L",
       "W",
-      ""
+      "L"
     ],
     "NYJ": [
       "W",
@@ -338,7 +338,7 @@
       "L",
       "W",
       "L",
-      ""
+      "L"
     ],
     "IND": [
       "L",
@@ -347,7 +347,7 @@
       "W",
       "L",
       "L",
-      ""
+      "L"
     ],
     "BAL": [
       "W",
@@ -356,7 +356,7 @@
       "W",
       "W",
       "L",
-      ""
+      "L"
     ],
     "PIT": [
       "W",
@@ -374,7 +374,7 @@
       "W",
       "L",
       "L",
-      ""
+      "W"
     ],
     "CAR": [
       "L",
@@ -383,7 +383,7 @@
       "W",
       "",
       "W",
-      ""
+      "L"
     ],
     "CHI": [
       "W",
@@ -410,7 +410,7 @@
       "W",
       "L",
       "W",
-      ""
+      "W"
     ],
     "HOU": [
       "L",
@@ -419,7 +419,7 @@
       "L",
       "W",
       "W",
-      ""
+      "L"
     ],
     "BUF": [
       "W",
@@ -446,7 +446,7 @@
       "L",
       "L",
       "",
-      ""
+      "W"
     ],
     "MIN": [
       "W",
@@ -455,7 +455,7 @@
       "W",
       "W",
       "",
-      ""
+      "W"
     ],
     "GB": [
       "L",
@@ -509,7 +509,7 @@
       "W",
       "T",
       "L",
-      ""
+      "W"
     ],
     "DAL": [
       "L",
@@ -582,6 +582,170 @@
       "hs": 10
     },
     {
+      "when": "Sun 10/25 · Final",
+      "away": "SF",
+      "home": "ATL",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "M. Penix Jr. (ATL)",
+          "25/34, 213 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "B. Robinson (ATL)",
+          "20 CAR, 63 YDS"
+        ],
+        [
+          "REC",
+          "D. London (ATL)",
+          "7 REC, 66 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "B. Purdy (SF)",
+          "27/40, 288 YDS, 1 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "K. Black (SF)",
+          "12 CAR, 63 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "G. Kittle (SF)",
+          "8 REC, 88 YDS"
+        ]
+      ],
+      "as": 20,
+      "hs": 29
+    },
+    {
+      "when": "Sun 10/25 · Final",
+      "away": "TB",
+      "home": "CAR",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Young (CAR)",
+          "14/27, 163 YDS, 1 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "C. Hubbard (CAR)",
+          "7 CAR, 33 YDS"
+        ],
+        [
+          "REC",
+          "D. Waller (CAR)",
+          "1 REC, 50 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "B. Mayfield (TB)",
+          "7/11, 64 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "B. Irving (TB)",
+          "24 CAR, 106 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "T. Johnson (TB)",
+          "2 REC, 33 YDS, 1 TD"
+        ]
+      ],
+      "as": 43,
+      "hs": 13
+    },
+    {
+      "when": "Sun 10/25 · Final",
+      "away": "CIN",
+      "home": "BAL",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "T. Huntley (BAL)",
+          "23/34, 298 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "D. Henry (BAL)",
+          "17 CAR, 45 YDS"
+        ],
+        [
+          "REC",
+          "Z. Flowers (BAL)",
+          "8 REC, 137 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "J. Burrow (CIN)",
+          "22/30, 292 YDS, 4 TD"
+        ],
+        [
+          "RUSH",
+          "C. Brown (CIN)",
+          "11 CAR, 39 YDS"
+        ],
+        [
+          "REC",
+          "T. Higgins (CIN)",
+          "6 REC, 148 YDS, 1 TD"
+        ]
+      ],
+      "as": 35,
+      "hs": 13
+    },
+    {
+      "when": "Sun 10/25 · Final",
+      "away": "NYG",
+      "home": "HOU",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "C.J. Stroud (HOU)",
+          "17/28, 153 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "W. Marks (HOU)",
+          "19 CAR, 66 YDS"
+        ],
+        [
+          "REC",
+          "D. Schultz (HOU)",
+          "5 REC, 45 YDS"
+        ],
+        [
+          "PASS",
+          "J.J. McCarthy (NYG)",
+          "20/28, 252 YDS"
+        ],
+        [
+          "RUSH",
+          "C. Skattebo (NYG)",
+          "17 CAR, 124 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "M. Nabers (NYG)",
+          "7 REC, 111 YDS"
+        ]
+      ],
+      "as": 27,
+      "hs": 21
+    },
+    {
       "when": "Thu 10/22 · Final",
       "away": "NE",
       "home": "CHI",
@@ -623,72 +787,37 @@
       "hs": 30
     },
     {
-      "when": "Sun 10/25 · 11:48 - 4th",
-      "away": "SF",
-      "home": "ATL",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 14,
-      "hs": 26,
-      "clock": "11:48 - 4th"
-    },
-    {
-      "when": "Sun 10/25 · 10:21 - 4th",
-      "away": "TB",
-      "home": "CAR",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 36,
-      "hs": 6,
-      "clock": "10:21 - 4th"
-    },
-    {
-      "when": "Sun 10/25 · 11:14 - 4th",
-      "away": "CIN",
-      "home": "BAL",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 21,
-      "hs": 13,
-      "clock": "11:14 - 4th"
-    },
-    {
-      "when": "Sun 10/25 · 0:21 - 3rd",
-      "away": "NYG",
-      "home": "HOU",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 14,
-      "hs": 14,
-      "clock": "0:21 - 3rd"
-    },
-    {
-      "when": "Sun 10/25 · 4:05 PM ET",
+      "when": "Sun 10/25 · 13:37 - 3rd",
       "away": "DEN",
       "home": "ARI",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 13,
+      "hs": 6,
+      "clock": "13:37 - 3rd"
     },
     {
-      "when": "Sun 10/25 · 4:25 PM ET",
+      "when": "Sun 10/25 · Halftime",
       "away": "GB",
       "home": "DET",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 7,
+      "hs": 10,
+      "clock": "Halftime"
     },
     {
-      "when": "Sun 10/25 · 4:25 PM ET",
+      "when": "Sun 10/25 · 0:03 - 2nd",
       "away": "LAR",
       "home": "LV",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 28,
+      "hs": 3,
+      "clock": "0:03 - 2nd"
     },
     {
       "when": "Sun 10/25 · 8:20 PM ET",
