@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated": "Sun, 10/25, 5:56 PM ET",
+  "updated": "Sun, 10/25, 7:41 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -142,30 +142,30 @@
       "name": "Green Bay Packers",
       "conf": "AFC",
       "w": 4,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 127,
-      "pa": 125,
+      "pf": 144,
+      "pa": 145,
       "color": "#203731"
     },
     "DEN": {
       "name": "Denver Broncos",
       "conf": "NFC",
-      "w": 4,
+      "w": 5,
       "l": 2,
       "t": 0,
-      "pf": 114,
-      "pa": 125,
+      "pf": 144,
+      "pa": 141,
       "color": "#fb4f14"
     },
     "DET": {
       "name": "Detroit Lions",
       "conf": "AFC",
-      "w": 3,
+      "w": 4,
       "l": 2,
       "t": 0,
-      "pf": 164,
-      "pa": 148,
+      "pf": 184,
+      "pa": 165,
       "color": "#0076b6"
     },
     "JAX": {
@@ -241,11 +241,11 @@
     "LAR": {
       "name": "Los Angeles Rams",
       "conf": "AFC",
-      "w": 2,
+      "w": 3,
       "l": 4,
       "t": 0,
-      "pf": 135,
-      "pa": 138,
+      "pf": 170,
+      "pa": 159,
       "color": "#003594"
     }
   },
@@ -275,7 +275,7 @@
       "W",
       "L",
       "L",
-      ""
+      "W"
     ],
     "SF": [
       "W",
@@ -311,7 +311,7 @@
       "L",
       "W",
       "",
-      ""
+      "W"
     ],
     "NO": [
       "L",
@@ -437,7 +437,7 @@
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "MIA": [
       "L",
@@ -464,7 +464,7 @@
       "W",
       "W",
       "W",
-      ""
+      "L"
     ],
     "PHI": [
       "W",
@@ -500,7 +500,7 @@
       "L",
       "L",
       "W",
-      ""
+      "L"
     ],
     "NYG": [
       "W",
@@ -536,10 +536,51 @@
       "L",
       "W",
       "W",
-      ""
+      "W"
     ]
   },
   "games": [
+    {
+      "when": "Sun 10/25 · Final",
+      "away": "LAR",
+      "home": "LV",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "K. Cousins (LV)",
+          "26/44, 295 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "M. Washington Jr. (LV)",
+          "6 CAR, 27 YDS"
+        ],
+        [
+          "REC",
+          "T. Tucker (LV)",
+          "5 REC, 103 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "23/29, 195 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "K. Williams (LAR)",
+          "16 CAR, 99 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "P. Nacua (LAR)",
+          "8 REC, 68 YDS, 1 TD"
+        ]
+      ],
+      "as": 35,
+      "hs": 21
+    },
     {
       "when": "Sun 10/25 · Final",
       "away": "PIT",
@@ -746,6 +787,88 @@
       "hs": 21
     },
     {
+      "when": "Sun 10/25 · Final",
+      "away": "DEN",
+      "home": "ARI",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Brissett (ARI)",
+          "27/48, 272 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "B. Knight (ARI)",
+          "7 CAR, 48 YDS"
+        ],
+        [
+          "REC",
+          "T. McBride (ARI)",
+          "10 REC, 111 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "15/29, 222 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "B. Nix (DEN)",
+          "7 CAR, 73 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "R. Harvey (DEN)",
+          "2 REC, 54 YDS, 1 TD"
+        ]
+      ],
+      "as": 30,
+      "hs": 16
+    },
+    {
+      "when": "Sun 10/25 · Final",
+      "away": "GB",
+      "home": "DET",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Goff (DET)",
+          "22/32, 303 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "J. Gibbs (DET)",
+          "29 CAR, 116 YDS"
+        ],
+        [
+          "REC",
+          "A. St. Brown (DET)",
+          "9 REC, 153 YDS"
+        ],
+        [
+          "PASS",
+          "J. Love (GB)",
+          "27/45, 274 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Jacobs (GB)",
+          "11 CAR, 36 YDS"
+        ],
+        [
+          "REC",
+          "C. Watson (GB)",
+          "5 REC, 57 YDS"
+        ]
+      ],
+      "as": 17,
+      "hs": 20
+    },
+    {
       "when": "Thu 10/22 · Final",
       "away": "NE",
       "home": "CHI",
@@ -785,39 +908,6 @@
       ],
       "as": 24,
       "hs": 30
-    },
-    {
-      "when": "Sun 10/25 · 13:37 - 3rd",
-      "away": "DEN",
-      "home": "ARI",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 13,
-      "hs": 6,
-      "clock": "13:37 - 3rd"
-    },
-    {
-      "when": "Sun 10/25 · Halftime",
-      "away": "GB",
-      "home": "DET",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 7,
-      "hs": 10,
-      "clock": "Halftime"
-    },
-    {
-      "when": "Sun 10/25 · 0:03 - 2nd",
-      "away": "LAR",
-      "home": "LV",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 28,
-      "hs": 3,
-      "clock": "0:03 - 2nd"
     },
     {
       "when": "Sun 10/25 · 8:20 PM ET",
