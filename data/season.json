@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated": "Sun, 10/25, 9:25 AM ET",
+  "updated": "Sun, 10/25, 3:22 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -111,11 +111,11 @@
     "PIT": {
       "name": "Pittsburgh Steelers",
       "conf": "AFC",
-      "w": 4,
+      "w": 5,
       "l": 2,
       "t": 0,
-      "pf": 137,
-      "pa": 128,
+      "pf": 153,
+      "pa": 138,
       "color": "#ffb612"
     },
     "DAL": {
@@ -320,7 +320,7 @@
       "L",
       "L",
       "W",
-      ""
+      "L"
     ],
     "TEN": [
       "L",
@@ -365,7 +365,7 @@
       "L",
       "W",
       "W",
-      ""
+      "W"
     ],
     "ATL": [
       "L",
@@ -541,6 +541,47 @@
   },
   "games": [
     {
+      "when": "Sun 10/25 · Final",
+      "away": "PIT",
+      "home": "NO",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "T. Shough (NO)",
+          "30/38, 278 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "T. Shough (NO)",
+          "3 CAR, 7 YDS"
+        ],
+        [
+          "REC",
+          "A. Kamara (NO)",
+          "7 REC, 57 YDS"
+        ],
+        [
+          "PASS",
+          "A. Rodgers (PIT)",
+          "19/30, 212 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "J. Warren (PIT)",
+          "18 CAR, 101 YDS"
+        ],
+        [
+          "REC",
+          "D. Metcalf (PIT)",
+          "2 REC, 56 YDS"
+        ]
+      ],
+      "as": 16,
+      "hs": 10
+    },
+    {
       "when": "Thu 10/22 · Final",
       "away": "NE",
       "home": "CHI",
@@ -582,44 +623,48 @@
       "hs": 30
     },
     {
-      "when": "Sun 10/25 · 9:30 AM ET",
-      "away": "PIT",
-      "home": "NO",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 10/25 · 1:00 PM ET",
+      "when": "Sun 10/25 · 11:48 - 4th",
       "away": "SF",
       "home": "ATL",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 14,
+      "hs": 26,
+      "clock": "11:48 - 4th"
     },
     {
-      "when": "Sun 10/25 · 1:00 PM ET",
+      "when": "Sun 10/25 · 10:21 - 4th",
       "away": "TB",
       "home": "CAR",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 36,
+      "hs": 6,
+      "clock": "10:21 - 4th"
     },
     {
-      "when": "Sun 10/25 · 1:00 PM ET",
+      "when": "Sun 10/25 · 11:14 - 4th",
       "away": "CIN",
       "home": "BAL",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 21,
+      "hs": 13,
+      "clock": "11:14 - 4th"
     },
     {
-      "when": "Sun 10/25 · 1:00 PM ET",
+      "when": "Sun 10/25 · 0:21 - 3rd",
       "away": "NYG",
       "home": "HOU",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 14,
+      "hs": 14,
+      "clock": "0:21 - 3rd"
     },
     {
       "when": "Sun 10/25 · 4:05 PM ET",
