@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated": "Sun, 10/25, 7:41 PM ET",
+  "updated": "Sun, 10/25, 11:38 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -201,11 +201,11 @@
     "SEA": {
       "name": "Seattle Seahawks",
       "conf": "AFC",
-      "w": 3,
+      "w": 4,
       "l": 3,
       "t": 0,
-      "pf": 148,
-      "pa": 122,
+      "pf": 168,
+      "pa": 125,
       "color": "#69be28"
     },
     "LAC": {
@@ -232,10 +232,10 @@
       "name": "Kansas City Chiefs",
       "conf": "NFC",
       "w": 5,
-      "l": 0,
+      "l": 1,
       "t": 0,
-      "pf": 140,
-      "pa": 83,
+      "pf": 143,
+      "pa": 103,
       "color": "#e31837"
     },
     "LAR": {
@@ -257,7 +257,7 @@
       "W",
       "L",
       "L",
-      ""
+      "W"
     ],
     "NE": [
       "L",
@@ -527,7 +527,7 @@
       "W",
       "",
       "W",
-      ""
+      "L"
     ],
     "DEN": [
       "L",
@@ -540,47 +540,6 @@
     ]
   },
   "games": [
-    {
-      "when": "Sun 10/25 · Final",
-      "away": "LAR",
-      "home": "LV",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "K. Cousins (LV)",
-          "26/44, 295 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "M. Washington Jr. (LV)",
-          "6 CAR, 27 YDS"
-        ],
-        [
-          "REC",
-          "T. Tucker (LV)",
-          "5 REC, 103 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "M. Stafford (LAR)",
-          "23/29, 195 YDS, 3 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "K. Williams (LAR)",
-          "16 CAR, 99 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "P. Nacua (LAR)",
-          "8 REC, 68 YDS, 1 TD"
-        ]
-      ],
-      "as": 35,
-      "hs": 21
-    },
     {
       "when": "Sun 10/25 · Final",
       "away": "PIT",
@@ -869,6 +828,88 @@
       "hs": 20
     },
     {
+      "when": "Sun 10/25 · Final",
+      "away": "LAR",
+      "home": "LV",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "K. Cousins (LV)",
+          "26/44, 295 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "M. Washington Jr. (LV)",
+          "6 CAR, 27 YDS"
+        ],
+        [
+          "REC",
+          "T. Tucker (LV)",
+          "5 REC, 103 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "23/29, 195 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "K. Williams (LAR)",
+          "16 CAR, 99 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "P. Nacua (LAR)",
+          "8 REC, 68 YDS, 1 TD"
+        ]
+      ],
+      "as": 35,
+      "hs": 21
+    },
+    {
+      "when": "Sun 10/25 · Final",
+      "away": "KC",
+      "home": "SEA",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "S. Darnold (SEA)",
+          "20/28, 257 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "E. Wilson (SEA)",
+          "24 CAR, 100 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "J. Smith-Njigba (SEA)",
+          "9 REC, 150 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "P. Mahomes (KC)",
+          "19/33, 165 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "K. Walker III (KC)",
+          "14 CAR, 36 YDS"
+        ],
+        [
+          "REC",
+          "T. Kelce (KC)",
+          "4 REC, 44 YDS"
+        ]
+      ],
+      "as": 3,
+      "hs": 20
+    },
+    {
       "when": "Thu 10/22 · Final",
       "away": "NE",
       "home": "CHI",
@@ -908,14 +949,6 @@
       ],
       "as": 24,
       "hs": 30
-    },
-    {
-      "when": "Sun 10/25 · 8:20 PM ET",
-      "away": "KC",
-      "home": "SEA",
-      "done": false,
-      "live": false,
-      "leaders": []
     },
     {
       "when": "Mon 10/26 · 8:15 PM ET",
