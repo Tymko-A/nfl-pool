@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated": "Sun, 10/25, 11:38 PM ET",
+  "updated": "Mon, 10/26, 5:49 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -541,6 +541,47 @@
   },
   "games": [
     {
+      "when": "Thu 10/22 · Final",
+      "away": "NE",
+      "home": "CHI",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "C. Williams (CHI)",
+          "22/33, 308 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "D. Swift (CHI)",
+          "22 CAR, 78 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "L. Burden III (CHI)",
+          "4 REC, 130 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Maye (NE)",
+          "24/31, 321 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "D. Maye (NE)",
+          "4 CAR, 26 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "R. Stevenson (NE)",
+          "5 REC, 93 YDS, 1 TD"
+        ]
+      ],
+      "as": 24,
+      "hs": 30
+    },
+    {
       "when": "Sun 10/25 · Final",
       "away": "PIT",
       "home": "NO",
@@ -908,47 +949,6 @@
       ],
       "as": 3,
       "hs": 20
-    },
-    {
-      "when": "Thu 10/22 · Final",
-      "away": "NE",
-      "home": "CHI",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "C. Williams (CHI)",
-          "22/33, 308 YDS, 2 TD"
-        ],
-        [
-          "RUSH",
-          "D. Swift (CHI)",
-          "22 CAR, 78 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "L. Burden III (CHI)",
-          "4 REC, 130 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "D. Maye (NE)",
-          "24/31, 321 YDS, 2 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "D. Maye (NE)",
-          "4 CAR, 26 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "R. Stevenson (NE)",
-          "5 REC, 93 YDS, 1 TD"
-        ]
-      ],
-      "as": 24,
-      "hs": 30
     },
     {
       "when": "Mon 10/26 · 8:15 PM ET",
