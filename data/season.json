@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 7,
-  "updated": "Mon, 10/26, 11:34 AM ET",
+  "updated": "Tue, 10/27, 12:14 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -121,11 +121,11 @@
     "DAL": {
       "name": "Dallas Cowboys",
       "conf": "AFC",
-      "w": 2,
+      "w": 3,
       "l": 4,
       "t": 0,
-      "pf": 151,
-      "pa": 159,
+      "pf": 189,
+      "pa": 180,
       "color": "#041e42"
     },
     "BUF": {
@@ -182,10 +182,10 @@
       "name": "Philadelphia Eagles",
       "conf": "AFC",
       "w": 2,
-      "l": 4,
+      "l": 5,
       "t": 0,
-      "pf": 106,
-      "pa": 137,
+      "pf": 127,
+      "pa": 175,
       "color": "#004c54"
     },
     "BAL": {
@@ -473,7 +473,7 @@
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "WSH": [
       "L",
@@ -518,7 +518,7 @@
       "W",
       "L",
       "L",
-      ""
+      "W"
     ],
     "KC": [
       "W",
@@ -951,12 +951,45 @@
       "hs": 20
     },
     {
-      "when": "Mon 10/26 · 8:15 PM ET",
+      "when": "Mon 10/26 · Final",
       "away": "DAL",
       "home": "PHI",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "T. McKee (PHI)",
+          "23/35, 211 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "S. Barkley (PHI)",
+          "7 CAR, 62 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "M. Lemon (PHI)",
+          "7 REC, 67 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Prescott (DAL)",
+          "15/27, 212 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "J. Williams (DAL)",
+          "25 CAR, 155 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "C. Lamb (DAL)",
+          "5 REC, 74 YDS, 2 TD"
+        ]
+      ],
+      "as": 38,
+      "hs": 21
     }
   ],
   "recap": {
