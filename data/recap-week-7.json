@@ -1,0 +1,174 @@
+{
+  "week": "Week 7",
+  "headline": "Bill sweeps, Jordy sweeps, and head-to-heads swing the standings",
+  "dek": "Three head-to-head battles shaped Week 7, with Bill and Jordy posting perfect 2-0 weekends while the pool's top half compressed into a tight race. Ben's twin losses drop him to third despite his impressive net points cushion.",
+  "takeaways": [
+    "All three head-to-heads went chalk — Adrian over Taras, Jordy over Chris, Orest over Tymko — meaning no upset swings in the direct confrontations.",
+    "Bill's Cowboys put up 38 on Matej's Eagles in Philly while his Steelers ground out a road win in New Orleans, vaulting him into the thick of the race.",
+    "The top six are separated by just one game, with Chris and Jordy tied at 9-4, then a four-way logjam at 8 points — tightest standings we've seen all year."
+  ],
+  "games": [
+    {
+      "winKey": "CHI",
+      "winScore": 30,
+      "loseKey": "NE",
+      "loseScore": 24,
+      "text": "Adrian's Patriots went to Chicago and got lit up by Caleb Williams, who threw for 308 yards and two scores while Luther Burden III torched the secondary for 130 yards and a touchdown. Drake Maye kept New England competitive with 321 yards passing and three total touchdowns, but a crucial interception in the third quarter swung momentum for good. The Bears' D'Andre Swift bulldozed his way to 78 yards and a score on 22 carries, controlling the clock when it mattered.\n\nAdrian splits to 1-1 on the week, which could have been worse — his Bucs demolished Taras' Panthers 43-13 in the other Sunday window to salvage the weekend. The Patriots' loss keeps Adrian stuck at 6-8 overall, three full games out of the top spot and needing a serious run to get back into contention."
+    },
+    {
+      "winKey": "PIT",
+      "winScore": 16,
+      "loseKey": "NO",
+      "loseScore": 10,
+      "text": "Bill's Steelers turned in the kind of grimy road win that defines their season — Aaron Rodgers went 19-for-30 for 212 yards and a touchdown while Jaylen Warren churned out 101 yards on the ground to salt away a 16-10 victory in New Orleans. The Saints couldn't generate much despite Taysom Shough's 278 yards through the air, stalling repeatedly in Steelers territory. Pittsburgh's defense bent but never broke, forcing a critical red zone interception in the fourth quarter.\n\nBill's sweep gives him a 2-0 week and keeps him squarely in the hunt at 8-5. His Cowboys' 38-21 demolition of Matej's Eagles in the Sunday night slot was the icing — Dak Prescott threw three touchdowns and Jaydon Williams gashed Philly for 155 rushing yards. Bill faces a favorable Week 8 slate with both teams at home."
+    },
+    {
+      "winKey": "ATL",
+      "winScore": 29,
+      "loseKey": "SF",
+      "loseScore": 20,
+      "text": "Ben's Niners traveled to Atlanta and ran into a buzzsaw — Michael Penix Jr. carved them up for three touchdown passes, including scores to Drake London and Kyle Pitts, as the Falcons controlled the game from wire to wire. Brock Purdy threw two costly interceptions trying to force the issue, and while George Kittle hauled in eight catches for 88 yards, San Francisco couldn't sustain drives. The 49ers' vaunted defense had no answer for Atlanta's balanced attack, surrendering 213 through the air and 63 on the ground to Bijan Robinson.\n\nThe loss was Ben's second of the week — his Texans also fell 27-21 to the Giants at home, with C.J. Stroud managing just 153 yards and Houston's defense unable to contain Cam Skattebo's 124-yard rushing performance. Ben's 0-2 drops him to 8-6, still third overall thanks to his massive net points edge, but now he's in the thick of a five-team scrum at 8 or 9 points. Both teams are on bye next week, giving him time to watch others stumble."
+    },
+    {
+      "winKey": "TB",
+      "winScore": 43,
+      "loseKey": "CAR",
+      "loseScore": 13,
+      "text": "Adrian's Buccaneers took out their frustrations on Taras' Panthers in the week's most lopsided head-to-head, running away with a 43-13 beatdown in Charlotte. Bucky Irving carried 24 times for 106 yards and two scores, while Tampa Bay's defense feasted on Bryce Young's mistakes — the second-year quarterback threw two interceptions and managed just 163 yards passing. The Bucs led 30-6 at halftime and never looked back, with Baker Mayfield efficiently managing the game (7-for-11, 64 yards, one touchdown) before giving way to the backups.\n\nThe head-to-head win keeps Adrian at 6-8 overall after splitting his week, while Taras falls to 0-7 in his lone game of Week 7, now sitting in last place at 3-9 with a ghastly minus-68 net points. His winless Chargers remain on bye, meaning the Panthers' struggles are carrying the entire load. Taras faces two head-to-heads in Week 8 — Thursday night against Chris' Packers and Sunday afternoon when his Chargers visit Tymko's Rams — both uphill climbs."
+    },
+    {
+      "winKey": "CIN",
+      "winScore": 35,
+      "loseKey": "BAL",
+      "loseScore": 13,
+      "text": "Orest's Ravens got steamrolled at home by the Bengals in a game that was never close — Joe Burrow threw four touchdown passes and Tee Higgins went off for 148 yards and a score as Cincinnati won going away 35-13. Tyler Huntley filled in admirably for the injured Lamar Jackson, throwing for 298 yards and a touchdown to Zay Flowers, but Baltimore's defense had no answers and Derrick Henry was held to just 45 yards on 17 carries. The Ravens trailed 28-6 at halftime and spent the second half in garbage time.\n\nOrest salvages a 1-1 week thanks to his Seahawks' 20-3 throttling of Tymko's Chiefs in the Sunday afternoon window — more on that below — leaving him at 8-6 overall, tied with Ben and Bill in the middle pack. He gets a chance to bounce back in Week 8 with the Ravens visiting Chris' Bills in a critical head-to-head and the Seahawks hosting Chicago on Monday night."
+    },
+    {
+      "winKey": "NYG",
+      "winScore": 27,
+      "loseKey": "HOU",
+      "loseScore": 21,
+      "text": "Ben's Texans couldn't protect their home turf against the Giants, falling 27-21 in a game that saw Houston's offense sputter for most of the afternoon. J.J. McCarthy was efficient for New York, throwing for 252 yards, but the real story was Cam Skattebo, who bulldozed the Texans' front seven for 124 yards and a touchdown on 17 carries. C.J. Stroud managed just 153 yards through the air with two scores, and the Texans' defense couldn't generate a stop when it mattered — the Giants converted three fourth-down attempts in the second half to salt away the win.\n\nThe defeat compounds Ben's misery after his 49ers also lost earlier in the day, giving him an 0-2 week and dropping him from the pool lead to third place at 8-6. Both teams are on bye in Week 8, so Ben will have to watch from the sidelines as others jockey for position."
+    },
+    {
+      "winKey": "DEN",
+      "winScore": 30,
+      "loseKey": "ARI",
+      "loseScore": 16,
+      "text": "Jordy's Broncos went to Arizona and took care of business behind Bo Nix's dual-threat performance — the rookie passed for 222 yards and a touchdown while adding 73 rushing yards and another score on the ground. Denver's defense smothered the Cardinals all afternoon, limiting Jacoby Brissett to a single touchdown despite his 272 yards passing. Trey McBride hauled in 10 catches for 111 yards, but Arizona couldn't punch it in when it counted, settling for field goals and managing just 16 points.\n\nJordy's second win came in the head-to-head against Chris — his Lions edged Chris' Packers 20-17 in Detroit — giving him a perfect 2-0 week and a tie with Chris atop the standings at 9-4. The Broncos' dominant performance keeps them rolling at 5-2, and Jordy faces another critical head-to-head Sunday afternoon when Tymko's Chiefs visit Denver."
+    },
+    {
+      "winKey": "DET",
+      "winScore": 20,
+      "loseKey": "GB",
+      "loseScore": 17,
+      "text": "Jordy's Lions squeezed past Chris' Packers 20-17 in a tense head-to-head at Ford Field, with Jared Goff throwing for 303 yards and two touchdowns while Jahmyr Gibbs carried 29 times for 116 yards to control possession. Jordan Love threw for 274 yards and two scores for Green Bay, but an ill-timed fourth-quarter interception deep in Detroit territory sealed the Packers' fate. Amon-Ra St. Brown was Goff's favorite target with nine catches for 153 yards, repeatedly moving the chains on third down.\n\nThe head-to-head victory gives Jordy a 2-0 sweep and pulls him even with Chris at 9-4 atop the standings, though Chris holds the tiebreaker on net points (25 to 22). Chris' 0-1 week — his Bills were on bye — drops him out of sole possession of first, and he faces two critical matchups in Week 8: Thursday night at home against Taras' Panthers, then Sunday afternoon when Orest's Ravens visit Buffalo in another head-to-head."
+    },
+    {
+      "winKey": "LAR",
+      "winScore": 35,
+      "loseKey": "LV",
+      "loseScore": 21,
+      "text": "Tymko's Rams went to Las Vegas and put up 35 points behind Matthew Stafford's efficient three-touchdown performance (23-for-29, 195 yards) and Kyren Williams' 99-yard rushing day. The veteran quarterback spread the ball around — Puka Nacua caught eight for 68 and a score — while the Rams' defense forced Kirk Cousins into difficult throws all afternoon. The Raiders hung around for a half but couldn't keep pace, with Cousins throwing for 295 yards and two touchdowns but no running game to speak of.\n\nTymko's 1-1 week — his Chiefs were shut down 20-3 by Orest's Seahawks in the other game — leaves him at 8-5, tied with Bill in the middle of the pack. He faces two enormous head-to-heads in Week 8: his Rams host Taras' Chargers Sunday afternoon, and his Chiefs travel to Denver to face Jordy's Broncos in a game that could swing the entire top of the standings."
+    },
+    {
+      "winKey": "SEA",
+      "winScore": 20,
+      "loseKey": "KC",
+      "loseScore": 3,
+      "text": "Orest's Seahawks dominated Tymko's Chiefs in a head-to-head stunner in Seattle, holding Patrick Mahomes to just 165 yards passing with an interception and no touchdowns in a 20-3 shellacking. Sam Darnold was efficient for the Hawks (20-for-28, 257 yards, one touchdown), but the real story was Elijah Wilson, who pounded out 100 yards on 24 carries, and Jaxon Smith-Njigba, who torched Kansas City's secondary for 150 yards and a score on nine catches. The Chiefs managed just a single field goal and never threatened in the second half.\n\nThe head-to-head win salvages Orest's week at 1-1 after his Ravens got blown out by Cincinnati earlier in the day. Tymko also splits at 1-1 thanks to his Rams' victory in Vegas. Both teams sit at 8 points overall — Tymko at 8-5, Orest at 8-6 — in the thick of the race. Orest gets two more matchups in Week 8: his Ravens visit Chris' Bills in a head-to-head Sunday afternoon, and his Seahawks host Chicago on Monday night."
+    },
+    {
+      "winKey": "DAL",
+      "winScore": 38,
+      "loseKey": "PHI",
+      "loseScore": 21,
+      "text": "Bill's Cowboys rolled into Philadelphia on Sunday night and dominated Matej's Eagles 38-21 behind a monster performance from Jaydon Williams, who gashed the Eagles' defense for 155 yards and a touchdown on 25 carries. Dak Prescott was surgical, throwing three touchdown passes including two to CeeDee Lamb, while Dallas' defense made life miserable for backup quarterback Tanner McKee, who threw an interception and managed just 211 yards. Saquon Barkley had a solid outing (62 rushing yards, one touchdown) but the Eagles couldn't keep pace.\n\nThe head-to-head loss drops Matej to 0-1 on the week — his Jaguars were on bye — leaving him at 6-7 overall, two games back of the leaders and in danger of falling further behind. He faces another tough slate in Week 8 with the Jags hosting the Colts and the Eagles traveling to Washington Sunday night. Bill's 2-0 sweep vaults him to 8-5 and into the thick of the race, with favorable home matchups against Arizona and Cleveland next week."
+    }
+  ],
+  "entrants": [
+    {
+      "name": "Bill",
+      "result": "2-0",
+      "tone": "good",
+      "text": "Perfect weekend with his Steelers grinding out a 16-10 road win in New Orleans and his Cowboys demolishing Matej's Eagles 38-21 in the Sunday night head-to-head. Moves to 8-5, tied with Tymko, and gets two home games in Week 8 against Arizona and Cleveland."
+    },
+    {
+      "name": "Jordy",
+      "result": "2-0",
+      "tone": "good",
+      "text": "Clean sweep with his Broncos cruising past Arizona 30-16 and his Lions edging Chris' Packers 20-17 in the critical head-to-head. Ties Chris atop the standings at 9-4 but trails on net points. Faces Tymko's Chiefs Sunday afternoon in another head-to-head that could decide the pool."
+    },
+    {
+      "name": "Adrian",
+      "result": "1-1",
+      "tone": "flat",
+      "text": "Split the week with his Patriots falling 30-24 in Chicago but his Bucs demolishing Taras' Panthers 43-13 in the head-to-head. Stuck at 6-8, three games out of first. Gets the Falcons and Dolphins in Week 8, both winnable if the trends hold."
+    },
+    {
+      "name": "Orest",
+      "result": "1-1",
+      "tone": "flat",
+      "text": "Salvaged the week with his Seahawks throttling Tymko's Chiefs 20-3 in the head-to-head after his Ravens got blown out 35-13 at home by Cincinnati. Remains at 8-6 in the middle pack. Faces two Week 8 matchups: Ravens at Chris' Bills in a head-to-head Sunday afternoon, then Seahawks hosting Chicago on Monday night."
+    },
+    {
+      "name": "Tymko",
+      "result": "1-1",
+      "tone": "flat",
+      "text": "Rams put up 35 in Vegas to save the week after his Chiefs were shut down 20-3 by Orest's Seahawks in the head-to-head. Sits at 8-5, tied with Bill. Gets two massive head-to-heads in Week 8: Rams hosting Taras' Chargers and Chiefs at Jordy's Broncos."
+    },
+    {
+      "name": "Ben",
+      "result": "0-2",
+      "tone": "bad",
+      "text": "Brutal 0-2 weekend drops him from first to third — his 49ers lost 29-20 in Atlanta and his Texans fell 27-21 at home to the Giants. Still at 8-6 thanks to his massive net points cushion (+53), but now in a five-team logjam. Both teams on bye in Week 8, so he watches from the sidelines."
+    },
+    {
+      "name": "Chris",
+      "result": "0-1",
+      "tone": "bad",
+      "text": "Loses sole possession of first after his Packers fell 20-17 to Jordy's Lions in the head-to-head while his Bills were on bye. Tied with Jordy at 9-4 but holds the net points tiebreaker. Faces Taras' Panthers on Thursday night, then Orest's Ravens Sunday afternoon in another head-to-head."
+    },
+    {
+      "name": "Matej",
+      "result": "0-1",
+      "tone": "bad",
+      "text": "Eagles got walloped 38-21 by Bill's Cowboys in the Sunday night head-to-head while his Jaguars were on bye. Falls to 6-7, two games back. Gets the Colts at home and the Commanders on the road in Week 8."
+    },
+    {
+      "name": "Taras",
+      "result": "0-1",
+      "tone": "bad",
+      "text": "Panthers were destroyed 43-13 by Adrian's Bucs in the head-to-head — his only game of the week with the Chargers on bye. Sits in last at 3-9 with minus-68 net points. Faces two head-to-heads in Week 8: Thursday night at Chris' Packers, then Chargers at Tymko's Rams on Sunday afternoon. Uphill doesn't begin to describe it."
+    }
+  ],
+  "ahead": [
+    "Week 8 kicks off Thursday night when Taras' Panthers travel to face Chris' Packers in a head-to-head that could push Chris back into sole possession of first.",
+    "Sunday afternoon features three more head-to-heads: Orest's Ravens at Chris' Bills, Taras' Chargers at Tymko's Rams, and the marquee matchup — Tymko's Chiefs at Jordy's Broncos — which could swing the entire top of the standings.",
+    "Ben sits out Week 8 with both teams on bye, giving him a front-row seat to watch the chaos unfold as the middle pack tries to gain ground on the co-leaders."
+  ],
+  "notes": [
+    {
+      "label": "Biggest swing",
+      "value": "Jordy +2, Chris -1",
+      "sub": "Head-to-head in Detroit flips the top two"
+    },
+    {
+      "label": "Head-to-heads",
+      "value": "3 for 3 chalk",
+      "sub": "Adrian, Jordy, Orest all won their direct matchups"
+    },
+    {
+      "label": "Week 8 head-to-heads",
+      "value": "Four on the slate",
+      "sub": "Panthers-Packers Thursday, then three more Sunday"
+    },
+    {
+      "label": "Tightest race yet",
+      "value": "Top 6 within one game",
+      "sub": "Two at 9-4, four at 8 points — anyone's pool"
+    }
+  ],
+  "generated": "Written Tue, 10/27, 11:38 AM ET from the nightly feed",
+  "weekNumber": 7
+}
