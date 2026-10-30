@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updated": "Thu, 10/29, 11:42 AM ET",
+  "updated": "Fri, 10/30, 11:24 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -141,11 +141,11 @@
     "GB": {
       "name": "Green Bay Packers",
       "conf": "AFC",
-      "w": 4,
+      "w": 5,
       "l": 3,
       "t": 0,
-      "pf": 144,
-      "pa": 145,
+      "pf": 171,
+      "pa": 164,
       "color": "#203731"
     },
     "DEN": {
@@ -222,10 +222,10 @@
       "name": "Carolina Panthers",
       "conf": "AFC",
       "w": 3,
-      "l": 3,
+      "l": 4,
       "t": 0,
-      "pf": 159,
-      "pa": 166,
+      "pf": 178,
+      "pa": 193,
       "color": "#0085ca"
     },
     "KC": {
@@ -398,7 +398,7 @@
       "",
       "W",
       "L",
-      ""
+      "L"
     ],
     "CHI": [
       "W",
@@ -488,7 +488,7 @@
       "W",
       "W",
       "L",
-      ""
+      "W"
     ],
     "PHI": [
       "W",
@@ -573,12 +573,45 @@
   },
   "games": [
     {
-      "when": "Thu 10/29 · 8:15 PM ET",
+      "when": "Thu 10/29 · Final",
       "away": "CAR",
       "home": "GB",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "J. Love (GB)",
+          "30/41, 288 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Jacobs (GB)",
+          "21 CAR, 39 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "C. Watson (GB)",
+          "8 REC, 113 YDS"
+        ],
+        [
+          "PASS",
+          "B. Young (CAR)",
+          "23/41, 209 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. Hubbard (CAR)",
+          "22 CAR, 81 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "T. McMillan (CAR)",
+          "6 REC, 58 YDS"
+        ]
+      ],
+      "as": 19,
+      "hs": 27
     },
     {
       "when": "Sun 11/1 · 1:00 PM ET",
