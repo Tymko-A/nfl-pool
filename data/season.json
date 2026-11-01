@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updated": "Sun, 11/1, 10:31 AM ET",
+  "updated": "Sun, 11/1, 3:54 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -308,7 +308,7 @@
       "W",
       "L",
       "W",
-      ""
+      "W"
     ],
     "DET": [
       "W",
@@ -388,7 +388,7 @@
       "L",
       "L",
       "W",
-      ""
+      "L"
     ],
     "CAR": [
       "L",
@@ -573,6 +573,42 @@
   },
   "games": [
     {
+      "when": "Sun 11/1 · Final",
+      "away": "ATL",
+      "home": "TB",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Mayfield (TB)",
+          "0/3, 0 YDS"
+        ],
+        [
+          "RUSH",
+          "B. Irving (TB)",
+          "27 CAR, 170 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "M. Penix Jr. (ATL)",
+          "8/24, 125 YDS, 4 INT"
+        ],
+        [
+          "RUSH",
+          "B. Robinson (ATL)",
+          "19 CAR, 76 YDS"
+        ],
+        [
+          "REC",
+          "J. Dotson (ATL)",
+          "2 REC, 95 YDS"
+        ]
+      ],
+      "as": 0,
+      "hs": 16
+    },
+    {
       "when": "Thu 10/29 · Final",
       "away": "CAR",
       "home": "GB",
@@ -614,52 +650,59 @@
       "hs": 27
     },
     {
-      "when": "Sun 11/1 · 1:00 PM ET",
+      "when": "Sun 11/1 · 12:18 - 4th",
       "away": "BAL",
       "home": "BUF",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 10,
+      "hs": 29,
+      "clock": "12:18 - 4th"
     },
     {
-      "when": "Sun 11/1 · 1:00 PM ET",
+      "when": "Sun 11/1 · 3:46 - 4th",
       "away": "ARI",
       "home": "DAL",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 17,
+      "hs": 27,
+      "clock": "3:46 - 4th"
     },
     {
-      "when": "Sun 11/1 · 1:00 PM ET",
+      "when": "Sun 11/1 · 4:35 - 4th",
       "away": "MIN",
       "home": "DET",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 15,
+      "hs": 19,
+      "clock": "4:35 - 4th"
     },
     {
-      "when": "Sun 11/1 · 1:00 PM ET",
+      "when": "Sun 11/1 · 5:04 - 4th",
       "away": "CLE",
       "home": "PIT",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 6,
+      "hs": 27,
+      "clock": "5:04 - 4th"
     },
     {
-      "when": "Sun 11/1 · 1:00 PM ET",
-      "away": "ATL",
-      "home": "TB",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 11/1 · 1:00 PM ET",
+      "when": "Sun 11/1 · 6:45 - 4th",
       "away": "IND",
       "home": "JAX",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 7,
+      "hs": 42,
+      "clock": "6:45 - 4th"
     },
     {
       "when": "Sun 11/1 · 4:05 PM ET",
