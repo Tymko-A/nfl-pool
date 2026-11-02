@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updated": "Sun, 11/1, 7:01 PM ET",
+  "updated": "Sun, 11/1, 11:51 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -71,11 +71,11 @@
     "NE": {
       "name": "New England Patriots",
       "conf": "NFC",
-      "w": 4,
+      "w": 5,
       "l": 3,
       "t": 0,
-      "pf": 160,
-      "pa": 143,
+      "pf": 184,
+      "pa": 162,
       "color": "#002a5c"
     },
     "TB": {
@@ -151,11 +151,11 @@
     "DEN": {
       "name": "Denver Broncos",
       "conf": "NFC",
-      "w": 5,
+      "w": 6,
       "l": 2,
       "t": 0,
-      "pf": 144,
-      "pa": 141,
+      "pf": 172,
+      "pa": 165,
       "color": "#fb4f14"
     },
     "DET": {
@@ -182,10 +182,10 @@
       "name": "Philadelphia Eagles",
       "conf": "AFC",
       "w": 2,
-      "l": 5,
+      "l": 6,
       "t": 0,
-      "pf": 127,
-      "pa": 175,
+      "pf": 137,
+      "pa": 202,
       "color": "#004c54"
     },
     "BAL": {
@@ -232,10 +232,10 @@
       "name": "Kansas City Chiefs",
       "conf": "NFC",
       "w": 5,
-      "l": 1,
+      "l": 2,
       "t": 0,
-      "pf": 143,
-      "pa": 103,
+      "pf": 167,
+      "pa": 131,
       "color": "#e31837"
     },
     "LAR": {
@@ -268,7 +268,7 @@
       "W",
       "W",
       "L",
-      ""
+      "W"
     ],
     "LAR": [
       "L",
@@ -468,7 +468,7 @@
       "L",
       "",
       "W",
-      ""
+      "L"
     ],
     "MIN": [
       "W",
@@ -498,7 +498,7 @@
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "WSH": [
       "L",
@@ -508,7 +508,7 @@
       "T",
       "L",
       "",
-      ""
+      "W"
     ],
     "LAC": [
       "L",
@@ -558,7 +558,7 @@
       "",
       "W",
       "L",
-      ""
+      "L"
     ],
     "DEN": [
       "L",
@@ -568,51 +568,10 @@
       "W",
       "W",
       "W",
-      ""
+      "W"
     ]
   },
   "games": [
-    {
-      "when": "Sun 11/1 · Final",
-      "away": "LAC",
-      "home": "LAR",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "M. Stafford (LAR)",
-          "17/25, 157 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "B. Corum (LAR)",
-          "11 CAR, 73 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "P. Nacua (LAR)",
-          "11 REC, 80 YDS, 1 TD"
-        ],
-        [
-          "PASS",
-          "J. Herbert (LAC)",
-          "24/32, 257 YDS, 2 INT"
-        ],
-        [
-          "RUSH",
-          "K. Vidal (LAC)",
-          "8 CAR, 23 YDS"
-        ],
-        [
-          "REC",
-          "L. McConkey (LAC)",
-          "4 REC, 86 YDS"
-        ]
-      ],
-      "as": 9,
-      "hs": 24
-    },
     {
       "when": "Sun 11/1 · Final",
       "away": "BAL",
@@ -855,6 +814,170 @@
       "hs": 42
     },
     {
+      "when": "Sun 11/1 · Final",
+      "away": "LAC",
+      "home": "LAR",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "17/25, 157 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Corum (LAR)",
+          "11 CAR, 73 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "P. Nacua (LAR)",
+          "11 REC, 80 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "J. Herbert (LAC)",
+          "24/32, 257 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "K. Vidal (LAC)",
+          "8 CAR, 23 YDS"
+        ],
+        [
+          "REC",
+          "L. McConkey (LAC)",
+          "4 REC, 86 YDS"
+        ]
+      ],
+      "as": 9,
+      "hs": 24
+    },
+    {
+      "when": "Sun 11/1 · Final",
+      "away": "KC",
+      "home": "DEN",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "20/32, 222 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "J. Coleman (DEN)",
+          "11 CAR, 41 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "J. Coleman (DEN)",
+          "4 REC, 63 YDS"
+        ],
+        [
+          "PASS",
+          "P. Mahomes (KC)",
+          "30/41, 321 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "K. Walker III (KC)",
+          "21 CAR, 69 YDS"
+        ],
+        [
+          "REC",
+          "E. Johnson (KC)",
+          "5 REC, 128 YDS, 1 TD"
+        ]
+      ],
+      "as": 24,
+      "hs": 28
+    },
+    {
+      "when": "Sun 11/1 · Final",
+      "away": "NE",
+      "home": "MIA",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "M. Willis (MIA)",
+          "21/32, 211 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "O. Gordon II (MIA)",
+          "19 CAR, 69 YDS"
+        ],
+        [
+          "REC",
+          "K. Coleman Jr. (MIA)",
+          "3 REC, 46 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Maye (NE)",
+          "16/20, 199 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "R. Stevenson (NE)",
+          "19 CAR, 82 YDS"
+        ],
+        [
+          "REC",
+          "D. Douglas (NE)",
+          "3 REC, 76 YDS, 1 TD"
+        ]
+      ],
+      "as": 24,
+      "hs": 19
+    },
+    {
+      "when": "Sun 11/1 · Final",
+      "away": "PHI",
+      "home": "WSH",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Daniels (WSH)",
+          "16/29, 217 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "R. White (WSH)",
+          "11 CAR, 55 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "T. Burks (WSH)",
+          "3 REC, 81 YDS"
+        ],
+        [
+          "PASS",
+          "T. McKee (PHI)",
+          "23/34, 212 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "E. Mitchell (PHI)",
+          "11 CAR, 34 YDS"
+        ],
+        [
+          "REC",
+          "M. Lemon (PHI)",
+          "6 REC, 57 YDS"
+        ]
+      ],
+      "as": 10,
+      "hs": 27
+    },
+    {
       "when": "Thu 10/29 · Final",
       "away": "CAR",
       "home": "GB",
@@ -894,36 +1017,6 @@
       ],
       "as": 19,
       "hs": 27
-    },
-    {
-      "when": "Sun 11/1 · 13:13 - 4th",
-      "away": "KC",
-      "home": "DEN",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 24,
-      "hs": 13,
-      "clock": "13:13 - 4th"
-    },
-    {
-      "when": "Sun 11/1 · 9:54 - 4th",
-      "away": "NE",
-      "home": "MIA",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 24,
-      "hs": 13,
-      "clock": "9:54 - 4th"
-    },
-    {
-      "when": "Sun 11/1 · 8:20 PM ET",
-      "away": "PHI",
-      "home": "WSH",
-      "done": false,
-      "live": false,
-      "leaders": []
     },
     {
       "when": "Mon 11/2 · 8:15 PM ET",
