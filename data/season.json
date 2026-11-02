@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updated": "Sun, 11/1, 11:51 PM ET",
+  "updated": "Mon, 11/2, 8:11 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -573,6 +573,47 @@
   },
   "games": [
     {
+      "when": "Thu 10/29 · Final",
+      "away": "CAR",
+      "home": "GB",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Love (GB)",
+          "30/41, 288 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Jacobs (GB)",
+          "21 CAR, 39 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "C. Watson (GB)",
+          "8 REC, 113 YDS"
+        ],
+        [
+          "PASS",
+          "B. Young (CAR)",
+          "23/41, 209 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. Hubbard (CAR)",
+          "22 CAR, 81 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "T. McMillan (CAR)",
+          "6 REC, 58 YDS"
+        ]
+      ],
+      "as": 19,
+      "hs": 27
+    },
+    {
       "when": "Sun 11/1 · Final",
       "away": "BAL",
       "home": "BUF",
@@ -975,47 +1016,6 @@
         ]
       ],
       "as": 10,
-      "hs": 27
-    },
-    {
-      "when": "Thu 10/29 · Final",
-      "away": "CAR",
-      "home": "GB",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "J. Love (GB)",
-          "30/41, 288 YDS, 3 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "J. Jacobs (GB)",
-          "21 CAR, 39 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "C. Watson (GB)",
-          "8 REC, 113 YDS"
-        ],
-        [
-          "PASS",
-          "B. Young (CAR)",
-          "23/41, 209 YDS, 1 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "C. Hubbard (CAR)",
-          "22 CAR, 81 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "T. McMillan (CAR)",
-          "6 REC, 58 YDS"
-        ]
-      ],
-      "as": 19,
       "hs": 27
     },
     {
