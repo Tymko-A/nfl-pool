@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 8,
-  "updated": "Mon, 11/2, 1:56 PM ET",
+  "updated": "Tue, 11/3, 12:50 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -202,10 +202,10 @@
       "name": "Seattle Seahawks",
       "conf": "AFC",
       "w": 4,
-      "l": 3,
+      "l": 4,
       "t": 0,
-      "pf": 168,
-      "pa": 125,
+      "pf": 185,
+      "pa": 159,
       "color": "#69be28"
     },
     "LAC": {
@@ -258,7 +258,7 @@
       "L",
       "L",
       "W",
-      ""
+      "L"
     ],
     "NE": [
       "L",
@@ -408,7 +408,7 @@
       "L",
       "W",
       "W",
-      ""
+      "W"
     ],
     "JAX": [
       "W",
@@ -1019,12 +1019,45 @@
       "hs": 27
     },
     {
-      "when": "Mon 11/2 · 8:15 PM ET",
+      "when": "Mon 11/2 · Final",
       "away": "CHI",
       "home": "SEA",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "S. Darnold (SEA)",
+          "17/34, 188 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Price (SEA)",
+          "10 CAR, 29 YDS"
+        ],
+        [
+          "REC",
+          "J. Smith-Njigba (SEA)",
+          "6 REC, 118 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "C. Williams (CHI)",
+          "24/34, 247 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "D. Swift (CHI)",
+          "27 CAR, 69 YDS, 3 TD"
+        ],
+        [
+          "REC",
+          "R. Odunze (CHI)",
+          "4 REC, 87 YDS"
+        ]
+      ],
+      "as": 34,
+      "hs": 17
     }
   ],
   "recap": {
