@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updated": "Thu, 11/5, 11:55 AM ET",
+  "updated": "Fri, 11/6, 11:26 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -171,11 +171,11 @@
     "JAX": {
       "name": "Jacksonville Jaguars",
       "conf": "AFC",
-      "w": 5,
+      "w": 6,
       "l": 2,
       "t": 0,
-      "pf": 196,
-      "pa": 111,
+      "pf": 229,
+      "pa": 121,
       "color": "#006778"
     },
     "PHI": {
@@ -192,10 +192,10 @@
       "name": "Baltimore Ravens",
       "conf": "AFC",
       "w": 4,
-      "l": 4,
+      "l": 5,
       "t": 0,
-      "pf": 179,
-      "pa": 203,
+      "pf": 189,
+      "pa": 236,
       "color": "#241773"
     },
     "SEA": {
@@ -380,7 +380,7 @@
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "PIT": [
       "W",
@@ -435,7 +435,7 @@
       "L",
       "",
       "W",
-      ""
+      "W"
     ],
     "CLE": [
       "L",
@@ -605,12 +605,45 @@
   },
   "games": [
     {
-      "when": "Thu 11/5 · 8:15 PM ET",
+      "when": "Thu 11/5 · Final",
       "away": "JAX",
       "home": "BAL",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "J. Fagnano (BAL)",
+          "10/18, 60 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "J. Hill (BAL)",
+          "9 CAR, 85 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "M. Andrews (BAL)",
+          "2 REC, 19 YDS"
+        ],
+        [
+          "PASS",
+          "T. Lawrence (JAX)",
+          "16/26, 242 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "A. Abdullah (JAX)",
+          "7 CAR, 30 YDS"
+        ],
+        [
+          "REC",
+          "J. Meyers (JAX)",
+          "4 REC, 65 YDS"
+        ]
+      ],
+      "as": 33,
+      "hs": 10
     },
     {
       "when": "Sun 11/8 · 1:00 PM ET",
