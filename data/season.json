@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updated": "Sun, 11/8, 10:39 AM ET",
+  "updated": "Sun, 11/8, 3:51 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -303,7 +303,7 @@
       "",
       "W",
       "W",
-      ""
+      "W"
     ],
     "TB": [
       "L",
@@ -325,7 +325,7 @@
       "",
       "W",
       "W",
-      ""
+      "W"
     ],
     "NO": [
       "L",
@@ -402,7 +402,7 @@
       "L",
       "W",
       "L",
-      ""
+      "L"
     ],
     "CAR": [
       "L",
@@ -490,7 +490,7 @@
       "",
       "W",
       "L",
-      ""
+      "L"
     ],
     "MIN": [
       "W",
@@ -605,6 +605,47 @@
   },
   "games": [
     {
+      "when": "Sun 11/8 · Final",
+      "away": "DET",
+      "home": "MIA",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "M. Willis (MIA)",
+          "13/25, 128 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "O. Gordon II (MIA)",
+          "16 CAR, 55 YDS"
+        ],
+        [
+          "REC",
+          "C. Douglas (MIA)",
+          "6 REC, 70 YDS"
+        ],
+        [
+          "PASS",
+          "J. Goff (DET)",
+          "17/25, 170 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Gibbs (DET)",
+          "20 CAR, 74 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "A. St. Brown (DET)",
+          "8 REC, 86 YDS"
+        ]
+      ],
+      "as": 19,
+      "hs": 9
+    },
+    {
       "when": "Thu 11/5 · Final",
       "away": "JAX",
       "home": "BAL",
@@ -646,52 +687,59 @@
       "hs": 10
     },
     {
-      "when": "Sun 11/8 · 1:00 PM ET",
+      "when": "Sun 11/8 · 9:59 - 4th",
       "away": "DAL",
       "home": "IND",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 20,
+      "hs": 17,
+      "clock": "9:59 - 4th"
     },
     {
-      "when": "Sun 11/8 · 1:00 PM ET",
+      "when": "Sun 11/8 · 5:22 - 4th",
       "away": "NYJ",
       "home": "KC",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 12,
+      "hs": 28,
+      "clock": "5:22 - 4th"
     },
     {
-      "when": "Sun 11/8 · 1:00 PM ET",
-      "away": "DET",
-      "home": "MIA",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 11/8 · 1:00 PM ET",
+      "when": "Sun 11/8 · 5:56 - 4th",
       "away": "NYG",
       "home": "PHI",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 16,
+      "hs": 8,
+      "clock": "5:56 - 4th"
     },
     {
-      "when": "Sun 11/8 · 1:00 PM ET",
+      "when": "Sun 11/8 · 3:55 - 4th",
       "away": "LAR",
       "home": "WSH",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 20,
+      "hs": 13,
+      "clock": "3:55 - 4th"
     },
     {
-      "when": "Sun 11/8 · 1:00 PM ET",
+      "when": "Sun 11/8 · 3:58 - 4th",
       "away": "DEN",
       "home": "CAR",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 26,
+      "hs": 14,
+      "clock": "3:58 - 4th"
     },
     {
       "when": "Sun 11/8 · 4:05 PM ET",
