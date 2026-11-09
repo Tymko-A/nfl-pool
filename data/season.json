@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updated": "Sun, 11/8, 3:51 PM ET",
+  "updated": "Sun, 11/8, 7:16 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -121,11 +121,11 @@
     "DAL": {
       "name": "Dallas Cowboys",
       "conf": "AFC",
-      "w": 3,
+      "w": 4,
       "l": 5,
       "t": 0,
-      "pf": 219,
-      "pa": 213,
+      "pf": 246,
+      "pa": 236,
       "color": "#041e42"
     },
     "BUF": {
@@ -151,21 +151,21 @@
     "DEN": {
       "name": "Denver Broncos",
       "conf": "NFC",
-      "w": 6,
+      "w": 7,
       "l": 2,
       "t": 0,
-      "pf": 172,
-      "pa": 165,
+      "pf": 198,
+      "pa": 186,
       "color": "#fb4f14"
     },
     "DET": {
       "name": "Detroit Lions",
       "conf": "AFC",
-      "w": 5,
+      "w": 6,
       "l": 2,
       "t": 0,
-      "pf": 203,
-      "pa": 180,
+      "pf": 222,
+      "pa": 189,
       "color": "#0076b6"
     },
     "JAX": {
@@ -182,10 +182,10 @@
       "name": "Philadelphia Eagles",
       "conf": "AFC",
       "w": 2,
-      "l": 6,
+      "l": 7,
       "t": 0,
-      "pf": 137,
-      "pa": 202,
+      "pf": 148,
+      "pa": 221,
       "color": "#004c54"
     },
     "BAL": {
@@ -222,30 +222,30 @@
       "name": "Carolina Panthers",
       "conf": "AFC",
       "w": 3,
-      "l": 4,
+      "l": 5,
       "t": 0,
-      "pf": 178,
-      "pa": 193,
+      "pf": 199,
+      "pa": 219,
       "color": "#0085ca"
     },
     "KC": {
       "name": "Kansas City Chiefs",
       "conf": "NFC",
-      "w": 5,
+      "w": 6,
       "l": 2,
       "t": 0,
-      "pf": 167,
-      "pa": 131,
+      "pf": 202,
+      "pa": 143,
       "color": "#e31837"
     },
     "LAR": {
       "name": "Los Angeles Rams",
       "conf": "AFC",
-      "w": 4,
+      "w": 5,
       "l": 4,
       "t": 0,
-      "pf": 194,
-      "pa": 168,
+      "pf": 214,
+      "pa": 181,
       "color": "#003594"
     }
   },
@@ -281,7 +281,7 @@
       "L",
       "W",
       "W",
-      ""
+      "W"
     ],
     "SF": [
       "W",
@@ -292,7 +292,7 @@
       "W",
       "L",
       "",
-      ""
+      "W"
     ],
     "CIN": [
       "W",
@@ -336,7 +336,7 @@
       "W",
       "L",
       "",
-      ""
+      "W"
     ],
     "TEN": [
       "L",
@@ -358,7 +358,7 @@
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "IND": [
       "L",
@@ -369,7 +369,7 @@
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "BAL": [
       "W",
@@ -413,7 +413,7 @@
       "W",
       "L",
       "L",
-      ""
+      "L"
     ],
     "CHI": [
       "W",
@@ -446,7 +446,7 @@
       "W",
       "W",
       "L",
-      ""
+      "L"
     ],
     "HOU": [
       "L",
@@ -479,7 +479,7 @@
       "L",
       "L",
       "W",
-      ""
+      "L"
     ],
     "MIA": [
       "L",
@@ -523,7 +523,7 @@
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "WSH": [
       "L",
@@ -534,7 +534,7 @@
       "L",
       "",
       "W",
-      ""
+      "L"
     ],
     "LAC": [
       "L",
@@ -567,7 +567,7 @@
       "L",
       "W",
       "",
-      ""
+      "W"
     ],
     "DAL": [
       "L",
@@ -578,7 +578,7 @@
       "L",
       "W",
       "L",
-      ""
+      "W"
     ],
     "KC": [
       "W",
@@ -589,7 +589,7 @@
       "W",
       "L",
       "L",
-      ""
+      "W"
     ],
     "DEN": [
       "L",
@@ -600,10 +600,92 @@
       "W",
       "W",
       "W",
-      ""
+      "W"
     ]
   },
   "games": [
+    {
+      "when": "Sun 11/8 · Final",
+      "away": "DAL",
+      "home": "IND",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Jones (IND)",
+          "20/34, 180 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Taylor (IND)",
+          "13 CAR, 46 YDS"
+        ],
+        [
+          "REC",
+          "A. Dulin (IND)",
+          "1 REC, 55 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Prescott (DAL)",
+          "21/34, 335 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "J. Williams (DAL)",
+          "20 CAR, 101 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "C. Lamb (DAL)",
+          "10 REC, 195 YDS, 1 TD"
+        ]
+      ],
+      "as": 27,
+      "hs": 23
+    },
+    {
+      "when": "Sun 11/8 · Final",
+      "away": "NYJ",
+      "home": "KC",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "P. Mahomes (KC)",
+          "23/31, 242 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "K. Walker III (KC)",
+          "18 CAR, 102 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "T. Kelce (KC)",
+          "4 REC, 72 YDS"
+        ],
+        [
+          "PASS",
+          "G. Smith (NYJ)",
+          "18/32, 165 YDS"
+        ],
+        [
+          "RUSH",
+          "B. Hall (NYJ)",
+          "15 CAR, 61 YDS"
+        ],
+        [
+          "REC",
+          "O. Cooper Jr. (NYJ)",
+          "8 REC, 58 YDS"
+        ]
+      ],
+      "as": 12,
+      "hs": 35
+    },
     {
       "when": "Sun 11/8 · Final",
       "away": "DET",
@@ -644,6 +726,170 @@
       ],
       "as": 19,
       "hs": 9
+    },
+    {
+      "when": "Sun 11/8 · Final",
+      "away": "NYG",
+      "home": "PHI",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Milton (PHI)",
+          "18/34, 169 YDS"
+        ],
+        [
+          "RUSH",
+          "J. Milton (PHI)",
+          "9 CAR, 64 YDS"
+        ],
+        [
+          "REC",
+          "M. Lemon (PHI)",
+          "6 REC, 61 YDS"
+        ],
+        [
+          "PASS",
+          "J.J. McCarthy (NYG)",
+          "12/19, 127 YDS"
+        ],
+        [
+          "RUSH",
+          "D. Singletary (NYG)",
+          "21 CAR, 31 YDS"
+        ],
+        [
+          "REC",
+          "D. Mooney (NYG)",
+          "3 REC, 54 YDS"
+        ]
+      ],
+      "as": 19,
+      "hs": 11
+    },
+    {
+      "when": "Sun 11/8 · Final",
+      "away": "LAR",
+      "home": "WSH",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Daniels (WSH)",
+          "24/35, 274 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "R. White (WSH)",
+          "7 CAR, 28 YDS"
+        ],
+        [
+          "REC",
+          "V. Jefferson (WSH)",
+          "5 REC, 58 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "26/43, 228 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Corum (LAR)",
+          "11 CAR, 58 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "P. Nacua (LAR)",
+          "14 REC, 150 YDS, 1 TD"
+        ]
+      ],
+      "as": 20,
+      "hs": 13
+    },
+    {
+      "when": "Sun 11/8 · Final",
+      "away": "DEN",
+      "home": "CAR",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Young (CAR)",
+          "28/39, 276 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "C. Hubbard (CAR)",
+          "16 CAR, 79 YDS"
+        ],
+        [
+          "REC",
+          "D. Waller (CAR)",
+          "8 REC, 90 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "25/37, 237 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Coleman (DEN)",
+          "17 CAR, 57 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "P. Bryant (DEN)",
+          "4 REC, 56 YDS, 1 TD"
+        ]
+      ],
+      "as": 26,
+      "hs": 21
+    },
+    {
+      "when": "Sun 11/8 · Final",
+      "away": "LV",
+      "home": "SF",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Purdy (SF)",
+          "17/25, 232 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "K. Black (SF)",
+          "11 CAR, 70 YDS"
+        ],
+        [
+          "REC",
+          "J. Watkins (SF)",
+          "4 REC, 86 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "K. Cousins (LV)",
+          "22/32, 216 YDS, 1 TD, 3 INT"
+        ],
+        [
+          "RUSH",
+          "A. Jeanty (LV)",
+          "6 CAR, 25 YDS"
+        ],
+        [
+          "REC",
+          "B. Bowers (LV)",
+          "7 REC, 111 YDS, 1 TD"
+        ]
+      ],
+      "as": 17,
+      "hs": 38
     },
     {
       "when": "Thu 11/5 · Final",
@@ -687,91 +933,37 @@
       "hs": 10
     },
     {
-      "when": "Sun 11/8 · 9:59 - 4th",
-      "away": "DAL",
-      "home": "IND",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 20,
-      "hs": 17,
-      "clock": "9:59 - 4th"
-    },
-    {
-      "when": "Sun 11/8 · 5:22 - 4th",
-      "away": "NYJ",
-      "home": "KC",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 12,
-      "hs": 28,
-      "clock": "5:22 - 4th"
-    },
-    {
-      "when": "Sun 11/8 · 5:56 - 4th",
-      "away": "NYG",
-      "home": "PHI",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 16,
-      "hs": 8,
-      "clock": "5:56 - 4th"
-    },
-    {
-      "when": "Sun 11/8 · 3:55 - 4th",
-      "away": "LAR",
-      "home": "WSH",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 20,
-      "hs": 13,
-      "clock": "3:55 - 4th"
-    },
-    {
-      "when": "Sun 11/8 · 3:58 - 4th",
-      "away": "DEN",
-      "home": "CAR",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 26,
-      "hs": 14,
-      "clock": "3:58 - 4th"
-    },
-    {
-      "when": "Sun 11/8 · 4:05 PM ET",
+      "when": "Sun 11/8 · 2:31 - 4th",
       "away": "HOU",
       "home": "LAC",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 41,
+      "hs": 22,
+      "clock": "2:31 - 4th"
     },
     {
-      "when": "Sun 11/8 · 4:25 PM ET",
+      "when": "Sun 11/8 · 10:42 - 4th",
       "away": "GB",
       "home": "NE",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 45,
+      "hs": 21,
+      "clock": "10:42 - 4th"
     },
     {
-      "when": "Sun 11/8 · 4:25 PM ET",
-      "away": "LV",
-      "home": "SF",
-      "done": false,
-      "live": false,
-      "leaders": []
-    },
-    {
-      "when": "Sun 11/8 · 4:25 PM ET",
+      "when": "Sun 11/8 · 2:00 - 4th",
       "away": "ARI",
       "home": "SEA",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 3,
+      "hs": 17,
+      "clock": "2:00 - 4th"
     },
     {
       "when": "Sun 11/8 · 8:20 PM ET",
