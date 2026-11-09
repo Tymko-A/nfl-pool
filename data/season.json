@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updated": "Mon, 11/9, 12:01 AM ET",
+  "updated": "Mon, 11/9, 9:12 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -605,6 +605,47 @@
   },
   "games": [
     {
+      "when": "Thu 11/5 · Final",
+      "away": "JAX",
+      "home": "BAL",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Fagnano (BAL)",
+          "10/18, 60 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "J. Hill (BAL)",
+          "9 CAR, 85 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "M. Andrews (BAL)",
+          "2 REC, 19 YDS"
+        ],
+        [
+          "PASS",
+          "T. Lawrence (JAX)",
+          "16/26, 242 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "A. Abdullah (JAX)",
+          "7 CAR, 30 YDS"
+        ],
+        [
+          "REC",
+          "J. Meyers (JAX)",
+          "4 REC, 65 YDS"
+        ]
+      ],
+      "as": 33,
+      "hs": 10
+    },
+    {
       "when": "Sun 11/8 · Final",
       "away": "DAL",
       "home": "IND",
@@ -1054,47 +1095,6 @@
       ],
       "as": 24,
       "hs": 27
-    },
-    {
-      "when": "Thu 11/5 · Final",
-      "away": "JAX",
-      "home": "BAL",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "J. Fagnano (BAL)",
-          "10/18, 60 YDS, 2 INT"
-        ],
-        [
-          "RUSH",
-          "J. Hill (BAL)",
-          "9 CAR, 85 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "M. Andrews (BAL)",
-          "2 REC, 19 YDS"
-        ],
-        [
-          "PASS",
-          "T. Lawrence (JAX)",
-          "16/26, 242 YDS, 1 TD"
-        ],
-        [
-          "RUSH",
-          "A. Abdullah (JAX)",
-          "7 CAR, 30 YDS"
-        ],
-        [
-          "REC",
-          "J. Meyers (JAX)",
-          "4 REC, 65 YDS"
-        ]
-      ],
-      "as": 33,
-      "hs": 10
     },
     {
       "when": "Mon 11/9 · 8:15 PM ET",
