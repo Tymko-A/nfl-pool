@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updated": "Sun, 11/8, 7:16 PM ET",
+  "updated": "Mon, 11/9, 12:01 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -72,40 +72,40 @@
       "name": "New England Patriots",
       "conf": "NFC",
       "w": 5,
-      "l": 3,
+      "l": 4,
       "t": 0,
-      "pf": 184,
-      "pa": 162,
+      "pf": 211,
+      "pa": 207,
       "color": "#002a5c"
     },
     "TB": {
       "name": "Tampa Bay Buccaneers",
       "conf": "AFC",
       "w": 3,
-      "l": 5,
+      "l": 6,
       "t": 0,
-      "pf": 178,
-      "pa": 151,
+      "pf": 202,
+      "pa": 178,
       "color": "#d50a0a"
     },
     "HOU": {
       "name": "Houston Texans",
       "conf": "AFC",
-      "w": 2,
+      "w": 3,
       "l": 5,
       "t": 0,
-      "pf": 165,
-      "pa": 170,
+      "pf": 209,
+      "pa": 192,
       "color": "#03202f"
     },
     "SF": {
       "name": "San Francisco 49ers",
       "conf": "AFC",
-      "w": 6,
+      "w": 7,
       "l": 1,
       "t": 0,
-      "pf": 197,
-      "pa": 139,
+      "pf": 235,
+      "pa": 156,
       "color": "#aa0000"
     },
     "PIT": {
@@ -141,11 +141,11 @@
     "GB": {
       "name": "Green Bay Packers",
       "conf": "AFC",
-      "w": 5,
+      "w": 6,
       "l": 3,
       "t": 0,
-      "pf": 171,
-      "pa": 164,
+      "pf": 216,
+      "pa": 191,
       "color": "#203731"
     },
     "DEN": {
@@ -201,21 +201,21 @@
     "SEA": {
       "name": "Seattle Seahawks",
       "conf": "AFC",
-      "w": 4,
+      "w": 5,
       "l": 4,
       "t": 0,
-      "pf": 185,
-      "pa": 159,
+      "pf": 202,
+      "pa": 162,
       "color": "#69be28"
     },
     "LAC": {
       "name": "Los Angeles Chargers",
       "conf": "NFC",
       "w": 0,
-      "l": 7,
+      "l": 8,
       "t": 0,
-      "pf": 99,
-      "pa": 175,
+      "pf": 121,
+      "pa": 219,
       "color": "#0080c6"
     },
     "CAR": {
@@ -259,7 +259,7 @@
       "L",
       "W",
       "L",
-      ""
+      "W"
     ],
     "NE": [
       "L",
@@ -270,7 +270,7 @@
       "W",
       "L",
       "W",
-      ""
+      "L"
     ],
     "LAR": [
       "L",
@@ -314,7 +314,7 @@
       "L",
       "W",
       "W",
-      ""
+      "L"
     ],
     "DET": [
       "W",
@@ -424,7 +424,7 @@
       "W",
       "W",
       "W",
-      ""
+      "W"
     ],
     "JAX": [
       "W",
@@ -457,7 +457,7 @@
       "W",
       "L",
       "",
-      ""
+      "W"
     ],
     "BUF": [
       "W",
@@ -512,7 +512,7 @@
       "W",
       "L",
       "W",
-      ""
+      "W"
     ],
     "PHI": [
       "W",
@@ -545,7 +545,7 @@
       "L",
       "",
       "L",
-      ""
+      "L"
     ],
     "ARI": [
       "W",
@@ -556,7 +556,7 @@
       "W",
       "L",
       "W",
-      ""
+      "L"
     ],
     "NYG": [
       "W",
@@ -852,6 +852,88 @@
     },
     {
       "when": "Sun 11/8 · Final",
+      "away": "HOU",
+      "home": "LAC",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Herbert (LAC)",
+          "13/23, 193 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "O. Hampton (LAC)",
+          "13 CAR, 60 YDS"
+        ],
+        [
+          "REC",
+          "Q. Johnston (LAC)",
+          "1 REC, 58 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "C.J. Stroud (HOU)",
+          "21/35, 384 YDS, 5 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "W. Marks (HOU)",
+          "18 CAR, 70 YDS"
+        ],
+        [
+          "REC",
+          "K. Boutte (HOU)",
+          "4 REC, 125 YDS, 2 TD"
+        ]
+      ],
+      "as": 44,
+      "hs": 22
+    },
+    {
+      "when": "Sun 11/8 · Final",
+      "away": "GB",
+      "home": "NE",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Maye (NE)",
+          "21/38, 299 YDS, 3 TD, 3 INT"
+        ],
+        [
+          "RUSH",
+          "C. Kiner (NE)",
+          "8 CAR, 55 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "D. Douglas (NE)",
+          "5 REC, 102 YDS"
+        ],
+        [
+          "PASS",
+          "J. Love (GB)",
+          "23/29, 372 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "K. Johnson (GB)",
+          "14 CAR, 68 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "C. Watson (GB)",
+          "7 REC, 171 YDS, 1 TD"
+        ]
+      ],
+      "as": 45,
+      "hs": 27
+    },
+    {
+      "when": "Sun 11/8 · Final",
       "away": "LV",
       "home": "SF",
       "done": true,
@@ -890,6 +972,88 @@
       ],
       "as": 17,
       "hs": 38
+    },
+    {
+      "when": "Sun 11/8 · Final",
+      "away": "ARI",
+      "home": "SEA",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Lock (SEA)",
+          "19/28, 175 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "Z. Charbonnet (SEA)",
+          "16 CAR, 77 YDS"
+        ],
+        [
+          "REC",
+          "J. Price (SEA)",
+          "4 REC, 54 YDS"
+        ],
+        [
+          "PASS",
+          "G. Minshew II (ARI)",
+          "21/30, 166 YDS"
+        ],
+        [
+          "RUSH",
+          "T. Allgeier (ARI)",
+          "17 CAR, 46 YDS"
+        ],
+        [
+          "REC",
+          "M. Wilson (ARI)",
+          "6 REC, 60 YDS"
+        ]
+      ],
+      "as": 3,
+      "hs": 17
+    },
+    {
+      "when": "Sun 11/8 · Final",
+      "away": "TB",
+      "home": "CHI",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "C. Williams (CHI)",
+          "22/37, 279 YDS, 2 TD, 4 INT"
+        ],
+        [
+          "RUSH",
+          "D. Swift (CHI)",
+          "12 CAR, 31 YDS"
+        ],
+        [
+          "REC",
+          "L. Burden III (CHI)",
+          "7 REC, 97 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "B. Mayfield (TB)",
+          "18/32, 243 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "B. Irving (TB)",
+          "20 CAR, 97 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "T. Johnson (TB)",
+          "2 REC, 76 YDS"
+        ]
+      ],
+      "as": 24,
+      "hs": 27
     },
     {
       "when": "Thu 11/5 · Final",
@@ -931,47 +1095,6 @@
       ],
       "as": 33,
       "hs": 10
-    },
-    {
-      "when": "Sun 11/8 · 2:31 - 4th",
-      "away": "HOU",
-      "home": "LAC",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 41,
-      "hs": 22,
-      "clock": "2:31 - 4th"
-    },
-    {
-      "when": "Sun 11/8 · 10:42 - 4th",
-      "away": "GB",
-      "home": "NE",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 45,
-      "hs": 21,
-      "clock": "10:42 - 4th"
-    },
-    {
-      "when": "Sun 11/8 · 2:00 - 4th",
-      "away": "ARI",
-      "home": "SEA",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 3,
-      "hs": 17,
-      "clock": "2:00 - 4th"
-    },
-    {
-      "when": "Sun 11/8 · 8:20 PM ET",
-      "away": "TB",
-      "home": "CHI",
-      "done": false,
-      "live": false,
-      "leaders": []
     },
     {
       "when": "Mon 11/9 · 8:15 PM ET",
