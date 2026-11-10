@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 9,
-  "updated": "Mon, 11/9, 2:16 PM ET",
+  "updated": "Tue, 11/10, 1:31 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -131,11 +131,11 @@
     "BUF": {
       "name": "Buffalo Bills",
       "conf": "NFC",
-      "w": 6,
+      "w": 7,
       "l": 1,
       "t": 0,
-      "pf": 233,
-      "pa": 181,
+      "pf": 256,
+      "pa": 187,
       "color": "#00338d"
     },
     "GB": {
@@ -468,7 +468,7 @@
       "W",
       "",
       "W",
-      ""
+      "W"
     ],
     "LV": [
       "W",
@@ -501,7 +501,7 @@
       "",
       "W",
       "L",
-      ""
+      "L"
     ],
     "GB": [
       "L",
@@ -1097,12 +1097,45 @@
       "hs": 27
     },
     {
-      "when": "Mon 11/9 · 8:15 PM ET",
+      "when": "Mon 11/9 · Final",
       "away": "BUF",
       "home": "MIN",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "C. Wentz (MIN)",
+          "8/25, 81 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "J. Mason (MIN)",
+          "6 CAR, 35 YDS"
+        ],
+        [
+          "REC",
+          "J. Jefferson (MIN)",
+          "3 REC, 58 YDS"
+        ],
+        [
+          "PASS",
+          "J. Allen (BUF)",
+          "21/31, 234 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Cook III (BUF)",
+          "31 CAR, 107 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "K. Shakir (BUF)",
+          "4 REC, 58 YDS"
+        ]
+      ],
+      "as": 23,
+      "hs": 6
     }
   ],
   "recap": {
