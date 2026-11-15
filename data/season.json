@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 10,
-  "updated": "Sat, 11/14, 10:23 AM ET",
+  "updated": "Sun, 11/15, 10:56 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -637,12 +637,15 @@
   },
   "games": [
     {
-      "when": "Sun 11/15 · 9:30 AM ET",
+      "when": "Sun 11/15 · 1:00 - 2nd",
       "away": "NE",
       "home": "DET",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 3,
+      "hs": 21,
+      "clock": "1:00 - 2nd"
     },
     {
       "when": "Sun 11/15 · 1:00 PM ET",
