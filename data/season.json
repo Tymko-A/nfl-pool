@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 10,
-  "updated": "Sun, 11/15, 8:12 PM ET",
+  "updated": "Mon, 11/16, 12:13 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -112,10 +112,10 @@
       "name": "Pittsburgh Steelers",
       "conf": "AFC",
       "w": 6,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 180,
-      "pa": 144,
+      "pf": 198,
+      "pa": 182,
       "color": "#ffb612"
     },
     "DAL": {
@@ -308,7 +308,7 @@
       "W",
       "W",
       "W",
-      ""
+      "W"
     ],
     "TB": [
       "L",
@@ -404,7 +404,7 @@
       "W",
       "W",
       "",
-      ""
+      "L"
     ],
     "ATL": [
       "L",
@@ -1047,12 +1047,45 @@
       "hs": 40
     },
     {
-      "when": "Sun 11/15 · 8:20 PM ET",
+      "when": "Sun 11/15 · Final",
       "away": "PIT",
       "home": "CIN",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "J. Burrow (CIN)",
+          "35/44, 409 YDS, 4 TD"
+        ],
+        [
+          "RUSH",
+          "C. Brown (CIN)",
+          "10 CAR, 44 YDS"
+        ],
+        [
+          "REC",
+          "J. Chase (CIN)",
+          "11 REC, 231 YDS"
+        ],
+        [
+          "PASS",
+          "A. Rodgers (PIT)",
+          "15/29, 143 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "L. Nichols (PIT)",
+          "6 CAR, 43 YDS"
+        ],
+        [
+          "REC",
+          "D. Metcalf (PIT)",
+          "2 REC, 54 YDS, 1 TD"
+        ]
+      ],
+      "as": 18,
+      "hs": 38
     },
     {
       "when": "Mon 11/16 · 8:15 PM ET",
