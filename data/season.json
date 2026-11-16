@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 10,
-  "updated": "Sun, 11/15, 4:24 PM ET",
+  "updated": "Sun, 11/15, 8:12 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -101,11 +101,11 @@
     "SF": {
       "name": "San Francisco 49ers",
       "conf": "AFC",
-      "w": 7,
+      "w": 8,
       "l": 1,
       "t": 0,
-      "pf": 235,
-      "pa": 156,
+      "pf": 281,
+      "pa": 196,
       "color": "#aa0000"
     },
     "PIT": {
@@ -122,10 +122,10 @@
       "name": "Dallas Cowboys",
       "conf": "AFC",
       "w": 4,
-      "l": 5,
+      "l": 6,
       "t": 0,
-      "pf": 246,
-      "pa": 236,
+      "pf": 286,
+      "pa": 282,
       "color": "#041e42"
     },
     "BUF": {
@@ -201,11 +201,11 @@
     "SEA": {
       "name": "Seattle Seahawks",
       "conf": "AFC",
-      "w": 5,
+      "w": 6,
       "l": 4,
       "t": 0,
-      "pf": 202,
-      "pa": 162,
+      "pf": 223,
+      "pa": 175,
       "color": "#69be28"
     },
     "LAC": {
@@ -241,11 +241,11 @@
     "LAR": {
       "name": "Los Angeles Rams",
       "conf": "AFC",
-      "w": 5,
+      "w": 6,
       "l": 4,
       "t": 0,
-      "pf": 214,
-      "pa": 181,
+      "pf": 248,
+      "pa": 187,
       "color": "#003594"
     }
   },
@@ -260,7 +260,7 @@
       "W",
       "L",
       "W",
-      ""
+      "W"
     ],
     "NE": [
       "L",
@@ -284,7 +284,7 @@
       "W",
       "W",
       "W",
-      ""
+      "W"
     ],
     "SF": [
       "W",
@@ -296,7 +296,7 @@
       "L",
       "",
       "W",
-      ""
+      "W"
     ],
     "CIN": [
       "W",
@@ -500,7 +500,7 @@
       "L",
       "W",
       "L",
-      ""
+      "L"
     ],
     "MIA": [
       "L",
@@ -584,7 +584,7 @@
       "L",
       "W",
       "L",
-      ""
+      "L"
     ],
     "NYG": [
       "W",
@@ -608,7 +608,7 @@
       "W",
       "L",
       "W",
-      ""
+      "L"
     ],
     "KC": [
       "W",
@@ -636,47 +636,6 @@
     ]
   },
   "games": [
-    {
-      "when": "Sun 11/15 · Final",
-      "away": "HOU",
-      "home": "CLE",
-      "done": true,
-      "live": false,
-      "leaders": [
-        [
-          "PASS",
-          "D. Watson (CLE)",
-          "25/40, 312 YDS, 1 INT"
-        ],
-        [
-          "RUSH",
-          "D. Watson (CLE)",
-          "8 CAR, 49 YDS, 1 TD"
-        ],
-        [
-          "REC",
-          "H. Fannin Jr. (CLE)",
-          "7 REC, 91 YDS"
-        ],
-        [
-          "PASS",
-          "C.J. Stroud (HOU)",
-          "20/38, 211 YDS, 3 TD, 1 INT"
-        ],
-        [
-          "RUSH",
-          "W. Marks (HOU)",
-          "12 CAR, 50 YDS"
-        ],
-        [
-          "REC",
-          "N. Collins (HOU)",
-          "9 REC, 94 YDS, 1 TD"
-        ]
-      ],
-      "as": 24,
-      "hs": 27
-    },
     {
       "when": "Sun 11/15 · Final",
       "away": "NE",
@@ -758,6 +717,47 @@
       ],
       "as": 35,
       "hs": 13
+    },
+    {
+      "when": "Sun 11/15 · Final",
+      "away": "HOU",
+      "home": "CLE",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "D. Watson (CLE)",
+          "25/40, 312 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "D. Watson (CLE)",
+          "8 CAR, 49 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "H. Fannin Jr. (CLE)",
+          "7 REC, 91 YDS"
+        ],
+        [
+          "PASS",
+          "C.J. Stroud (HOU)",
+          "20/38, 211 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "W. Marks (HOU)",
+          "12 CAR, 50 YDS"
+        ],
+        [
+          "REC",
+          "N. Collins (HOU)",
+          "9 REC, 94 YDS, 1 TD"
+        ]
+      ],
+      "as": 24,
+      "hs": 27
     },
     {
       "when": "Sun 11/15 · Final",
@@ -924,34 +924,127 @@
       "hs": 12
     },
     {
-      "when": "Sun 11/15 · 6:17 - 1st",
+      "when": "Sun 11/15 · Final",
       "away": "SEA",
       "home": "LV",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 0,
-      "hs": 7,
-      "clock": "6:17 - 1st"
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "F. Mendoza (LV)",
+          "17/29, 143 YDS"
+        ],
+        [
+          "RUSH",
+          "M. Washington Jr. (LV)",
+          "8 CAR, 23 YDS"
+        ],
+        [
+          "REC",
+          "A. Jeanty (LV)",
+          "4 REC, 46 YDS"
+        ],
+        [
+          "PASS",
+          "D. Lock (SEA)",
+          "14/17, 240 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "Z. Charbonnet (SEA)",
+          "20 CAR, 94 YDS"
+        ],
+        [
+          "REC",
+          "J. Smith-Njigba (SEA)",
+          "8 REC, 171 YDS, 1 TD"
+        ]
+      ],
+      "as": 21,
+      "hs": 13
     },
     {
-      "when": "Sun 11/15 · 7:23 - 1st",
+      "when": "Sun 11/15 · Final",
       "away": "LAR",
       "home": "ARI",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 0,
-      "hs": 3,
-      "clock": "7:23 - 1st"
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "C. Beck (ARI)",
+          "11/18, 108 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "B. Knight (ARI)",
+          "5 CAR, 19 YDS"
+        ],
+        [
+          "REC",
+          "T. McBride (ARI)",
+          "5 REC, 37 YDS"
+        ],
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "18/26, 249 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Corum (LAR)",
+          "17 CAR, 100 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "K. Mumpfield (LAR)",
+          "3 REC, 81 YDS"
+        ]
+      ],
+      "as": 34,
+      "hs": 6
     },
     {
-      "when": "Sun 11/15 · 4:25 PM ET",
+      "when": "Sun 11/15 · Final",
       "away": "SF",
       "home": "DAL",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "D. Prescott (DAL)",
+          "30/51, 343 YDS, 5 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Williams (DAL)",
+          "16 CAR, 63 YDS"
+        ],
+        [
+          "REC",
+          "G. Pickens (DAL)",
+          "11 REC, 145 YDS, 3 TD"
+        ],
+        [
+          "PASS",
+          "B. Purdy (SF)",
+          "22/28, 389 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "D. Samuel Sr. (SF)",
+          "3 CAR, 78 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "C. McCaffrey (SF)",
+          "4 REC, 161 YDS, 2 TD"
+        ]
+      ],
+      "as": 46,
+      "hs": 40
     },
     {
       "when": "Sun 11/15 · 8:20 PM ET",
