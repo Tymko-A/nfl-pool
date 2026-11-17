@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 10,
-  "updated": "Mon, 11/16, 2:00 PM ET",
+  "updated": "Tue, 11/17, 2:07 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -192,10 +192,10 @@
       "name": "Baltimore Ravens",
       "conf": "AFC",
       "w": 4,
-      "l": 5,
+      "l": 6,
       "t": 0,
-      "pf": 189,
-      "pa": 236,
+      "pf": 209,
+      "pa": 259,
       "color": "#241773"
     },
     "SEA": {
@@ -211,11 +211,11 @@
     "LAC": {
       "name": "Los Angeles Chargers",
       "conf": "NFC",
-      "w": 0,
+      "w": 1,
       "l": 8,
       "t": 0,
-      "pf": 121,
-      "pa": 219,
+      "pf": 144,
+      "pa": 239,
       "color": "#0080c6"
     },
     "CAR": {
@@ -392,7 +392,7 @@
       "L",
       "L",
       "L",
-      ""
+      "L"
     ],
     "PIT": [
       "W",
@@ -572,7 +572,7 @@
       "",
       "L",
       "L",
-      ""
+      "W"
     ],
     "ARI": [
       "W",
@@ -1088,12 +1088,45 @@
       "hs": 38
     },
     {
-      "when": "Mon 11/16 · 8:15 PM ET",
+      "when": "Mon 11/16 · Final",
       "away": "LAC",
       "home": "BAL",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "J. Brissett (BAL)",
+          "33/49, 340 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "D. Henry (BAL)",
+          "10 CAR, 10 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "M. Andrews (BAL)",
+          "8 REC, 82 YDS"
+        ],
+        [
+          "PASS",
+          "J. Herbert (LAC)",
+          "12/18, 129 YDS"
+        ],
+        [
+          "RUSH",
+          "O. Hampton (LAC)",
+          "22 CAR, 105 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "T. Harris (LAC)",
+          "5 REC, 86 YDS"
+        ]
+      ],
+      "as": 23,
+      "hs": 20
     }
   ],
   "recap": {
