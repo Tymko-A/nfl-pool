@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 11,
-  "updated": "Thu, 11/19, 12:48 PM ET",
+  "updated": "Fri, 11/20, 12:24 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -91,11 +91,11 @@
     "HOU": {
       "name": "Houston Texans",
       "conf": "AFC",
-      "w": 3,
+      "w": 4,
       "l": 6,
       "t": 0,
-      "pf": 233,
-      "pa": 219,
+      "pf": 259,
+      "pa": 222,
       "color": "#03202f"
     },
     "SF": {
@@ -391,7 +391,7 @@
       "L",
       "L",
       "W",
-      ""
+      "L"
     ],
     "BAL": [
       "W",
@@ -495,7 +495,7 @@
       "",
       "W",
       "L",
-      ""
+      "W"
     ],
     "BUF": [
       "W",
@@ -669,12 +669,45 @@
   },
   "games": [
     {
-      "when": "Thu 11/19 · 8:15 PM ET",
+      "when": "Thu 11/19 · Final",
       "away": "IND",
       "home": "HOU",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "C.J. Stroud (HOU)",
+          "21/27, 194 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "D. Montgomery (HOU)",
+          "26 CAR, 107 YDS"
+        ],
+        [
+          "REC",
+          "N. Collins (HOU)",
+          "3 REC, 58 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Jones (IND)",
+          "12/27, 144 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Taylor (IND)",
+          "11 CAR, 21 YDS"
+        ],
+        [
+          "REC",
+          "A. Gould (IND)",
+          "2 REC, 48 YDS"
+        ]
+      ],
+      "as": 3,
+      "hs": 26
     },
     {
       "when": "Sun 11/22 · 1:00 PM ET",
