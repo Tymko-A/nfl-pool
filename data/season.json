@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 11,
-  "updated": "Sun, 11/22, 5:13 PM ET",
+  "updated": "Sun, 11/22, 9:55 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -151,11 +151,11 @@
     "DEN": {
       "name": "Denver Broncos",
       "conf": "NFC",
-      "w": 7,
+      "w": 8,
       "l": 2,
       "t": 0,
-      "pf": 198,
-      "pa": 186,
+      "pf": 236,
+      "pa": 210,
       "color": "#fb4f14"
     },
     "DET": {
@@ -172,10 +172,10 @@
       "name": "Jacksonville Jaguars",
       "conf": "AFC",
       "w": 7,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 269,
-      "pa": 144,
+      "pf": 287,
+      "pa": 167,
       "color": "#006778"
     },
     "PHI": {
@@ -212,10 +212,10 @@
       "name": "Los Angeles Chargers",
       "conf": "NFC",
       "w": 1,
-      "l": 8,
+      "l": 9,
       "t": 0,
-      "pf": 144,
-      "pa": 239,
+      "pf": 168,
+      "pa": 266,
       "color": "#0080c6"
     },
     "CAR": {
@@ -378,7 +378,7 @@
       "L",
       "L",
       "L",
-      ""
+      "W"
     ],
     "IND": [
       "L",
@@ -469,7 +469,7 @@
       "W",
       "W",
       "W",
-      ""
+      "L"
     ],
     "CLE": [
       "L",
@@ -521,7 +521,7 @@
       "W",
       "L",
       "L",
-      ""
+      "L"
     ],
     "MIA": [
       "L",
@@ -599,7 +599,7 @@
       "L",
       "L",
       "W",
-      ""
+      "L"
     ],
     "ARI": [
       "W",
@@ -625,7 +625,7 @@
       "",
       "W",
       "L",
-      ""
+      "W"
     ],
     "DAL": [
       "L",
@@ -664,7 +664,7 @@
       "W",
       "W",
       "",
-      ""
+      "W"
     ]
   },
   "games": [
@@ -915,6 +915,129 @@
       "hs": 35
     },
     {
+      "when": "Sun 11/22 · Final",
+      "away": "NYJ",
+      "home": "LAC",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Herbert (LAC)",
+          "15/21, 131 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "O. Hampton (LAC)",
+          "14 CAR, 89 YDS"
+        ],
+        [
+          "REC",
+          "L. McConkey (LAC)",
+          "5 REC, 37 YDS, 2 TD"
+        ],
+        [
+          "PASS",
+          "G. Smith (NYJ)",
+          "17/21, 176 YDS, 3 TD"
+        ],
+        [
+          "RUSH",
+          "B. Hall (NYJ)",
+          "20 CAR, 86 YDS"
+        ],
+        [
+          "REC",
+          "G. Wilson (NYJ)",
+          "3 REC, 39 YDS"
+        ]
+      ],
+      "as": 27,
+      "hs": 24
+    },
+    {
+      "when": "Sun 11/22 · Final",
+      "away": "LV",
+      "home": "DEN",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "19/35, 225 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Coleman (DEN)",
+          "24 CAR, 111 YDS, 3 TD"
+        ],
+        [
+          "REC",
+          "E. Engram (DEN)",
+          "6 REC, 74 YDS"
+        ],
+        [
+          "PASS",
+          "F. Mendoza (LV)",
+          "18/37, 267 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "A. Jeanty (LV)",
+          "11 CAR, 79 YDS"
+        ],
+        [
+          "REC",
+          "A. Jeanty (LV)",
+          "5 REC, 90 YDS, 1 TD"
+        ]
+      ],
+      "as": 24,
+      "hs": 38
+    },
+    {
+      "when": "Sun 11/22 · Final",
+      "away": "JAX",
+      "home": "NYG",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J.J. McCarthy (NYG)",
+          "18/38, 173 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "C. Skattebo (NYG)",
+          "14 CAR, 34 YDS"
+        ],
+        [
+          "REC",
+          "M. Nabers (NYG)",
+          "7 REC, 55 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "T. Lawrence (JAX)",
+          "25/47, 301 YDS, 1 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "B. Tuten (JAX)",
+          "10 CAR, 33 YDS"
+        ],
+        [
+          "REC",
+          "P. Washington (JAX)",
+          "8 REC, 103 YDS"
+        ]
+      ],
+      "as": 18,
+      "hs": 23
+    },
+    {
       "when": "Thu 11/19 · Final",
       "away": "IND",
       "home": "HOU",
@@ -956,45 +1079,15 @@
       "hs": 26
     },
     {
-      "when": "Sun 11/22 · 1:47 - 2nd",
-      "away": "NYJ",
-      "home": "LAC",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 17,
-      "hs": 3,
-      "clock": "1:47 - 2nd"
-    },
-    {
-      "when": "Sun 11/22 · 12:02 - 2nd",
-      "away": "LV",
-      "home": "DEN",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 0,
-      "hs": 10,
-      "clock": "12:02 - 2nd"
-    },
-    {
-      "when": "Sun 11/22 · 2:07 - 1st",
-      "away": "JAX",
-      "home": "NYG",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 3,
-      "hs": 10,
-      "clock": "2:07 - 1st"
-    },
-    {
-      "when": "Sun 11/22 · 8:20 PM ET",
+      "when": "Sun 11/22 · Halftime",
       "away": "MIN",
       "home": "SF",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 10,
+      "hs": 28,
+      "clock": "Halftime"
     }
   ],
   "recap": {
