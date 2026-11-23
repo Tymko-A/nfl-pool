@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 11,
-  "updated": "Sun, 11/22, 9:55 PM ET",
+  "updated": "Mon, 11/23, 1:12 AM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -101,11 +101,11 @@
     "SF": {
       "name": "San Francisco 49ers",
       "conf": "AFC",
-      "w": 8,
+      "w": 9,
       "l": 1,
       "t": 0,
-      "pf": 281,
-      "pa": 196,
+      "pf": 316,
+      "pa": 206,
       "color": "#aa0000"
     },
     "PIT": {
@@ -300,7 +300,7 @@
       "",
       "W",
       "W",
-      ""
+      "W"
     ],
     "CIN": [
       "W",
@@ -547,7 +547,7 @@
       "L",
       "L",
       "W",
-      ""
+      "L"
     ],
     "GB": [
       "L",
@@ -668,6 +668,47 @@
     ]
   },
   "games": [
+    {
+      "when": "Thu 11/19 · Final",
+      "away": "IND",
+      "home": "HOU",
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "C.J. Stroud (HOU)",
+          "21/27, 194 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "D. Montgomery (HOU)",
+          "26 CAR, 107 YDS"
+        ],
+        [
+          "REC",
+          "N. Collins (HOU)",
+          "3 REC, 58 YDS, 1 TD"
+        ],
+        [
+          "PASS",
+          "D. Jones (IND)",
+          "12/27, 144 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Taylor (IND)",
+          "11 CAR, 21 YDS"
+        ],
+        [
+          "REC",
+          "A. Gould (IND)",
+          "2 REC, 48 YDS"
+        ]
+      ],
+      "as": 3,
+      "hs": 26
+    },
     {
       "when": "Sun 11/22 · Final",
       "away": "MIA",
@@ -1038,56 +1079,45 @@
       "hs": 23
     },
     {
-      "when": "Thu 11/19 · Final",
-      "away": "IND",
-      "home": "HOU",
+      "when": "Sun 11/22 · Final",
+      "away": "MIN",
+      "home": "SF",
       "done": true,
       "live": false,
       "leaders": [
         [
           "PASS",
-          "C.J. Stroud (HOU)",
-          "21/27, 194 YDS, 3 TD, 1 INT"
+          "B. Purdy (SF)",
+          "21/26, 255 YDS, 3 TD"
         ],
         [
           "RUSH",
-          "D. Montgomery (HOU)",
-          "26 CAR, 107 YDS"
+          "C. McCaffrey (SF)",
+          "12 CAR, 49 YDS, 1 TD"
         ],
         [
           "REC",
-          "N. Collins (HOU)",
-          "3 REC, 58 YDS, 1 TD"
+          "M. Evans (SF)",
+          "6 REC, 109 YDS, 1 TD"
         ],
         [
           "PASS",
-          "D. Jones (IND)",
-          "12/27, 144 YDS, 1 INT"
+          "K. Cousins (MIN)",
+          "26/38, 235 YDS, 1 INT"
         ],
         [
           "RUSH",
-          "J. Taylor (IND)",
-          "11 CAR, 21 YDS"
+          "J. Mason (MIN)",
+          "11 CAR, 38 YDS"
         ],
         [
           "REC",
-          "A. Gould (IND)",
-          "2 REC, 48 YDS"
+          "J. Jefferson (MIN)",
+          "7 REC, 86 YDS"
         ]
       ],
-      "as": 3,
-      "hs": 26
-    },
-    {
-      "when": "Sun 11/22 · Halftime",
-      "away": "MIN",
-      "home": "SF",
-      "done": false,
-      "live": true,
-      "leaders": [],
       "as": 10,
-      "hs": 28,
-      "clock": "Halftime"
+      "hs": 35
     }
   ],
   "recap": {
