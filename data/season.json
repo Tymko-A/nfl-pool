@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 12,
-  "updated": "Wed, 11/25, 1:52 PM ET",
+  "updated": "Thu, 11/26, 1:41 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -142,10 +142,10 @@
       "name": "Green Bay Packers",
       "conf": "AFC",
       "w": 6,
-      "l": 4,
+      "l": 5,
       "t": 0,
-      "pf": 226,
-      "pa": 221,
+      "pf": 239,
+      "pa": 247,
       "color": "#203731"
     },
     "DEN": {
@@ -241,11 +241,11 @@
     "LAR": {
       "name": "Los Angeles Rams",
       "conf": "AFC",
-      "w": 6,
+      "w": 7,
       "l": 4,
       "t": 0,
-      "pf": 248,
-      "pa": 187,
+      "pf": 274,
+      "pa": 200,
       "color": "#003594"
     }
   },
@@ -290,7 +290,7 @@
       "W",
       "W",
       "",
-      ""
+      "W"
     ],
     "SF": [
       "W",
@@ -584,7 +584,7 @@
       "W",
       "L",
       "",
-      ""
+      "L"
     ],
     "PHI": [
       "W",
@@ -701,20 +701,56 @@
   },
   "games": [
     {
-      "when": "Wed 11/25 · 8:00 PM ET",
+      "when": "Wed 11/25 · Final",
       "away": "GB",
       "home": "LAR",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "M. Stafford (LAR)",
+          "16/23, 140 YDS, 1 INT"
+        ],
+        [
+          "RUSH",
+          "B. Corum (LAR)",
+          "32 CAR, 184 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "K. Mumpfield (LAR)",
+          "4 REC, 69 YDS"
+        ],
+        [
+          "PASS",
+          "J. Love (GB)",
+          "17/29, 198 YDS, 1 TD, 2 INT"
+        ],
+        [
+          "RUSH",
+          "S. Williams (GB)",
+          "2 CAR, 18 YDS"
+        ],
+        [
+          "REC",
+          "C. Watson (GB)",
+          "4 REC, 65 YDS, 1 TD"
+        ]
+      ],
+      "as": 13,
+      "hs": 26
     },
     {
-      "when": "Thu 11/26 · 1:00 PM ET",
+      "when": "Thu 11/26 · 13:41 - 2nd",
       "away": "CHI",
       "home": "DET",
       "done": false,
-      "live": false,
-      "leaders": []
+      "live": true,
+      "leaders": [],
+      "as": 0,
+      "hs": 3,
+      "clock": "13:41 - 2nd"
     },
     {
       "when": "Thu 11/26 · 4:30 PM ET",
