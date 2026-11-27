@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 12,
-  "updated": "Thu, 11/26, 1:41 PM ET",
+  "updated": "Fri, 11/27, 1:33 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -122,20 +122,20 @@
       "name": "Dallas Cowboys",
       "conf": "AFC",
       "w": 5,
-      "l": 6,
+      "l": 7,
       "t": 0,
-      "pf": 337,
-      "pa": 312,
+      "pf": 375,
+      "pa": 351,
       "color": "#041e42"
     },
     "BUF": {
       "name": "Buffalo Bills",
       "conf": "NFC",
-      "w": 9,
+      "w": 10,
       "l": 1,
       "t": 0,
-      "pf": 313,
-      "pa": 208,
+      "pf": 326,
+      "pa": 218,
       "color": "#00338d"
     },
     "GB": {
@@ -162,10 +162,10 @@
       "name": "Detroit Lions",
       "conf": "AFC",
       "w": 8,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 288,
-      "pa": 220,
+      "pf": 323,
+      "pa": 259,
       "color": "#0076b6"
     },
     "JAX": {
@@ -181,11 +181,11 @@
     "PHI": {
       "name": "Philadelphia Eagles",
       "conf": "AFC",
-      "w": 3,
+      "w": 4,
       "l": 7,
       "t": 0,
-      "pf": 167,
-      "pa": 237,
+      "pf": 206,
+      "pa": 275,
       "color": "#004c54"
     },
     "BAL": {
@@ -232,10 +232,10 @@
       "name": "Kansas City Chiefs",
       "conf": "NFC",
       "w": 8,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 271,
-      "pa": 163,
+      "pf": 281,
+      "pa": 176,
       "color": "#e31837"
     },
     "LAR": {
@@ -346,7 +346,7 @@
       "W",
       "W",
       "W",
-      ""
+      "L"
     ],
     "NO": [
       "L",
@@ -472,7 +472,7 @@
       "W",
       "",
       "W",
-      ""
+      "W"
     ],
     "JAX": [
       "W",
@@ -528,7 +528,7 @@
       "W",
       "W",
       "W",
-      ""
+      "W"
     ],
     "LV": [
       "W",
@@ -598,7 +598,7 @@
       "L",
       "",
       "W",
-      ""
+      "W"
     ],
     "WSH": [
       "L",
@@ -668,7 +668,7 @@
       "W",
       "L",
       "W",
-      ""
+      "L"
     ],
     "KC": [
       "W",
@@ -682,7 +682,7 @@
       "W",
       "W",
       "W",
-      ""
+      "L"
     ],
     "DEN": [
       "L",
@@ -742,31 +742,127 @@
       "hs": 26
     },
     {
-      "when": "Thu 11/26 · 13:41 - 2nd",
+      "when": "Thu 11/26 · Final",
       "away": "CHI",
       "home": "DET",
-      "done": false,
-      "live": true,
-      "leaders": [],
-      "as": 0,
-      "hs": 3,
-      "clock": "13:41 - 2nd"
+      "done": true,
+      "live": false,
+      "leaders": [
+        [
+          "PASS",
+          "J. Goff (DET)",
+          "25/36, 313 YDS, 1 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Gibbs (DET)",
+          "21 CAR, 205 YDS, 3 TD"
+        ],
+        [
+          "REC",
+          "A. St. Brown (DET)",
+          "7 REC, 146 YDS"
+        ],
+        [
+          "PASS",
+          "C. Williams (CHI)",
+          "30/44, 345 YDS, 2 TD"
+        ],
+        [
+          "RUSH",
+          "D. Swift (CHI)",
+          "9 CAR, 65 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "D. Swift (CHI)",
+          "7 REC, 97 YDS"
+        ]
+      ],
+      "as": 39,
+      "hs": 35
     },
     {
-      "when": "Thu 11/26 · 4:30 PM ET",
+      "when": "Thu 11/26 · Final",
       "away": "PHI",
       "home": "DAL",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "D. Prescott (DAL)",
+          "19/28, 291 YDS, 2 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "J. Williams (DAL)",
+          "29 CAR, 101 YDS, 2 TD"
+        ],
+        [
+          "REC",
+          "C. Lamb (DAL)",
+          "7 REC, 134 YDS"
+        ],
+        [
+          "PASS",
+          "J. Milton (PHI)",
+          "21/31, 331 YDS, 3 TD, 1 INT"
+        ],
+        [
+          "RUSH",
+          "W. Shipley (PHI)",
+          "10 CAR, 46 YDS"
+        ],
+        [
+          "REC",
+          "D. Smith (PHI)",
+          "11 REC, 200 YDS, 2 TD"
+        ]
+      ],
+      "as": 39,
+      "hs": 38
     },
     {
-      "when": "Thu 11/26 · 8:20 PM ET",
+      "when": "Thu 11/26 · Final",
       "away": "KC",
       "home": "BUF",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "J. Allen (BUF)",
+          "10/21, 81 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "J. Cook III (BUF)",
+          "32 CAR, 117 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "K. Shakir (BUF)",
+          "3 REC, 33 YDS"
+        ],
+        [
+          "PASS",
+          "P. Mahomes (KC)",
+          "16/29, 174 YDS"
+        ],
+        [
+          "RUSH",
+          "E. Johnson (KC)",
+          "17 CAR, 72 YDS, 1 TD"
+        ],
+        [
+          "REC",
+          "T. Kelce (KC)",
+          "4 REC, 71 YDS"
+        ]
+      ],
+      "as": 10,
+      "hs": 13
     },
     {
       "when": "Fri 11/27 · 3:00 PM ET",
