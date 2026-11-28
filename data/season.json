@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "week": 12,
-  "updated": "Fri, 11/27, 1:33 PM ET",
+  "updated": "Sat, 11/28, 12:14 PM ET",
   "entries": [
     {
       "name": "Adrian",
@@ -111,11 +111,11 @@
     "PIT": {
       "name": "Pittsburgh Steelers",
       "conf": "AFC",
-      "w": 6,
+      "w": 7,
       "l": 4,
       "t": 0,
-      "pf": 214,
-      "pa": 201,
+      "pf": 241,
+      "pa": 206,
       "color": "#ffb612"
     },
     "DAL": {
@@ -152,10 +152,10 @@
       "name": "Denver Broncos",
       "conf": "NFC",
       "w": 8,
-      "l": 2,
+      "l": 3,
       "t": 0,
-      "pf": 236,
-      "pa": 210,
+      "pf": 241,
+      "pa": 237,
       "color": "#fb4f14"
     },
     "DET": {
@@ -430,7 +430,7 @@
       "",
       "L",
       "L",
-      ""
+      "W"
     ],
     "ATL": [
       "L",
@@ -696,7 +696,7 @@
       "W",
       "",
       "W",
-      ""
+      "L"
     ]
   },
   "games": [
@@ -865,12 +865,45 @@
       "hs": 13
     },
     {
-      "when": "Fri 11/27 · 3:00 PM ET",
+      "when": "Fri 11/27 · Final",
       "away": "DEN",
       "home": "PIT",
-      "done": false,
+      "done": true,
       "live": false,
-      "leaders": []
+      "leaders": [
+        [
+          "PASS",
+          "M. Rudolph (PIT)",
+          "9/15, 142 YDS, 1 TD"
+        ],
+        [
+          "RUSH",
+          "R. Dowdle (PIT)",
+          "11 CAR, 71 YDS"
+        ],
+        [
+          "REC",
+          "G. Bernard (PIT)",
+          "1 REC, 58 YDS"
+        ],
+        [
+          "PASS",
+          "B. Nix (DEN)",
+          "22/40, 169 YDS, 2 INT"
+        ],
+        [
+          "RUSH",
+          "C. Schrader (DEN)",
+          "7 CAR, 27 YDS"
+        ],
+        [
+          "REC",
+          "J. Waddle (DEN)",
+          "5 REC, 53 YDS"
+        ]
+      ],
+      "as": 5,
+      "hs": 27
     },
     {
       "when": "Sun 11/29 · 1:00 PM ET",
